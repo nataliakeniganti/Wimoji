@@ -1,0 +1,6 @@
+{
+  "name": "Wimoji — Open Vector Emoji & Icon Library",
+  "description": "Explore, customize, and bulk export the Wimoji SVG emoji vendor library with real-time color styling, stroke tuning, code copy, and ZIP packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
