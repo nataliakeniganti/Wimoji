@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="fallen-leaf">
-<g>
-        <!-- Lower Leaf -->
-        <path d="M6 26c8-2 14-8 18-15-4 5-9 10-16 12z" fill="#B45309" stroke="#78350F" stroke-width="1" />
-        <!-- Upper Leaf -->
-        <path d="M11 20c6-3 12-8 16-15-3 5-8 10-14 12z" fill="#D97706" stroke="#78350F" stroke-width="1" />
-        <path d="M13 18l10-10" stroke="#FDE68A" stroke-width="1" opacity="0.6" stroke-linecap="round" />
-      </g>
-</svg>

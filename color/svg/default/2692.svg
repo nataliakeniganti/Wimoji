@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hammer-and-pick">
-<g>
-        <path d="M6 26l18-18" stroke="#92400E" stroke-width="3" stroke-linecap="round" />
-        <path d="M26 26L8 8" stroke="#92400E" stroke-width="3" stroke-linecap="round" />
-        <path d="M6 10c4-4 8-3 10 0l-2 2c-2-2-4-2-6 0z" fill="#94A3B8" />
-        <rect x="20" y="5" width="4" height="6" rx="1" transform="rotate(45 22 8)" fill="#94A3B8" />
-      </g>
-</svg>

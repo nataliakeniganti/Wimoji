@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="jellyfish">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M10.4 16 C9.4 20.4 11.4 23.6 9.8 27 M14.2 16.2 C13.4 20.8 15 24 14 27.6 M18.2 16.2 C19 20.6 17.4 24 18.4 27.6 M22 16 C23 20.4 21 23.6 22.4 27" fill="none" stroke="#F472B6" stroke-width="1.8" />
-        <path d="M6.4 15 C6.4 8.6 10.6 5 16 5 C21.4 5 25.6 8.6 25.6 15 C22.4 16.6 9.6 16.6 6.4 15 Z" fill="#EC4899" stroke="#831843" stroke-width="1.1" />
-        <circle cx="12.6" cy="10.4" r="1.4" fill="#FBCFE8" opacity="0.8" />
-        <circle cx="19" cy="11.2" r="1" fill="#FBCFE8" opacity="0.8" />
-      </g>
-</svg>

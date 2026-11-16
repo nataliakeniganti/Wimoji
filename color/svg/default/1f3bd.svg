@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="running-shirt">
-<g>
-        <!-- Blue Sleeveless Running Singlet Shirt -->
-        <path d="M9 5l3 2.5c2.5-1.2 5.5-1.2 8 0l3-2.5 3.5 5.5-4 4.5V28H9.5V15L5.5 10.5z" fill="#3B82F6" stroke="#1E40AF" stroke-width="1.2" />
-        <!-- Red Diagonal Ekiden Relay Sash -->
-        <polygon points="12,7 15,6 23,28 20,28" fill="#EF4444" />
-      </g>
-</svg>

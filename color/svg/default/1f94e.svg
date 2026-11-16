@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="softball">
-<g>
-        <circle cx="16" cy="16" r="12.5" fill="#D4E157" stroke="#9E9D24" stroke-width="1" />
-        <path d="M9 5c4 4 4 18 0 22" stroke="#EF4444" stroke-width="2" stroke-dasharray="2 2" fill="none" />
-        <path d="M23 5c-4 4-4 18 0 22" stroke="#EF4444" stroke-width="2" stroke-dasharray="2 2" fill="none" />
-      </g>
-</svg>

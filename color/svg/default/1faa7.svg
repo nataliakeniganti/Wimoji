@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="placard">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M16 19 V28" stroke="#78350F" stroke-width="3.2" />
-        <path d="M16 19 V28" stroke="#B45309" stroke-width="1.8" />
-        <rect x="6" y="5" width="20" height="14" rx="1.5" fill="#F8FAFC" stroke="#334155" stroke-width="1.2" />
-        <path d="M9.6 10 H22.4 M9.6 14 H18.4" stroke="#64748B" stroke-width="1.6" />
-      </g>
-</svg>

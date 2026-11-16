@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="black-cross-on-shield">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M16 4l9 3.5v7.5c0 6.5-4.5 11-9 13-4.5-2-9-6.5-9-13V7.5L16 4z" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.5" />
-        <path d="M14 9.5h4v3.5h3.5v4H18v3.5h-4v-3.5h-3.5v-4H14z" fill="#EF4444" stroke="#0F172A" stroke-width="1" />
-      </g>
-</svg>

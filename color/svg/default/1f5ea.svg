@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="two-speech-bubbles">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Back Bubble (Blue) -->
-        <path d="M13 5h12a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-3l-4 4v-4h-5a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="1" />
-        <!-- Front Bubble (Light/Secondary) -->
-        <path d="M4 11h13a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-2l-4 3v-3H4a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3z" fill="#E2E8F0" stroke="#1D4ED8" stroke-width="1" />
-      </g>
-</svg>

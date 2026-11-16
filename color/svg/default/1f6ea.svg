@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="northeast-pointing-airplane">
-<g stroke-linecap="round" stroke-linejoin="round" transform="rotate(45 16 16)">
-        <path d="M16 2.5c-1.5 0-2.5 2-2.5 5.5v7l-10.5 4v2.5l10.5-2.5v5.5l-3 2v1.5l5.5-1 5.5 1V27l-3-2V19l10.5 2.5v-2.5l-10.5-4V8c0-3.5-1-5.5-2.5-5.5z" fill="#F8FAFC" stroke="#0369A1" stroke-width="1" />
-        <ellipse cx="16" cy="6" rx="1.8" ry="1.2" fill="#0284C7" />
-        <rect x="8" y="16.5" width="2" height="3" rx="0.8" fill="#0284C7" stroke="#0369A1" stroke-width="0.6" />
-        <rect x="22" y="16.5" width="2" height="3" rx="0.8" fill="#0284C7" stroke="#0369A1" stroke-width="0.6" />
-      </g>
-</svg>

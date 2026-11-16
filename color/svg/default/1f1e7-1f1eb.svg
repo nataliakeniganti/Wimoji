@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-burkina-faso">
-<defs><clipPath id="wimoji-flag-bf-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
-      <g clip-path="url(#wimoji-flag-bf-clip)">
-        <rect x="2" y="6" width="28" height="10" fill="#EF2B2D" />
-        <rect x="2" y="16" width="28" height="10" fill="#009E49" />
-        <polygon points="16.00,12.70 16.79,14.91 19.14,14.98 17.28,16.42 17.94,18.67 16.00,17.35 14.06,18.67 14.72,16.42 12.86,14.98 15.21,14.91" fill="#FCD116" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
-</svg>

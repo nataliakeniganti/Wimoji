@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="running-shoe">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M4 17 C4 13 8 13 12 14 L16 11 L20 14 C24 14 27 16 28 18 C28 20 27 21 25 21 H4 Z" fill="#0284C7" stroke="#0369A1" stroke-width="0.8" />
-        <rect x="3" y="21" width="24" height="3.5" rx="1" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.6" />
-        <path d="M12 16 L17 19" stroke="#FFFFFF" stroke-width="1.2" />
-        <path d="M14 14 L19 17" stroke="#FFFFFF" stroke-width="1.2" />
-      </g>
-</svg>

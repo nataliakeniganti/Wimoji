@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-in-hole">
-<g>
-        <ellipse cx="14" cy="26" rx="8" ry="3" fill="#10B981" />
-        <ellipse cx="14" cy="26" rx="3.5" ry="1.5" fill="#0F172A" />
-        <path d="M14 26V5" stroke="#1E293B" stroke-width="2.5" stroke-linecap="round" />
-        <path d="M14 5l10 4-10 4z" fill="#EF4444" />
-      </g>
-</svg>

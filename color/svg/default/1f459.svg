@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bikini">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <line x1="8" y1="7" x2="24" y2="7" stroke="#BE123C" stroke-width="0.8" />
-        <polygon points="8,7 13,14 6,14" fill="#F43F5E" stroke="#BE123C" stroke-width="0.8" />
-        <polygon points="24,7 26,14 19,14" fill="#F43F5E" stroke="#BE123C" stroke-width="0.8" />
-        <line x1="13" y1="13" x2="19" y2="13" stroke="#BE123C" stroke-width="1" />
-        <path d="M8 20 H24 L18 26 H14 Z" fill="#F43F5E" stroke="#BE123C" stroke-width="0.8" />
-      </g>
-</svg>

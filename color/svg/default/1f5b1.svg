@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="computer-mouse">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <rect x="9" y="5" width="14" height="22" rx="7" fill="#64748B" stroke="#1E293B" stroke-width="1.2" />
-        <line x1="9" y1="13.5" x2="23" y2="13.5" stroke="#1E293B" stroke-width="1" />
-        <line x1="16" y1="5" x2="16" y2="13.5" stroke="#1E293B" stroke-width="1" />
-        <!-- Scroll Wheel -->
-        <rect x="15" y="8" width="2" height="4" rx="1" fill="#38BDF8" />
-      </g>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="man-curly-hair-dark">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M6.299999999999999 18.2 A1.5 2.2 0 1 0 9.299999999999999 18.2 A1.5 2.2 0 1 0 6.299999999999999 18.2 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M22.7 18.2 A1.5 2.2 0 1 0 25.7 18.2 A1.5 2.2 0 1 0 22.7 18.2 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M7.199999999999999 17.2 A8.8 9.4 0 1 0 24.8 17.2 A8.8 9.4 0 1 0 7.199999999999999 17.2 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M7.4 16 C6 14.4 5.6 12.4 6.4 10.6 C7.2 8.6 8.8 7.4 10.8 6.8 C11.6 5 13.4 3.8 15.6 3.6 C17.4 3.4 19.2 4.2 20.4 5.4 C22 4.8 23.8 5.8 24.8 7.2 C25.8 8.8 26 11 25.2 12.8 C25.6 14.4 25 15.6 24.4 16.4 C23.2 13.8 20.8 11.8 18.4 10.4 C16.6 12.2 15 12.4 13.8 11.4 C12.2 12.8 9.6 14.4 7.4 16 Z" fill="#271C19" stroke="none" stroke-width="0.9" />
-        <path d="M10.8 14.6 L14.6 14.2 M17.4 14.2 L21.2 14.6" fill="none" stroke="#37474F" stroke-width="1.4" /><circle cx="12.8" cy="17.6" r="1.1" fill="#37474F" stroke="none" /><circle cx="19.2" cy="17.6" r="1.1" fill="#37474F" stroke="none" /><path d="M13.6 23 C14.8 24.4 17.2 24.4 18.4 23" fill="none" stroke="#37474F" stroke-width="1.3" /><path d="M10.8 7.8 C12.2 6.6 14 7.4 13.8 9 M16.8 7.4 C18.2 6.2 20 7 19.8 8.6 M21.4 11 C22.6 10.4 23.6 11.2 23.2 12.4" fill="none" stroke="#5D4037" stroke-width="1.1" stroke-linecap="round" />
-      </g>
-</svg>

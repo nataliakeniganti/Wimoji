@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="scorpio">
-<rect x="4" y="4" width="24" height="24" rx="6" fill="#8B5CF6" /><g stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
-        <path d="M8 9v13" />
-        <path d="M8 12c1.5-3 5-3 5 0v10" />
-        <path d="M13 12c1.5-3 5-3 5 0v10c0 2 2 3 4 3" />
-        <path d="M21 21l3 3-2 1" />
-      </g>
-</svg>

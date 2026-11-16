@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="plunger">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M16 4.6 V18.6" stroke="#78350F" stroke-width="3.2" />
-        <path d="M16 4.6 V18.6" stroke="#D97706" stroke-width="1.8" />
-        <path d="M10.2 23 C10.2 19.6 12.6 18 16 18 C19.4 18 21.8 19.6 21.8 23 L23.4 26.8 H8.6 Z" fill="#DC2626" stroke="#7F1D1D" stroke-width="1.1" />
-        <path d="M8.6 26.8 H23.4" stroke="#7F1D1D" stroke-width="1.8" />
-      </g>
-</svg>

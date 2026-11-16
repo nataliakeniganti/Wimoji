@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-liberia">
-<defs><clipPath id="wimoji-flag-lr-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
-      <g clip-path="url(#wimoji-flag-lr-clip)">
-        <rect x="2" y="6.00" width="28" height="1.92" fill="#BF0A30" /><rect x="2" y="7.82" width="28" height="1.92" fill="#FFFFFF" /><rect x="2" y="9.64" width="28" height="1.92" fill="#BF0A30" /><rect x="2" y="11.45" width="28" height="1.92" fill="#FFFFFF" /><rect x="2" y="13.27" width="28" height="1.92" fill="#BF0A30" /><rect x="2" y="15.09" width="28" height="1.92" fill="#FFFFFF" /><rect x="2" y="16.91" width="28" height="1.92" fill="#BF0A30" /><rect x="2" y="18.73" width="28" height="1.92" fill="#FFFFFF" /><rect x="2" y="20.55" width="28" height="1.92" fill="#BF0A30" /><rect x="2" y="22.36" width="28" height="1.92" fill="#FFFFFF" /><rect x="2" y="24.18" width="28" height="1.92" fill="#BF0A30" />
-        <rect x="2" y="6" width="10.5" height="9.09" fill="#002868" />
-        <polygon points="7.25,8.05 7.87,9.70 9.63,9.77 8.25,10.87 8.72,12.57 7.25,11.60 5.78,12.57 6.25,10.87 4.87,9.77 6.63,9.70" fill="#FFFFFF" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
-</svg>

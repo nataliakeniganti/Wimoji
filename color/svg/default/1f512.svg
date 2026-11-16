@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="locked">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M10 13V8a6 6 0 0 1 12 0v5" fill="none" stroke="#94A3B8" stroke-width="3" />
-        <rect x="6" y="13" width="20" height="15" rx="3" fill="#F59E0B" stroke="#0F172A" stroke-width="1.2" />
-        <circle cx="16" cy="19.5" r="1.8" fill="#0F172A" />
-        <line x1="16" y1="20.5" x2="16" y2="24" stroke="#0F172A" stroke-width="1.5" />
-      </g>
-</svg>

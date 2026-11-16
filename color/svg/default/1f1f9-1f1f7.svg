@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-turkey">
-<g>
-        <rect x="2" y="6" width="28" height="20" rx="3" fill="#E30A17" />
-        <path d="M15.3 11.2 A4.8 4.8 0 1 0 15.3 20.8 A3.8 3.8 0 1 1 15.3 11.2 Z" fill="#FFFFFF" />
-        <polygon points="19.60,13.70 20.16,15.23 21.79,15.29 20.50,16.29 20.95,17.86 19.60,16.95 18.25,17.86 18.70,16.29 17.41,15.29 19.04,15.23" fill="#FFFFFF" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="squared-saltire">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <rect x="4.5" y="4.5" width="23" height="23" rx="3.5" fill="#EF4444" stroke="#DC2626" stroke-width="1.2" />
-        <line x1="9.5" y1="9.5" x2="22.5" y2="22.5" stroke="#FFFFFF" stroke-width="3" />
-        <line x1="22.5" y1="9.5" x2="9.5" y2="22.5" stroke="#FFFFFF" stroke-width="3" />
-      </g>
-</svg>

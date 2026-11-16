@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="leftwards-hand-medium-light">
-<g transform="scale(-1, 1) translate(-32, 0)" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M3.5 13.6 L8.6 12.2 L13.4 8.2 A1.45 1.45 0 0 1 15.5 10.2 L13.2 12.8 H27.0 A1.4 1.4 0 0 1 27.0 15.6 H28.0 A1.4 1.4 0 0 1 28.0 18.4 H26.6 A1.35 1.35 0 0 1 26.6 21.1 H24.2 A1.3 1.3 0 0 1 24.2 23.7 H13.0 C9.2 23.7 6.4 22.3 3.5 21.2 Z" fill="#F3D2A2" stroke="#8C6239" stroke-width="2" />
-        
-        <path d="M18.8 15.6 H26.8 M19.0 18.4 H27.6 M18.4 21.1 H26.2" fill="none" stroke="#8C6239" stroke-width="1.44" />
-        <path d="M13.2 12.8 C12.2 15.2 12.6 18.0 14.6 20.0" fill="none" stroke="#8C6239" stroke-width="1.44" />
-      </g>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="rice-ball">
-<g>
-        <!-- Steamed White Rice Triangle -->
-        <path d="M16 4c-3 0-11 13-11 19 0 3 4 5 11 5s11-2 11-5c0-6-8-19-11-19z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2" />
-        <!-- Nori Seaweed Wrap Base -->
-        <path d="M11 20h10v7.5c0 .5-.5 1-1 1h-8c-.5 0-1-.5-1-1V20z" fill="#1E293B" stroke="#0F172A" stroke-width="0.8" />
-      </g>
-</svg>

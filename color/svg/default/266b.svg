@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="beamed-eighth-notes">
-<g stroke="#0F172A" stroke-linecap="round" stroke-linejoin="round">
-        <ellipse cx="9" cy="22" rx="4" ry="3" transform="rotate(-20 9 22)" fill="#0F172A" stroke="#0F172A" stroke-width="2" />
-        <ellipse cx="22" cy="18" rx="4" ry="3" transform="rotate(-20 22 18)" fill="#0F172A" stroke="#0F172A" stroke-width="2" />
-        <line x1="12" y1="21" x2="12" y2="7" stroke="#0F172A" stroke-width="2.2" />
-        <line x1="25" y1="17" x2="25" y2="4" stroke="#0F172A" stroke-width="2.2" />
-        <line x1="12" y1="7" x2="25" y2="4" stroke="#0F172A" stroke-width="3.5" />
-      </g>
-</svg>

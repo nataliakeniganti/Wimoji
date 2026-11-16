@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="small-orange-diamond">
-<g stroke-linejoin="round">
-        <polygon points="16,7 7,16 16,25" fill="#FBBF24" />
-        <polygon points="16,7 25,16 16,25" fill="#EA580C" />
-        <polygon points="16,10 22,16 16,22 10,16" fill="#FDE68A" opacity="0.4" />
-      </g>
-</svg>

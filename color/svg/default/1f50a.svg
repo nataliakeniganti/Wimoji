@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="speaker-high-volume">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <polygon points="4,12 9,12 15,7 15,25 9,20 4,20" fill="#64748B" stroke="#0F172A" stroke-width="1.2" />
-        <path d="M19 12a5 5 0 0 1 0 8" fill="none" stroke="#3B82F6" stroke-width="2" />
-        <path d="M22.5 9a9 9 0 0 1 0 14" fill="none" stroke="#3B82F6" stroke-width="2" />
-      </g>
-</svg>

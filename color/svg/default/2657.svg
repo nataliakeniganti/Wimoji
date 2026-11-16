@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="white-chess-bishop">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="16" cy="6" r="1.5" fill="#FFFFFF" stroke="#0F172A" stroke-width="1" />
-        <path d="M12 23c-2-7 0-14 4-14s6 7 4 14H12z" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
-        <line x1="14" y1="12" x2="19" y2="15" stroke="#0F172A" stroke-width="1.2" />
-        <rect x="8" y="24" width="16" height="3.5" rx="1" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
-      </g>
-</svg>
