@@ -18,6 +18,19 @@ const allTones = SKIN_TONE_DEFS.map((tone) => tone.id);
 const outputPaths = new Set<string>();
 let generatedCount = 0;
 
+function getUnicodeHexFilename(icon: WimojiIconDef): string {
+  const codePoints = [...icon.unicodeHex.matchAll(/U\+([\da-f]{1,6})/gi)].map(
+    (match) => match[1]!.toLowerCase().padStart(4, '0')
+  );
+  const remaining = icon.unicodeHex.replace(/U\+[\da-f]{1,6}/gi, '').trim();
+
+  if (codePoints.length === 0 || remaining) {
+    throw new Error(`Invalid Unicode code points for icon "${icon.id}": ${icon.unicodeHex}`);
+  }
+
+  return `${codePoints.join('-')}.svg`;
+}
+
 function makeSvgXmlWellFormed(svg: string): string {
   const escaped = svg.replace(
     /&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[\da-fA-F]+);)/g,
@@ -46,9 +59,6 @@ async function writeIconSvg(
   skinTone: WimojiSkinTone,
   rightSkinTone?: WimojiSkinTone
 ): Promise<void> {
-  if (!/^[a-z0-9-]+$/.test(icon.id)) {
-    throw new Error(`Icon id cannot be used as an SVG filename: ${icon.id}`);
-  }
   if (outputPaths.has(relativePath)) {
     throw new Error(`Duplicate generated SVG path: ${relativePath}`);
   }
@@ -73,12 +83,13 @@ async function writeIconSvg(
 await mkdir(outputRoot, { recursive: true });
 
 for (const icon of ALL_WIMOJI_ICONS) {
-  await writeIconSvg(icon, `default/${icon.id}.svg`, 'default');
+  const filename = getUnicodeHexFilename(icon);
+  await writeIconSvg(icon, `default/${filename}`, 'default');
 
   if (!isSkinnableIcon(icon)) continue;
 
   for (const tone of tones) {
-    await writeIconSvg(icon, `skin-tones/${tone.id}/${icon.id}.svg`, tone.id);
+    await writeIconSvg(icon, `skin-tones/${tone.id}/${filename}`, tone.id);
   }
 
   if (!getSkinnableInfo(icon)?.isMultiTone) continue;
@@ -88,7 +99,7 @@ for (const icon of ALL_WIMOJI_ICONS) {
       if (leftTone === rightTone) continue;
       await writeIconSvg(
         icon,
-        `multi-skin-tones/${leftTone}-${rightTone}/${icon.id}.svg`,
+        `multi-skin-tones/${leftTone}-${rightTone}/${filename}`,
         leftTone,
         rightTone
       );
