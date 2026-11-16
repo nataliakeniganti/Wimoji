@@ -12,7 +12,7 @@ import {
 import type { WimojiIconDef, WimojiSkinTone } from '../src/types/wimoji';
 
 const projectRoot = join(dirname(fileURLToPath(import.meta.url)), '..');
-const outputRoot = join(projectRoot, 'generated-svgs');
+const outputRoot = join(projectRoot, 'color/svg');
 const sequenceFiles = [
   join(outputRoot, 'unicode/emoji-sequences.txt'),
   join(outputRoot, 'unicode/emoji-zwj-sequences.txt'),

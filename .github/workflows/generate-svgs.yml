@@ -33,21 +33,13 @@ jobs:
 
       - name: Download Unicode 18.0.0 emoji sequences
         run: |
-          mkdir -p generated-svgs/unicode
+          mkdir -p color/svg/unicode
           curl --fail --location --retry 3 \
             https://unicode.org/Public/18.0.0/emoji/emoji-sequences.txt \
-            --output generated-svgs/unicode/emoji-sequences.txt
+            --output color/svg/unicode/emoji-sequences.txt
           curl --fail --location --retry 3 \
             https://unicode.org/Public/18.0.0/emoji/emoji-zwj-sequences.txt \
-            --output generated-svgs/unicode/emoji-zwj-sequences.txt
+            --output color/svg/unicode/emoji-zwj-sequences.txt
 
       - name: Generate SVGs
         run: bun run generate:svgs
-
-      - name: Upload SVGs
-        uses: actions/upload-artifact@v4
-        with:
-          name: wimoji-svgs
-          path: generated-svgs/
-          if-no-files-found: error
-          retention-days: 30
