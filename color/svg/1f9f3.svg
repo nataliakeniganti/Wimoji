@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="luggage">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12.5 9.5 V5 C12.5 4.2 13.1 3.6 13.9 3.6 H18.1 C18.9 3.6 19.5 4.2 19.5 5 V9.5" fill="none" stroke="#64748B" stroke-width="2" />
+        <path d="M12 3.6 H20" stroke="#334155" stroke-width="2.4" />
+        <circle cx="11" cy="28" r="1.5" fill="#334155" stroke="#0F172A" stroke-width="0.9" />
+        <circle cx="21" cy="28" r="1.5" fill="#334155" stroke="#0F172A" stroke-width="0.9" />
+        <rect x="8" y="9.5" width="16" height="17" rx="2.4" fill="#0284C7" stroke="#0F172A" stroke-width="1.2" />
+        <path d="M12 12.6 V23.4 M16 12.6 V23.4 M20 12.6 V23.4" stroke="#38BDF8" stroke-width="1.5" />
+        <rect x="18.2" y="10.8" width="3" height="4.2" rx="0.5" fill="#F59E0B" stroke="#0F172A" stroke-width="0.7" />
+      </g>
+</svg>

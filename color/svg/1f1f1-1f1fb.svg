@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-latvia">
+<defs><clipPath id="wimoji-flag-lv-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-lv-clip)">
+        <rect x="2" y="6" width="28" height="8" fill="#9E3039" />
+        <rect x="2" y="14" width="28" height="4" fill="#FFFFFF" />
+        <rect x="2" y="18" width="28" height="8" fill="#9E3039" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="raccoon">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Ears -->
+        <path d="M6.8 12.6 L6.2 5.4 L12 8.6 Z M25.2 12.6 L25.8 5.4 L20 8.6 Z" fill="#94A3B8" stroke="#334155" stroke-width="1.1" />
+        <!-- Round Fluffy Head -->
+        <path d="M16 7.4 C22.4 7.4 27.6 11.8 27.6 17.4 C27.6 22.8 22.2 26.6 16 26.6 C9.8 26.6 4.4 22.8 4.4 17.4 C4.4 11.8 9.6 7.4 16 7.4 Z" fill="#94A3B8" stroke="#334155" stroke-width="1.1" />
+        <!-- Bandit Eye Mask -->
+        <path d="M6.2 15.4 C7.8 12.8 12.6 13 14.4 15.8 C13.4 19 9.2 19.6 6.4 17.6 Z" fill="#1E293B" />
+        <path d="M25.8 15.4 C24.2 12.8 19.4 13 17.6 15.8 C18.6 19 22.8 19.6 25.6 17.6 Z" fill="#1E293B" />
+        <!-- White Muzzle &amp; Nose -->
+        <ellipse cx="16" cy="21.6" rx="4.8" ry="3.4" fill="#F8FAFC" stroke="none" />
+        <ellipse cx="16" cy="20.6" rx="2" ry="1.4" fill="#0F172A" />
+        <path d="M14.4 23 C15.2 23.6 16.8 23.6 17.6 23" fill="none" stroke="#0F172A" stroke-width="0.9" />
+        <!-- Bright Eyes inside mask -->
+        <circle cx="11" cy="15.8" r="1.2" fill="#FFFFFF" />
+        <circle cx="11" cy="15.8" r="0.65" fill="#0F172A" />
+        <circle cx="21" cy="15.8" r="1.2" fill="#FFFFFF" />
+        <circle cx="21" cy="15.8" r="0.65" fill="#0F172A" />
+        <circle cx="11.3" cy="15.4" r="0.3" fill="#FFFFFF" />
+        <circle cx="21.3" cy="15.4" r="0.3" fill="#FFFFFF" />
+      </g>
+</svg>

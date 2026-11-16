@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="glowing-star">
+<g>
+        <!-- Glow halo bursts -->
+        <path d="M16 2v3M16 27v3M2 16h3M27 16h3M6 6l2 2M24 24l2 2M6 26l2-2M24 6l2 2" stroke="#F59E0B" stroke-width="1.8" stroke-linecap="round" opacity="0.7" />
+        <!-- Central star -->
+        <polygon points="16,6 18.8,12.5 25.5,13.5 20.5,18.5 21.8,25.5 16,22 10.2,25.5 11.5,18.5 6.5,13.5 13.2,12.5" fill="#F59E0B" stroke="#D97706" stroke-width="0" />
+      </g>
+</svg>

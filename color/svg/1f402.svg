@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ox">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Tail -->
+        <path d="M27 11.5 C29.5 13 29.5 17 28.6 20.5" fill="none" stroke="#7C2D12" stroke-width="3.6" /><path d="M27 11.5 C29.5 13 29.5 17 28.6 20.5" fill="none" stroke="#9A3412" stroke-width="1.4" />
+        <ellipse cx="28.6" cy="21.6" rx="1.2" ry="1.9" fill="#431407" stroke="#7C2D12" stroke-width="1.1" />
+        <!-- Legs -->
+        <rect x="9" y="17" width="2.8" height="10.5" rx="1" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" /><rect x="9" y="25.3" width="2.8" height="2.2" rx="0.9" fill="#431407" stroke="#7C2D12" stroke-width="1.1" /><rect x="12" y="17" width="2.8" height="10.5" rx="1" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" /><rect x="12" y="25.3" width="2.8" height="2.2" rx="0.9" fill="#431407" stroke="#7C2D12" stroke-width="1.1" /><rect x="20.5" y="17" width="2.8" height="10.5" rx="1" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" /><rect x="20.5" y="25.3" width="2.8" height="2.2" rx="0.9" fill="#431407" stroke="#7C2D12" stroke-width="1.1" /><rect x="23.5" y="17" width="2.8" height="10.5" rx="1" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" /><rect x="23.5" y="25.3" width="2.8" height="2.2" rx="0.9" fill="#431407" stroke="#7C2D12" stroke-width="1.1" />
+        
+        <ellipse cx="13.5" cy="10" rx="4.6" ry="3.4" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" />
+        <!-- Body -->
+        <path d="M8.5 12 C8.5 10 11 9.5 15 9.5 H22 C25.5 9.5 27.2 11.5 27.2 15 C27.2 18.8 25.5 21 22 21 H13 C10 21 8.5 18.5 8.5 12 Z" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" />
+        
+        <!-- Horn -->
+        <path d="M8.2 10.2 C5.8 9.6 4.4 7.4 5 4.6" fill="none" stroke="#FDE68A" stroke-width="1.9" />
+        <!-- Head -->
+        <path d="M10.5 9.8 C8.5 9 6.5 9.5 5.3 11 L3 15.6 C2.4 17.4 3.2 19.4 5.2 19.8 C6.8 20.1 8.2 19.5 9.2 18 L11.5 13.5 Z" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" />
+        
+        <!-- Ear -->
+        <ellipse cx="9.6" cy="10.8" rx="2.3" ry="1.1" transform="rotate(25 9.6 10.8)" fill="#9A3412" stroke="#7C2D12" stroke-width="1.1" />
+        <!-- Muzzle -->
+        <ellipse cx="4.7" cy="18.3" rx="2" ry="1.5" fill="#FDBA74" stroke="#7C2D12" stroke-width="1.1" />
+        <circle cx="4.1" cy="18.4" r="0.45" fill="#0F172A" />
+        <circle cx="6.5" cy="13.2" r="0.85" fill="#0F172A" />
+      </g>
+</svg>

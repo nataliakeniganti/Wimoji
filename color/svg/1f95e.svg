@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pancakes">
+<g>
+        <!-- Serving Plate Base -->
+        <ellipse cx="16" cy="25" rx="12" ry="3.5" fill="#F1F5F9" stroke="#94A3B8" stroke-width="1" />
+        <!-- Bottom Pancake -->
+        <path d="M6.5 21 C6.5 23.5 10.5 24.5 16 24.5 C21.5 24.5 25.5 23.5 25.5 21 V19.5 C25.5 22 21.5 23 16 23 C10.5 23 6.5 22 6.5 19.5 Z" fill="#D97706" stroke="#78350F" stroke-width="1" />
+        <!-- Middle Pancake -->
+        <path d="M7 17 C7 19.5 11 20.5 16 20.5 C21 20.5 25 19.5 25 17 V15.5 C25 18 21 19 16 19 C11 19 7 18 7 15.5 Z" fill="#D97706" stroke="#78350F" stroke-width="1" />
+        <!-- Top Pancake Golden Fluffy Cake -->
+        <path d="M7 14 C7 16.5 11 17.5 16 17.5 C21 17.5 25 16.5 25 14 V13 C25 15.5 21 16.5 16 16.5 C11 16.5 7 15.5 7 13 Z" fill="#D97706" stroke="#78350F" stroke-width="1" />
+        <ellipse cx="16" cy="13.5" rx="9" ry="3.2" fill="#F59E0B" stroke="#78350F" stroke-width="1.1" />
+        <!-- Maple Syrup Drip Layer -->
+        <path d="M12 13.5 C12 17 13.5 17 14 15 C14.5 18 16 18 16.5 15 C17 19 19 18.5 19.5 15.5 C18 13.5 14 13 12 13.5 Z" fill="#B45309" opacity="0.85" />
+        <!-- Butter Pat On Top -->
+        <rect x="13.5" y="8" width="5.5" height="3.8" rx="0.9" transform="rotate(-10 16.2 9.9)" fill="#FDE047" stroke="#CA8A04" stroke-width="0.8" />
+        <!-- Butter Top Gleam -->
+        <ellipse cx="16" cy="9.5" rx="1.5" ry="0.8" fill="#FFFFFF" opacity="0.6" />
+      </g>
+</svg>

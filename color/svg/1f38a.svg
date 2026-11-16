@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="confetti-ball">
+<g>
+        <!-- Confetti Ribbons Streamers Falling -->
+        <path d="M11 20c-2 3-3 6-1 9" stroke="#EF4444" stroke-width="2" stroke-linecap="round" fill="none" />
+        <path d="M16 20c0 3 2 6 0 9" stroke="#22C55E" stroke-width="2" stroke-linecap="round" fill="none" />
+        <path d="M21 20c2 3 3 6 1 9" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" fill="none" />
+        <!-- Confetti flakes -->
+        <circle cx="9" cy="24" r="1.2" fill="#FBBF24" />
+        <circle cx="23" cy="25" r="1.2" fill="#EC4899" />
+        <!-- Golden Kusudama Ball Left Half -->
+        <path d="M14 6C8.5 6 5.5 10 5.5 15c0 2.5 2 4.5 4.5 4.5l4-13.5z" fill="#F59E0B" stroke="#B45309" stroke-width="1.2" />
+        <!-- Golden Kusudama Ball Right Half -->
+        <path d="M18 6c5.5 0 8.5 4 8.5 9 0 2.5-2 4.5-4.5 4.5L18 6z" fill="#F59E0B" stroke="#B45309" stroke-width="1.2" />
+        <!-- Hanging tassel string top -->
+        <line x1="16" y1="2" x2="16" y2="6" stroke="#DC2626" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+</svg>

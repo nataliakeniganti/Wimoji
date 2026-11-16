@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="orca">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Main sleek Orca silhouette -->
+        <path d="M4.2 17.4 C6.4 12.8 11.4 10.6 15.8 11 L15.4 5.2 C18.2 6.8 19.2 9.4 18.8 11.6 C22.8 12.6 25.4 16.2 26.2 21.4 L29.6 22.8 L27.6 24.4 L29 27 L24.6 25.4 C21.8 25 18.4 22.4 15.6 21.2 C11.4 21.8 6.4 20.6 4.2 17.4 Z" fill="#0F172A" stroke="#0F172A" stroke-width="1.1" />
+        <!-- Pectoral flipper -->
+        <path d="M12.6 19.8 C13 22.8 14.8 24.6 16.4 24.4 C16.6 22.4 15.2 20.6 14 19.4 Z" fill="#0F172A" stroke="#0F172A" stroke-width="1.1" />
+        <!-- Iconic white Orca belly patch &amp; eye patch -->
+        <path d="M6.2 18.2 C9.2 20.8 13.8 21.2 17.4 19.8 C19.8 19 22 20.6 23.8 22.4 C20.4 22.8 17.6 21.2 15.4 21 C11.4 21.6 7.8 20.4 6.2 18.2 Z" fill="#F8FAFC" stroke="none" />
+        <path d="M8.4 14.4 C9.6 13.6 11.6 13.8 12.2 14.8 C11.6 16 9.4 16.2 8.4 14.4 Z" fill="#F8FAFC" stroke="none" />
+        <circle cx="7.4" cy="15.8" r="0.65" fill="#FFFFFF" />
+      </g>
+</svg>

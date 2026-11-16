@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tamale">
+<g>
+        <!-- Golden Wrapped Corn Husk Body -->
+        <path d="M4 22L20 6c2-2 5-1 7 1l1 1c2 2 3 5 1 7L12 27c-2 2-5 1-7-1l-1-1c-2-2-2-2 0-3z" fill="#FEF08A" stroke="#B45309" stroke-width="1.2" />
+        <!-- Husk Ribbed Grain Lines -->
+        <line x1="7" y1="20" x2="21" y2="7" stroke="#D97706" stroke-width="1.2" stroke-linecap="round" opacity="0.6" />
+        <line x1="9" y1="23" x2="24" y2="9" stroke="#D97706" stroke-width="1.2" stroke-linecap="round" opacity="0.6" />
+        <line x1="6" y1="22" x2="18" y2="11" stroke="#D97706" stroke-width="1.2" stroke-linecap="round" opacity="0.6" />
+        <!-- Husk Tie Strings on Ends -->
+        <line x1="7" y1="19" x2="10" y2="23" stroke="#92400E" stroke-width="2" stroke-linecap="round" />
+        <line x1="21" y1="5" x2="25" y2="9" stroke="#92400E" stroke-width="2" stroke-linecap="round" />
+        <!-- Steamed Masa &amp; Savory Red Chili Filling -->
+        <ellipse cx="23.5" cy="8" rx="2.5" ry="3.5" transform="rotate(45 23.5 8)" fill="#F59E0B" stroke="#B45309" stroke-width="0.8" />
+        <circle cx="23.5" cy="8" r="1.5" fill="#DC2626" />
+      </g>
+</svg>

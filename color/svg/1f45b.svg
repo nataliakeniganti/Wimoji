@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="purse">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="14.5" cy="8" r="1.5" fill="#F59E0B" />
+        <circle cx="17.5" cy="8" r="1.5" fill="#F59E0B" />
+        <path d="M10 10 H22 L26 23 C26 25 24 26 21 26 H11 C8 26 6 25 6 23 Z" fill="#F43F5E" stroke="#BE123C" stroke-width="0.8" />
+        <rect x="9.5" y="9.5" width="13" height="2" rx="0.5" fill="#F59E0B" stroke="#D97706" stroke-width="0.6" />
+      </g>
+</svg>

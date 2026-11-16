@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sports-medal">
+<g>
+        <!-- V-shaped Ribbon (Red &amp; Blue Stripes) -->
+        <polygon points="8,4 16,15 13,15 6,4" fill="#EF4444" />
+        <polygon points="24,4 16,15 19,15 26,4" fill="#EF4444" />
+        <polygon points="10,4 16,14 13.5,14 8,4" fill="#3B82F6" />
+        <polygon points="22,4 16,14 18.5,14 24,4" fill="#3B82F6" />
+        <!-- Golden Medal Coin -->
+        <circle cx="16" cy="21" r="7.5" fill="#FBBF24" stroke="#B45309" stroke-width="1.2" />
+        <circle cx="16" cy="21" r="5.2" fill="#FDE047" stroke="#D97706" stroke-width="0.8" />
+        <!-- Embossed 1st Star/Olive wreath -->
+        <circle cx="16" cy="21" r="1.5" fill="#D97706" />
+      </g>
+</svg>

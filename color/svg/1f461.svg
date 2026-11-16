@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="womans-sandal">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <line x1="6" y1="21" x2="5" y2="26" stroke="#B45309" stroke-width="2" />
+        <path d="M5 16 C8 19 14 20 25 21 C26 22 25 24 22 24 H6 Z" fill="#F59E0B" stroke="#B45309" stroke-width="0.8" />
+        <path d="M10 17 C11 13 14 13 15 17" stroke="#EF4444" stroke-width="1.5" fill="none" />
+        <path d="M19 19 C20 16 23 16 24 20" stroke="#EF4444" stroke-width="1.5" fill="none" />
+      </g>
+</svg>

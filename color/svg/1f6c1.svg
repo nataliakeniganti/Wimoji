@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bathtub">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Chrome Shower Head &amp; Mixer Faucet -->
+        <path d="M6 15V7.5C6 5.5 7.5 4 9.5 4h2.5" stroke="#64748B" stroke-width="2" fill="none" />
+        <polygon points="12,4 14,7 16,5.5 14,2.5" fill="#475569" />
+        <!-- Clawfoot Legs -->
+        <path d="M8 26.5l-2.5 3.5h2" stroke="#475569" stroke-width="1.8" fill="none" />
+        <path d="M24 26.5l2.5 3.5h-2" stroke="#475569" stroke-width="1.8" fill="none" />
+        <!-- Bathtub Porcelain Basin -->
+        <path d="M3 15h26v4c0 5-4 8.5-9 8.5H12c-5 0-9-3.5-9-8.5v-4z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Water Fill Rim -->
+        <ellipse cx="16" cy="16.5" rx="10.5" ry="2" fill="#38BDF8" opacity="0.6" />
+      </g>
+</svg>

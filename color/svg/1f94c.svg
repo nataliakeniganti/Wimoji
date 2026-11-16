@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="curling-stone">
+<g>
+        <!-- Polished Granite Lower Hull -->
+        <path d="M6 17.5 C6 22 10.5 25.5 16 25.5 C21.5 25.5 26 22 26 17.5 Z" fill="#64748B" stroke="#334155" stroke-width="1.2" />
+        <!-- Running Ice Band Glaze Bevel -->
+        <path d="M8 23 C11 25 21 25 24 23" stroke="#CBD5E1" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.75" />
+        <!-- Granite Top Flat Surface -->
+        <ellipse cx="16" cy="17.5" rx="10" ry="3.5" fill="#94A3B8" stroke="#334155" stroke-width="1.2" />
+        <!-- Inner Inset Disc -->
+        <ellipse cx="16" cy="17.5" rx="7.5" ry="2.2" fill="#CBD5E1" stroke="#94A3B8" stroke-width="0.8" />
+        <!-- Red Gooseneck Plastic Handle -->
+        <path d="M12 17 V11 C12 9.5 13.2 8.5 15 8.5 H19 C20.5 8.5 21.5 9.5 21.5 11 V14" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M12 17 V11 C12 9.5 13.2 8.5 15 8.5 H19 C20.5 8.5 21.5 9.5 21.5 11 V14" stroke="#B91C1C" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <!-- Handle Ergonomic Grip -->
+        <rect x="13.5" y="7.5" width="7" height="3" rx="1.2" fill="#EF4444" stroke="#B91C1C" stroke-width="0.8" />
+        <!-- Handle Gleam -->
+        <line x1="14.5" y1="8.5" x2="19.5" y2="8.5" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" opacity="0.6" />
+      </g>
+</svg>

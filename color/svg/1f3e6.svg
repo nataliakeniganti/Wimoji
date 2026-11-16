@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bank">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="16,4 3.5,11 28.5,11" fill="#E2E8F0" stroke="#1E293B" stroke-width="1.2" />
+        <!-- Dollar Sign in Pediment -->
+        <g stroke="#10B981" stroke-width="1.4" fill="none">
+          <line x1="16" y1="6" x2="16" y2="9.5" />
+          <path d="M17.2 7h-1.8c-0.4 0-0.8 0.3-0.8 0.6s0.4 0.6 0.8 0.6h1.2c0.4 0 0.8 0.3 0.8 0.6s-0.4 0.6-0.8 0.6h-1.8" />
+        </g>
+        <rect x="4.5" y="11" width="23" height="2.5" fill="#94A3B8" stroke="#1E293B" stroke-width="0.8" />
+        <!-- Classical Columns -->
+        <rect x="7" y="13.5" width="2.5" height="10.5" fill="#E2E8F0" stroke="#94A3B8" stroke-width="0.8" />
+        <rect x="12" y="13.5" width="2.5" height="10.5" fill="#E2E8F0" stroke="#94A3B8" stroke-width="0.8" />
+        <rect x="17.5" y="13.5" width="2.5" height="10.5" fill="#E2E8F0" stroke="#94A3B8" stroke-width="0.8" />
+        <rect x="22.5" y="13.5" width="2.5" height="10.5" fill="#E2E8F0" stroke="#94A3B8" stroke-width="0.8" />
+        <!-- Stepped Base -->
+        <rect x="3" y="24" width="26" height="4" rx="0.5" fill="#E2E8F0" stroke="#1E293B" stroke-width="1" />
+      </g>
+</svg>

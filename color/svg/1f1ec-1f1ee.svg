@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-gibraltar">
+<defs><clipPath id="wimoji-flag-gi-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-gi-clip)">
+        <rect x="2" y="6" width="28" height="13.2" fill="#FFFFFF" />
+        <rect x="2" y="19.2" width="28" height="6.8" fill="#DA000C" />
+        <path d="M11.6 19.2 V14.0 H13.0 V12.6 H14.2 V14.0 H15.2 V11.4 H16.8 V14.0 H17.8 V12.6 H19.0 V14.0 H20.4 V19.2 Z" fill="#DA000C" stroke="#7F1D1D" stroke-width="0.45" />
+        <rect x="15.3" y="16.2" width="1.4" height="3.0" rx="0.6" fill="#111827" />
+        <!-- Hanging Golden Key -->
+        <line x1="16" y1="19.2" x2="16" y2="23.2" stroke="#FACC15" stroke-width="1.05" />
+        <circle cx="16" cy="23.4" r="0.95" fill="none" stroke="#FACC15" stroke-width="0.85" />
+        <line x1="16" y1="21.0" x2="17.2" y2="21.0" stroke="#FACC15" stroke-width="0.85" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

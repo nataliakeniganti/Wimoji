@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cross-pommee-with-half-circle-below">
+<g stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M7 23a9 9 0 0 0 18 0" stroke-width="2.5" />
+        <line x1="16" y1="23" x2="16" y2="7.5" />
+        <line x1="9" y1="13" x2="23" y2="13" />
+        <circle cx="16" cy="7" r="1.8" fill="#8B5CF6" />
+        <circle cx="8.5" cy="13" r="1.8" fill="#8B5CF6" />
+        <circle cx="23.5" cy="13" r="1.8" fill="#8B5CF6" />
+      </g>
+</svg>

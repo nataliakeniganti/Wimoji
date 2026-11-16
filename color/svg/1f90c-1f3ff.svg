@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pinched-fingers-dark">
+<g stroke="#1F110A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#5C3E2F">
+        <!-- Fingers bunched to a point -->
+        <path d="M20.099999999999998 20 C20.099999999999998 14 16.55 11 16.55 7.85 A1.25 1.25 0 0 1 19.05 7.85 C19.05 11 24.3 14 24.3 20 Z" />
+        <path d="M16.299999999999997 20 C16.299999999999997 14 15.649999999999999 11 15.649999999999999 5.65 A1.25 1.25 0 0 1 18.15 5.65 C18.15 11 20.5 14 20.5 20 Z" />
+        <path d="M12.5 20 C12.5 14 14.35 11 14.35 5.65 A1.25 1.25 0 0 1 16.85 5.65 C16.85 11 16.7 14 16.7 20 Z" />
+        <!-- Palm -->
+        <path d="M9.5 20 C9.5 18 11 16.8 13 16.8 L22 16.8 C24 16.8 25.2 18 25.2 20 L25.2 23.5 C25.2 27.3 22 29.6 17.4 29.6 C12.8 29.6 9.5 27.4 9.5 23.5 Z" />
+        <!-- Thumb folded up to meet the fingertips -->
+        <path d="M10.4 24.6 C7.2 21.2 7.6 15.6 10.9 12.3 C12.1 11 13.9 10.9 14.4 12 C14.8 12.9 14.3 13.7 13.5 14.5 C12.4 15.6 12.2 17.2 12.9 19.2 Z" />
+        
+      </g>
+      <g stroke="#3B82F6" stroke-width="1.6" stroke-linecap="round" fill="none">
+        <path d="M23 3.2 L24.6 1.8" />
+        <path d="M25.2 6 L27.2 5.4" />
+      </g>
+</svg>

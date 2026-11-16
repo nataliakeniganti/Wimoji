@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="toolbox">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Carrying handle -->
+        <path d="M11.6 10.4 V7.4 C11.6 6.4 12.4 5.6 13.4 5.6 H18.6 C19.6 5.6 20.4 6.4 20.4 7.4 V10.4" fill="none" stroke="#7F1D1D" stroke-width="2.6" />
+        <path d="M11.6 10.4 V7.4 C11.6 6.4 12.4 5.6 13.4 5.6 H18.6 C19.6 5.6 20.4 6.4 20.4 7.4 V10.4" fill="none" stroke="#334155" stroke-width="1.4" />
+        <!-- Lower chest body -->
+        <rect x="4.5" y="10.2" width="23" height="16" rx="2" fill="#DC2626" stroke="#7F1D1D" stroke-width="1.2" />
+        <!-- Hinged top lid -->
+        <path d="M4.5 12.2 C4.5 11.1 5.4 10.2 6.5 10.2 H25.5 C26.6 10.2 27.5 11.1 27.5 12.2 V16 H4.5 Z" fill="#EF4444" stroke="#7F1D1D" stroke-width="1.1" />
+        <!-- Twin silver latch clasps -->
+        <rect x="8.4" y="14" width="3.2" height="4" rx="0.7" fill="#CBD5E1" stroke="#7F1D1D" stroke-width="1" />
+        <rect x="20.4" y="14" width="3.2" height="4" rx="0.7" fill="#CBD5E1" stroke="#7F1D1D" stroke-width="1" />
+      </g>
+</svg>

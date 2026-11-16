@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="wedding">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Golden Cross atop steeple -->
+        <line x1="16" y1="2" x2="16" y2="6" stroke="#FBBF24" stroke-width="1.2" />
+        <line x1="14.5" y1="3.5" x2="17.5" y2="3.5" stroke="#FBBF24" stroke-width="1.2" />
+        <!-- Steeple Spire -->
+        <polygon points="14,12 16,6 18,12" fill="#E2E8F0" stroke="#94A3B8" stroke-width="0.8" />
+        <rect x="14" y="10" width="4" height="2" fill="#FBBF24" />
+        <!-- Pitched Roof -->
+        <polygon points="6,16 16,10 26,16" fill="#F43F5E" stroke="#BE123C" stroke-width="0.8" />
+        <!-- White Chapel Building Body -->
+        <rect x="7" y="16" width="18" height="11" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8" />
+        <!-- Romantic Red Heart directly on chapel facade -->
+        <path d="M16 19.5 s-3-2-3-4.2 a1.6 1.6 0 0 1 3-0.9 1.6 1.6 0 0 1 3 0.9 c0 2.2-3 4.2-3 4.2 z" fill="#EF4444" stroke="#991B1B" stroke-width="0.5" />
+        <!-- Arched Purple Stained Glass Wedding Doorway -->
+        <path d="M13 27 V23 C13 21 19 21 19 23 V27 Z" fill="#A855F7" stroke="#7E22CE" stroke-width="0.8" />
+        <line x1="16" y1="21" x2="16" y2="27" stroke="#FDE047" stroke-width="0.8" />
+        <!-- Small flanking floral topiaries -->
+        <circle cx="5" cy="25" r="2" fill="#22C55E" />
+        <rect x="4.5" y="25" width="1" height="2" fill="#78350F" />
+        <circle cx="27" cy="25" r="2" fill="#22C55E" />
+        <rect x="26.5" y="25" width="1" height="2" fill="#78350F" />
+      </g>
+</svg>

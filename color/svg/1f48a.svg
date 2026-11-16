@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pill">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <g transform="rotate(-45 16 16)">
+          <!-- Top half (Crimson Red) -->
+          <path d="M11.5 16 V10.5 A4.5 4.5 0 0 1 20.5 10.5 V16 Z" fill="#EF4444" stroke="#991B1B" stroke-width="0.8" />
+          <!-- Bottom half (Bright Cyan / Medical White) -->
+          <path d="M11.5 16 V21.5 A4.5 4.5 0 0 0 20.5 21.5 V16 Z" fill="#F8FAFC" stroke="#64748B" stroke-width="0.8" />
+          <!-- Center seam ring -->
+          <line x1="11.5" y1="16" x2="20.5" y2="16" stroke="#334155" stroke-width="0.8" />
+          <!-- Pill gloss highlight streak -->
+          <path d="M13.5 9 V22" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" opacity="0.6" />
+        </g>
+      </g>
+</svg>

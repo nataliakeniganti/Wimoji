@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="page-facing-up">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 5 C6 3.8 7 3 8 3 H20 L26 9 V27 C26 28.2 25 29 24 29 H8 C7 29 6 28.2 6 27 Z" fill="#F8FAFC" stroke="#475569" stroke-width="2" />
+        <!-- Folded dog-ear corner -->
+        <path d="M20 3 V9 H26 Z" fill="#CBD5E1" stroke="#475569" stroke-width="2" />
+        <!-- Printed text line indicators -->
+        <line x1="10" y1="14" x2="22" y2="14" stroke="#94A3B8" stroke-width="1.5" />
+        <line x1="10" y1="18" x2="22" y2="18" stroke="#94A3B8" stroke-width="1.5" />
+        <line x1="10" y1="22" x2="17" y2="22" stroke="#94A3B8" stroke-width="1.5" />
+      </g>
+</svg>

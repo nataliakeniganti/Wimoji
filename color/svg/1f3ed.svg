@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="factory">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Smoke Puffs (Light Grey) -->
+        <circle cx="22" cy="4" r="2" fill="#E2E8F0" />
+        <circle cx="26" cy="5.5" r="1.5" fill="#E2E8F0" />
+        <!-- Industrial Twin Chimneys -->
+        <rect x="21" y="6" width="3" height="9" fill="#475569" stroke="#1E293B" stroke-width="0.8" />
+        <rect x="25" y="7.5" width="2.5" height="7.5" fill="#475569" stroke="#1E293B" stroke-width="0.8" />
+        <!-- Sawtooth Roof Factory Building -->
+        <polygon points="4,15 9,9 9,15 14,9 14,15 19,9 19,15 28,15 28,28 4,28" fill="#64748B" stroke="#1E293B" stroke-width="1.2" />
+        <!-- Industrial Windows -->
+        <rect x="6" y="19" width="3" height="4" rx="0.4" fill="#FEF08A" />
+        <rect x="11" y="19" width="3" height="4" rx="0.4" fill="#FEF08A" />
+        <rect x="16" y="19" width="3" height="4" rx="0.4" fill="#FEF08A" />
+        <!-- Cargo Roll-Up Bay Door -->
+        <rect x="21" y="21" width="5" height="7" fill="#334155" />
+      </g>
+</svg>

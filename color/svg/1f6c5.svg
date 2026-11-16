@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="left-luggage">
+<g>
+        <rect x="4" y="4" width="24" height="24" rx="6" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
+        <!-- Suitcase on Left -->
+        <path d="M10.5 14v-2c0-0.5 0.5-1 1-1h4c0.5 0 1 0.5 1 1v2" stroke="#F8FAFC" stroke-width="1.5" fill="none" />
+        <rect x="6.5" y="14" width="13.5" height="10.5" rx="2" fill="#F8FAFC" />
+        <line x1="6.5" y1="19" x2="20" y2="19" stroke="#94A3B8" stroke-width="1" />
+        <!-- Locker Storage Key on Right -->
+        <g stroke="#FBBF24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="22" cy="11" r="2.5" fill="#FBBF24" stroke="none" />
+          <circle cx="22" cy="11" r="1.2" fill="#3B82F6" stroke="none" />
+          <line x1="22" y1="13.5" x2="22" y2="21.5" />
+          <line x1="22" y1="17.5" x2="24.5" y2="17.5" />
+          <line x1="22" y1="20.5" x2="24.5" y2="20.5" />
+        </g>
+      </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="on-arrow">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="5" width="26" height="22" rx="3.5" fill="#3B82F6" stroke="#1D4ED8" stroke-width="2" />
+        <g stroke="#FFFFFF" stroke-width="2" fill="none">
+          <circle cx="10" cy="12" r="2.8" />
+          <path d="M15 14.8 V9.5 L19.5 14.8 V9.5" />
+          <line x1="22.5" y1="9.5" x2="22.5" y2="13" />
+          <circle cx="22.5" cy="15" r="0.6" fill="#FFFFFF" />
+          <!-- Double arrow -->
+          <path d="M8 21 H24 M11 18 L8 21 L11 24 M21 18 L24 21 L21 24" stroke-width="2.6" />
+        </g>
+      </g>
+</svg>

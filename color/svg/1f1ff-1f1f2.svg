@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-zambia">
+<defs><clipPath id="wimoji-flag-zm-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-zm-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#198A00" />
+        <rect x="21.4" y="15.2" width="2.87" height="10.8" fill="#DE2010" />
+        <rect x="24.27" y="15.2" width="2.86" height="10.8" fill="#111827" />
+        <rect x="27.13" y="15.2" width="2.87" height="10.8" fill="#EF7D00" />
+        <path d="M21.0 10.6 Q24.6 8.6 28.2 10.6 Q25.8 12.0 24.6 13.6 Q23.4 12.0 21.0 10.6 Z" fill="#EF7D00" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

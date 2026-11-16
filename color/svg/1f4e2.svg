@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="loudspeaker">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Back acoustic driver housing -->
+        <rect x="4" y="11" width="6" height="10" rx="1.5" fill="#334155" stroke="#0F172A" stroke-width="2" />
+        <!-- Flared metal horn -->
+        <path d="M10 13 L22 6 V26 L10 19 Z" fill="#64748B" stroke="#0F172A" stroke-width="2" />
+        <!-- Horn opening oval rim -->
+        <ellipse cx="22" cy="16" rx="2.2" ry="10" fill="#94A3B8" stroke="#0F172A" stroke-width="2" />
+        <!-- Dynamic sound bursts -->
+        <path d="M26 12 C28 13.5 28 18.5 26 20" fill="none" stroke="#F59E0B" stroke-width="1.9" />
+        <path d="M29 9 C32 11.5 32 20.5 29 23" fill="none" stroke="#EF4444" stroke-width="1.9" />
+      </g>
+</svg>

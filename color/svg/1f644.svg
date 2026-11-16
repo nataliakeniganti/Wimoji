@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-with-rolling-eyes">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <!-- Large white eye scleras -->
+        <ellipse cx="11.2" cy="13.4" rx="3.4" ry="4" fill="#FFFFFF" stroke="#37474F" stroke-width="1" />
+        <ellipse cx="20.8" cy="13.4" rx="3.4" ry="4" fill="#FFFFFF" stroke="#37474F" stroke-width="1" />
+        <!-- Dark pupils rolled upwards to top of eyes -->
+        <circle cx="11.2" cy="11.2" r="1.5" fill="#37474F" />
+        <circle cx="20.8" cy="11.2" r="1.5" fill="#37474F" />
+        <!-- Specular white shine spots -->
+        <circle cx="11.8" cy="10.5" r="0.5" fill="#FFFFFF" />
+        <circle cx="21.4" cy="10.5" r="0.5" fill="#FFFFFF" />
+        <!-- Exasperated flat mouth line -->
+        <path d="M12.6 22.6 H19.4" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      </g>
+</svg>

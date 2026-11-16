@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="carrot">
+<g>
+        <!-- Leafy Feathery Green Carrot Tops -->
+        <g stroke="#22C55E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M22 8 C23.5 4.5 26.5 2.5 28 3 C27 5.5 25 7.5 23 8.5" />
+          <path d="M22.5 7 C24.5 4.2 27.5 4.8 26.8 7.2" />
+          <path d="M20.5 8 C19.5 4.5 21.5 2.5 23.5 3.8" />
+        </g>
+        <!-- Orange Taproot Body -->
+        <path d="M7.5 24.5 C6 26.5 5 26 6.2 24.5 C8 20.5 15.5 11.5 19.5 8.5 C22 6.8 24.2 7.8 24.5 10.2 C24.5 13.8 17.5 20.5 7.5 24.5 Z" fill="#F97316" stroke="#C2410C" stroke-width="1.2" stroke-linejoin="round" />
+        <!-- Top Shoulder Highlight -->
+        <path d="M18.5 9.5 C20.5 8 22.5 8.5 23.5 10.5" stroke="#FDBA74" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.6" />
+        <!-- Root Ridges -->
+        <line x1="10" y1="20" x2="13" y2="22" stroke="#C2410C" stroke-width="1.1" stroke-linecap="round" opacity="0.85" />
+        <line x1="14" y1="15.5" x2="17.5" y2="18" stroke="#C2410C" stroke-width="1.1" stroke-linecap="round" opacity="0.85" />
+        <line x1="18" y1="11.5" x2="21.5" y2="14" stroke="#C2410C" stroke-width="1.1" stroke-linecap="round" opacity="0.85" />
+      </g>
+</svg>

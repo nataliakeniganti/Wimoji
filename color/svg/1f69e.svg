@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mountain-railway">
+<g>
+        <!-- Mountain Hillside Background -->
+        <polygon points="2,30 30,14 30,30 2,30" fill="#E2E8F0" />
+        <!-- Cog Railway Track -->
+        <line x1="2" y1="27" x2="30" y2="11" stroke="#64748B" stroke-width="2.5" stroke-linecap="round" />
+        <line x1="7" y1="26" x2="5" y2="23" stroke="#334155" stroke-width="1.5" />
+        <line x1="14" y1="22" x2="12" y2="19" stroke="#334155" stroke-width="1.5" />
+        <line x1="21" y1="18" x2="19" y2="15" stroke="#334155" stroke-width="1.5" />
+        <line x1="28" y1="14" x2="26" y2="11" stroke="#334155" stroke-width="1.5" />
+        <!-- Tilted Funicular Coach -->
+        <g transform="rotate(-28 16 16)">
+          <!-- Wheels -->
+          <circle cx="10" cy="22.5" r="1.8" fill="#1E293B" stroke="#64748B" stroke-width="0.8" />
+          <circle cx="22" cy="22.5" r="1.8" fill="#1E293B" stroke="#64748B" stroke-width="0.8" />
+          <!-- Cabin Body -->
+          <rect x="6" y="11" width="20" height="11" rx="2.5" fill="#DC2626" stroke="#991B1B" stroke-width="1.2" />
+          <!-- Windows -->
+          <rect x="9" y="13.5" width="5" height="4.5" rx="0.6" fill="#38BDF8" stroke="#0284C7" stroke-width="0.6" />
+          <rect x="18" y="13.5" width="5" height="4.5" rx="0.6" fill="#38BDF8" stroke="#0284C7" stroke-width="0.6" />
+          <circle cx="24.5" cy="18" r="1" fill="#FEF08A" />
+        </g>
+      </g>
+</svg>

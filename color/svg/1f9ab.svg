@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="beaver">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Wide Flat Cross-Hatched Paddle Tail -->
+        <path d="M21 21.8 C24.6 21.4 29 22.6 29.6 24.8 C30 26.6 26.8 27.8 22.4 27 C20.4 26.6 19.6 24.2 21 21.8 Z" fill="#451A03" stroke="#451A03" stroke-width="1.1" />
+        <path d="M23.4 23 L26.4 26 M26.2 22.8 L28 25.4" fill="none" stroke="#451A03" stroke-width="0.8" />
+        <!-- Chubby Feet -->
+        <ellipse cx="10.4" cy="26.4" rx="2.4" ry="1.1" fill="#451A03" stroke="#451A03" stroke-width="1.1" />
+        <ellipse cx="17.6" cy="26.4" rx="2.4" ry="1.1" fill="#451A03" stroke="#451A03" stroke-width="1.1" />
+        <!-- Chubby Body -->
+        <ellipse cx="15.2" cy="19.6" rx="7" ry="6.2" fill="#92400E" stroke="#451A03" stroke-width="1.1" />
+        <!-- Head &amp; Small Ear -->
+        <circle cx="11.4" cy="8.4" r="1.5" fill="#92400E" stroke="#451A03" stroke-width="1.1" />
+        <ellipse cx="9.6" cy="12.2" rx="5.2" ry="4.4" fill="#92400E" stroke="#451A03" stroke-width="1.1" />
+        <!-- Buck Teeth &amp; Snout -->
+        <rect x="6.4" y="15.4" width="1.5" height="2" rx="0.3" fill="#FFFFFF" stroke="#451A03" stroke-width="0.6" />
+        <rect x="7.9" y="15.4" width="1.5" height="2" rx="0.3" fill="#FFFFFF" stroke="#451A03" stroke-width="0.6" />
+        <ellipse cx="7.4" cy="13.8" rx="2.4" ry="1.8" fill="#FDE68A" stroke="none" />
+        <circle cx="5.2" cy="13.2" r="0.9" fill="#0F172A" />
+        <circle cx="8.8" cy="11" r="0.85" fill="#0F172A" /><circle cx="9.0975" cy="10.7025" r="0.323" fill="#FFFFFF" />
+      </g>
+</svg>

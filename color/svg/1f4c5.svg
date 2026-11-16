@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="calendar">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Calendar body -->
+        <rect x="4" y="6" width="24" height="22" rx="3" fill="#F8FAFC" stroke="#991B1B" stroke-width="2" />
+        <!-- Red top banner header -->
+        <path d="M4 9 C4 7.3 5.3 6 7 6 H25 C26.7 6 28 7.3 28 9 V12 H4 Z" fill="#EF4444" stroke="#991B1B" stroke-width="2" />
+        <!-- Twin spiral ring binders -->
+        <line x1="9" y1="3" x2="9" y2="7" stroke="#991B1B" stroke-width="2.5" />
+        <line x1="23" y1="3" x2="23" y2="7" stroke="#991B1B" stroke-width="2.5" />
+        <!-- Date grid marks -->
+        <circle cx="9" cy="16.5" r="1.5" fill="#991B1B" />
+        <circle cx="16" cy="16.5" r="1.5" fill="#991B1B" />
+        <circle cx="23" cy="16.5" r="1.5" fill="#991B1B" />
+        <circle cx="9" cy="22.5" r="1.5" fill="#991B1B" />
+        <circle cx="16" cy="22.5" r="1.5" fill="#EF4444" />
+        <circle cx="23" cy="22.5" r="1.5" fill="#991B1B" />
+      </g>
+</svg>

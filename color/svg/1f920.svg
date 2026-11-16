@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cowboy-hat-face">
+<g>
+        <!-- Head base -->
+        <ellipse cx="16" cy="18" rx="11.5" ry="11.5" fill="#FFCA28" stroke="#FFA000" stroke-width="0.8" />
+        <ellipse cx="16" cy="17" rx="10" ry="10" opacity="0.3" fill="#FFE082" />
+        <!-- Eyes &amp; Beaming smile -->
+        <ellipse cx="11.5" cy="18" rx="1.5" ry="2" fill="#37474F" />
+        <ellipse cx="20.5" cy="18" rx="1.5" ry="2" fill="#37474F" />
+        <ellipse cx="12" cy="17.3" rx="0.5" ry="0.5" fill="#FFFFFF" />
+        <ellipse cx="21" cy="17.3" rx="0.5" ry="0.5" fill="#FFFFFF" />
+        <path d="M11 22 C11 25.5 21 25.5 21 22 Z" fill="#37474F" />
+        <path d="M11.5 22 L20.5 22 C20.5 23 18.5 23.5 16 23.5 C13.5 23.5 11.5 23 11.5 22 Z" fill="#FFFFFF" />
+        <!-- Brown Stetson cowboy hat -->
+        <g stroke="#5B21B6" stroke-linecap="round" stroke-linejoin="round">
+          <!-- Crown of hat -->
+          <path d="M9 11.5 C9 5 12 3 16 4.5 C20 3 23 5 23 11.5 Z" fill="#9A3412" stroke="#7C2D12" stroke-width="0.9" />
+          <!-- Hat band -->
+          <path d="M9.5 10.5 H22.5 V12 H9.5 Z" fill="#451A03" stroke="#291203" stroke-width="0.6" />
+          <!-- Curved brim of hat -->
+          <path d="M1.5 12.5 C7 8.5 25 8.5 30.5 12.5 C26 14.5 6 14.5 1.5 12.5 Z" fill="#B45309" stroke="#78350F" stroke-width="1" />
+        </g>
+      </g>
+</svg>

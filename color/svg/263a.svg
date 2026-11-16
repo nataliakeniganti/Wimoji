@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="smiling-face">
+<g>
+        <!-- Google Noto Style Warm Base Circle with Rim -->
+        <circle cx="16" cy="16" r="12.5" fill="#FFCA28" stroke="#FFA000" stroke-width="0.8" />
+        <circle cx="16" cy="15" r="11" fill="#FFE082" opacity="0.35" />
+        <!-- Soft Rosy Blush Cheeks -->
+        <ellipse cx="9" cy="17.8" rx="2.6" ry="1.6" fill="#FF7043" opacity="0.5" />
+        <ellipse cx="23" cy="17.8" rx="2.6" ry="1.6" fill="#FF7043" opacity="0.5" />
+        <!-- Soft Curved Eyebrows -->
+        <path d="M9.5 9.8c1-.8 2.8-.8 3.8 0" stroke="#795548" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.65" />
+        <path d="M18.7 9.8c1-.8 2.8-.8 3.8 0" stroke="#795548" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.65" />
+        <!-- Noto Smiling Eyes (Curved upward arcs) -->
+        <path d="M9.5 13.5c.8-1.8 2.7-1.8 3.8 0" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+        <path d="M18.7 13.5c.8-1.8 2.7-1.8 3.8 0" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+        <!-- Warm Friendly Smile with subtle cheek creases -->
+        <path d="M10.5 18c1.3 3.5 3.8 4.2 5.5 4.2s4.2-.7 5.5-4.2" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

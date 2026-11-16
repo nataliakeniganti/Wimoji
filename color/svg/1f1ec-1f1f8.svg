@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-south-georgia-and-south-sandwich-islands">
+<defs>
+        <clipPath id="wimoji-flag-gs-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath>
+        <clipPath id="wimoji-flag-gs-shield"><path d="M20.2 12.2 H26.2 V16.8 C26.2 19.0 23.2 20.6 23.2 20.6 C23.2 20.6 20.2 19.0 20.2 16.8 Z" /></clipPath>
+      </defs>
+      <g clip-path="url(#wimoji-flag-gs-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#012169" />
+        <defs><clipPath id="wimoji-flag-gs-canton"><rect x="2" y="6" width="14" height="10" /></clipPath></defs>
+  <g clip-path="url(#wimoji-flag-gs-canton)">
+    <rect x="2" y="6" width="14" height="10" fill="#012169" />
+    <path d="M2 6 L16 16 M16 6 L2 16" stroke="#FFFFFF" stroke-width="2.1" />
+    <path d="M2 6 L16 16 M16 6 L2 16" stroke="#C8102E" stroke-width="0.95" />
+    <path d="M9 6 V16 M2 11 H16" stroke="#FFFFFF" stroke-width="3.0" />
+    <path d="M9 6 V16 M2 11 H16" stroke="#C8102E" stroke-width="1.7" />
+  </g>
+        <g clip-path="url(#wimoji-flag-gs-shield)">
+          <rect x="20" y="12" width="6.5" height="9" fill="#FFFFFF" />
+          <path d="M20.2 20.4 L23.2 13.6 L26.2 20.4 Z" fill="#16A34A" />
+          <circle cx="23.2" cy="16.8" r="1.0" fill="#FACC15" />
+        </g>
+        <path d="M20.2 12.2 H26.2 V16.8 C26.2 19.0 23.2 20.6 23.2 20.6 C23.2 20.6 20.2 19.0 20.2 16.8 Z" fill="none" stroke="#FACC15" stroke-width="0.65" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

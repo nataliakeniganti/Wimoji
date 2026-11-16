@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="phoenix">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Flaming Tail Plumes -->
+        <path d="M20.4 18.6 C24.6 17.6 27.6 13.6 29.0 9.6 C29.8 14.4 27.6 19.8 24.4 22.4 C27.2 22.6 29.2 21.8 30.2 20.4 C28.2 24.4 23.6 25.8 19.6 23.6 Z" fill="#F97316" stroke="#991B1B" stroke-width="1.0" />
+        <path d="M21.4 20.4 C24.6 19.6 26.6 16.8 27.6 13.6 C27.2 17.4 25.2 21.0 21.8 22.2 Z" fill="#FDE047" />
+        <!-- Legs -->
+        <path d="M13.6 23.6 L13.2 28.0 M13.2 28.0 L11.4 28.8 M13.2 28.0 L15.0 28.8 M17.6 23.8 L18.0 28.0 M18.0 28.0 L16.2 28.8 M18.0 28.0 L19.8 28.8" fill="none" stroke="#F59E0B" stroke-width="1.2" />
+        <!-- Crimson Body -->
+        <ellipse cx="15.2" cy="18.6" rx="6.8" ry="5.2" transform="rotate(-12 15.2 18.6)" fill="#EF4444" stroke="#991B1B" stroke-width="1.05" />
+        <!-- Golden Breast Plume -->
+        <path d="M9.6 17.8 C10.4 21.2 14.0 22.8 17.4 21.8 C14.0 21.4 11.4 20.0 9.6 17.8 Z" fill="#FDE047" />
+        <!-- Blazing Wing -->
+        <path d="M12.6 15.6 C16.8 11.2 23.2 8.2 26.2 6.8 C25.2 10.6 24.0 13.4 21.6 15.4 C23.6 14.8 24.8 14.2 25.8 13.2 C23.2 17.4 18.4 19.8 13.6 19.2 Z" fill="#F97316" stroke="#991B1B" stroke-width="1.0" />
+        <path d="M15.2 16.0 C18.4 13.6 21.8 11.6 24.0 10.6" fill="none" stroke="#FDE047" stroke-width="1.1" />
+        <!-- Head, Flame Crest, Beak &amp; Eye -->
+        <path d="M8.6 7.8 C8.2 4.6 10.8 3.6 12.4 5.4 C12.8 3.6 15.0 4.0 14.0 7.0" fill="none" stroke="#FDE047" stroke-width="1.7" />
+        <path d="M8.6 7.8 C8.2 4.6 10.8 3.6 12.4 5.4 C12.8 3.6 15.0 4.0 14.0 7.0" fill="none" stroke="#991B1B" stroke-width="0.9" />
+        <circle cx="9.8" cy="11.8" r="4.4" fill="#EF4444" stroke="#991B1B" stroke-width="1.05" />
+        <path d="M5.8 10.8 L2.4 12.2 L6.0 13.4 Z" fill="#FDE047" stroke="#991B1B" stroke-width="0.8" />
+        <circle cx="8.6" cy="10.8" r="1.25" fill="#FFFFFF" stroke="#991B1B" stroke-width="0.6" />
+        <circle cx="8.4" cy="10.9" r="0.65" fill="#0F172A" />
+      </g>
+</svg>

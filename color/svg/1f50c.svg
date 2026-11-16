@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="electric-plug">
+<g transform="rotate(-45 16 16)" stroke="#075985" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Cord -->
+        <path d="M16 21 V23.5 C16 27 20.5 26 20.5 29" fill="none" stroke-width="2.5" />
+        <!-- Prongs -->
+        <rect x="11.5" y="2.5" width="3" height="7" rx="1" fill="#CBD5E1" />
+        <rect x="17.5" y="2.5" width="3" height="7" rx="1" fill="#CBD5E1" />
+        <!-- Plug head -->
+        <rect x="8.5" y="9" width="15" height="9" rx="2.5" fill="#0284C7" />
+        <!-- Strain-relief neck -->
+        <rect x="12.5" y="18" width="7" height="3.5" rx="1" fill="#0284C7" />
+        <!-- Grip ridge -->
+        <line x1="12" y1="13.5" x2="20" y2="13.5" stroke="#7DD3FC" stroke-width="1.4" />
+      </g>
+</svg>

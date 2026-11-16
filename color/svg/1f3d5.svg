@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="camping">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Evergreen Pine Tree Behind -->
+        <polygon points="26,5 22,12 25,12 21,18 27,18 23,24 29,24" fill="#16A34A" stroke="#15803D" stroke-width="0.8" />
+        <rect x="25" y="24" width="2" height="3" fill="#78350F" />
+        <!-- Tent Side Canvas -->
+        <polygon points="14,10 28,14 24,26 14,26" fill="#C2410C" stroke="#9A3412" stroke-width="1" />
+        <!-- Front Tent Opening (A-Frame Face) -->
+        <polygon points="14,10 4,26 14,26" fill="#EA580C" stroke="#9A3412" stroke-width="1.2" />
+        <!-- Open Tent Flap (Interior Dark Void) -->
+        <polygon points="14,13 8,26 14,26" fill="#431407" />
+        <!-- Guy Line Pegs -->
+        <line x1="4" y1="26" x2="2" y2="28" stroke="#78350F" stroke-width="1" />
+        <line x1="24" y1="26" x2="26" y2="28" stroke="#78350F" stroke-width="1" />
+      </g>
+</svg>

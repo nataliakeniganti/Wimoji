@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="koala">
+<g stroke-linecap="round" stroke-linejoin="round">
+        
+        <circle cx="6.4" cy="10" r="5.6" fill="#A8B3C2" stroke="#475569" stroke-width="1.1" />
+        <circle cx="6.4" cy="10" r="3.2" fill="#F1F5F9" stroke="none" />
+        <circle cx="25.6" cy="10" r="5.6" fill="#A8B3C2" stroke="#475569" stroke-width="1.1" />
+        <circle cx="25.6" cy="10" r="3.2" fill="#F1F5F9" stroke="none" />
+        <!-- Head -->
+        <ellipse cx="16" cy="17.4" rx="10.6" ry="9.4" fill="#A8B3C2" stroke="#475569" stroke-width="1.1" />
+        <!-- Cheek fur -->
+        <path d="M6.6 20 C7.6 22.6 10 24.4 12 25" fill="none" stroke="#CBD5E1" stroke-width="1" opacity="0.8" />
+        <!-- Eyes -->
+        <circle cx="11" cy="15" r="1.3" fill="#0F172A" />
+        <circle cx="21" cy="15" r="1.3" fill="#0F172A" />
+        <!-- Big koala nose -->
+        <path d="M12.6 15.8 C12.6 14 14 13.4 16 13.4 C18 13.4 19.4 14 19.4 15.8 C19.4 18.6 17.8 21 16 21 C14.2 21 12.6 18.6 12.6 15.8 Z" fill="#1E293B" stroke="none" />
+        <path d="M14.4 15 C14.8 14.6 15.4 14.5 15.8 14.6" fill="none" stroke="#64748B" stroke-width="0.9" />
+        <!-- Mouth -->
+        <path d="M16 21 V22.4 M13.8 23.4 C14.8 24.2 15.6 23.8 16 22.4 C16.4 23.8 17.2 24.2 18.2 23.4" fill="none" stroke="#0F172A" stroke-width="1" />
+      </g>
+</svg>

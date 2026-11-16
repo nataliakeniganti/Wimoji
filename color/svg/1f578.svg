@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="spider-web">
+<g stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Radial Spoke Lines from Corner/Center -->
+        <line x1="4" y1="4" x2="28" y2="28" />
+        <line x1="4" y1="16" x2="28" y2="16" />
+        <line x1="16" y1="4" x2="16" y2="28" />
+        <line x1="4" y1="28" x2="28" y2="4" />
+        <!-- Concentric Web Rings -->
+        <path d="M16 11l3.5 1.5 1.5 3.5-1.5 3.5L16 21l-3.5-1.5L11 16l1.5-3.5z" />
+        <path d="M16 7l6.5 2.5 2.5 6.5-2.5 6.5L16 25l-6.5-2.5L7 16l2.5-6.5z" />
+      </g>
+</svg>

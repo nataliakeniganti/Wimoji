@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shopping-cart">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Wheels with Hubcaps -->
+        <circle cx="10" cy="25.5" r="2.2" fill="#1E293B" stroke="#94A3B8" stroke-width="0.8" />
+        <circle cx="23" cy="25.5" r="2.2" fill="#1E293B" stroke="#94A3B8" stroke-width="0.8" />
+        <!-- Metal Chassis &amp; Basket Frame -->
+        <g stroke="#2563EB" stroke-width="2.2" fill="none">
+          <path d="M3 6h4.5l3.5 14h13.5l3-10.5H9" />
+          <!-- Inner Basket Wire Grid -->
+          <line x1="11" y1="14" x2="24" y2="14" stroke-width="1.4" />
+          <line x1="15" y1="10" x2="16.5" y2="19" stroke-width="1.4" />
+          <line x1="20" y1="10" x2="21" y2="19" stroke-width="1.4" />
+        </g>
+      </g>
+</svg>

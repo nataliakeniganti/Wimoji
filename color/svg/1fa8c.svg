@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="eraser">
+<g transform="rotate(-30 16 16)" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Rubber block (pink) with beveled right end -->
+        <path d="M6 11.5 H23 L26 16 L23 20.5 H6 Z" fill="#FDA4AF" stroke="#E11D48" stroke-width="1.4" />
+        <path d="M23 11.5 L26 16 L23 20.5 Z" fill="#FB7185" stroke="#E11D48" stroke-width="1.4" />
+        <!-- Protective cardboard sleeve on left -->
+        <rect x="5.5" y="11" width="12" height="10" rx="1" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.4" />
+        <!-- White brand stripe on sleeve -->
+        <rect x="13" y="11" width="2.5" height="10" fill="#FFFFFF" />
+        <line x1="8" y1="14.5" x2="11.5" y2="14.5" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" />
+        <line x1="8" y1="17.5" x2="11.5" y2="17.5" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" />
+      </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="dolphin">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Waves -->
+        <path d="M3 28.4 C5.4 27 7.6 27 10 28.4 S14.6 29.8 17 28.4 S21.6 27 24 28.4 S27.6 29.6 29 28.4" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+        <!-- Body with tail flukes -->
+        <path d="M2.6 13.2 C4 12.4 6 12.4 7.6 11.8 C9 8.4 13 6.2 17.2 7 C22.2 8 25 12 26 16.4 L29.2 13.4 C28.6 16 28.2 17 27.6 17.8 C28.4 18.8 29 20 29.2 21.6 C27 21.4 25.4 20.4 24.4 19.2 C21.6 20.6 17 20.4 13.6 18 C11.4 16.4 9.4 15.4 7.4 15.4 C5.4 15.4 3.4 14.8 2.6 13.2 Z" fill="#0EA5E9" stroke="#0369A1" stroke-width="1.1" />
+        <!-- Pectoral fin -->
+        <path d="M12.6 16.6 C13 19.4 14.6 21.6 17.2 22.6 C16.6 20.6 16.6 19 17.4 17.6 Z" fill="#0284C7" stroke="#0369A1" stroke-width="1.1" />
+        <!-- Lighter belly -->
+        <path d="M7.4 15.4 C9.4 15.4 11.4 16.4 13.6 18 C17 20.4 21.6 20.6 24.4 19.2 C21.4 18.4 16.8 18 13.4 15.6 C11 14 9 14 7.4 15.4 Z" fill="#BAE6FD" stroke="none" />
+        <!-- Dorsal fin -->
+        <path d="M13.2 8.4 C14 5.2 16.4 3.6 19.4 3.6 C18.2 5.2 18 6.8 18.8 8.6 Z" fill="#0284C7" stroke="#0369A1" stroke-width="1.1" />
+        <!-- Eye and smile -->
+        <circle cx="8.6" cy="12.8" r="0.9" fill="#0F172A" />
+        <path d="M3 14 C5 14.6 7 14.8 8.6 14.4" fill="none" stroke="#0F172A" stroke-width="0.9" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flute">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 24.4 L24.6 4.8 L27.2 7.4 L7.6 27 Z" fill="#F59E0B" stroke="#78350F" stroke-width="1.1" />
+        <path d="M7.8 21.6 L10.4 24.2 M19 10.4 L21.6 13" stroke="#DC2626" stroke-width="1.8" />
+        <circle cx="11.6" cy="20.4" r="0.9" fill="#451A03" />
+        <circle cx="14.2" cy="17.8" r="0.9" fill="#451A03" />
+        <circle cx="16.8" cy="15.2" r="0.9" fill="#451A03" />
+        <circle cx="22.8" cy="9.2" r="1.05" fill="#451A03" />
+      </g>
+</svg>

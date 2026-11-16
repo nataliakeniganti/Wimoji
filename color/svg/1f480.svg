@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="skull">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Smooth vector Skull cranium &amp; jaw based on wimoji skull foundation -->
+        <path d="M7 14 C7 7.5 11 5 16 5 C21 5 25 7.5 25 14 C25 18 22.5 19 21.5 21 V26 H10.5 V21 C9.5 19 7 18 7 14 Z" fill="#F1F5F9" stroke="#475569" stroke-width="0.8" />
+        <!-- Hollow dark eye sockets -->
+        <circle cx="12.5" cy="14" r="2.5" fill="#334155" />
+        <circle cx="19.5" cy="14" r="2.5" fill="#334155" />
+        <!-- Inverted nasal cavity -->
+        <polygon points="16,17.5 14.8,20 17.2,20" fill="#334155" />
+        <!-- Teeth dividing grid -->
+        <line x1="10.5" y1="23.5" x2="21.5" y2="23.5" stroke="#475569" stroke-width="0.8" />
+        <line x1="13.5" y1="21" x2="13.5" y2="26" stroke="#475569" stroke-width="0.8" />
+        <line x1="16" y1="21" x2="16" y2="26" stroke="#475569" stroke-width="0.8" />
+        <line x1="18.5" y1="21" x2="18.5" y2="26" stroke="#475569" stroke-width="0.8" />
+      </g>
+</svg>

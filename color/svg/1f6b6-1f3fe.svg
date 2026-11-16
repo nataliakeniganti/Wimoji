@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="person-walking-medium-dark">
+<g transform="matrix(-1 0 0 1 32 0)"><g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.2 15.6 L11.8 19" fill="none" stroke="#4A260E" stroke-width="4.800000000000001" /><path d="M13.2 15.6 L11.8 19" fill="none" stroke="#A1653B" stroke-width="2.6" />
+        <path d="M15.4 11.6 L13.2 15.6" fill="none" stroke="#4A260E" stroke-width="5.6" /><path d="M15.4 11.6 L13.2 15.6" fill="none" stroke="#FB8C00" stroke-width="3.4" />
+        <path d="M10.200000000000001 19 A1.6 1.6 0 1 0 13.4 19 A1.6 1.6 0 1 0 10.200000000000001 19 Z" fill="#A1653B" stroke="#4A260E" stroke-width="1.1" />
+        <path d="M15 19 L13 24.4 L10.2 28.6" fill="none" stroke="#4A260E" stroke-width="5.800000000000001" /><path d="M15 19 L13 24.4 L10.2 28.6" fill="none" stroke="#455A64" stroke-width="3.6" />
+        <path d="M7.199999999999999 28.6 A2.1 1.1 0 1 0 11.399999999999999 28.6 A2.1 1.1 0 1 0 7.199999999999999 28.6 Z" fill="#5D4037" stroke="#4A260E" stroke-width="1.1" />
+        <path d="M16.2 10.6 L15.4 19.2" fill="none" stroke="#4A260E" stroke-width="8.600000000000001" /><path d="M16.2 10.6 L15.4 19.2" fill="none" stroke="#FB8C00" stroke-width="6.4" />
+        <path d="M16 19 L19 24 L20.8 29.2" fill="none" stroke="#4A260E" stroke-width="5.800000000000001" /><path d="M16 19 L19 24 L20.8 29.2" fill="none" stroke="#455A64" stroke-width="3.6" />
+        <path d="M19.599999999999998 29.2 A2.1 1.1 0 1 0 23.8 29.2 A2.1 1.1 0 1 0 19.599999999999998 29.2 Z" fill="#5D4037" stroke="#4A260E" stroke-width="1.1" />
+        <path d="M19 15.6 L20.6 18.8" fill="none" stroke="#4A260E" stroke-width="4.800000000000001" /><path d="M19 15.6 L20.6 18.8" fill="none" stroke="#A1653B" stroke-width="2.6" />
+        <path d="M17 11.6 L19 15.6" fill="none" stroke="#4A260E" stroke-width="5.6" /><path d="M17 11.6 L19 15.6" fill="none" stroke="#FB8C00" stroke-width="3.4" />
+        <path d="M19 18.8 A1.6 1.6 0 1 0 22.200000000000003 18.8 A1.6 1.6 0 1 0 19 18.8 Z" fill="#A1653B" stroke="#4A260E" stroke-width="1.1" />
+        <path d="M13.100000000000001 5.8 A3.5 3.8 0 1 0 20.1 5.8 A3.5 3.8 0 1 0 13.100000000000001 5.8 Z" fill="#A1653B" stroke="#4A260E" stroke-width="1.1" />
+        <path d="M13.26 5.55 C12.86 2.74 14.48 1.01 16.60 1.01 C18.72 1.01 20.34 2.74 19.94 5.55 C19.45 4.40 18.55 3.65 17.58 3.07 C16.60 4.15 14.81 4.81 13.26 5.55 Z" fill="#78350F" stroke="#4A260E" stroke-width="1.1" />
+        <circle cx="16.2" cy="6.1" r="0.75" fill="#37474F" stroke="none" /><circle cx="18.8" cy="6.1" r="0.75" fill="#37474F" stroke="none" /><path d="M16.5 7.699999999999999 C17.1 8.4 17.9 8.4 18.5 7.699999999999999" fill="none" stroke="#37474F" stroke-width="0.8" />
+      </g></g>
+</svg>

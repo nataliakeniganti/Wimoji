@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="chart-increasing">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Axes -->
+        <path d="M4 5 V27 H28" stroke="#475569" stroke-width="2" fill="none" />
+        <!-- Grid dot lines -->
+        <line x1="4" y1="12" x2="27" y2="12" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 2" />
+        <line x1="4" y1="19" x2="27" y2="19" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 2" />
+        <!-- Shaded fill under graph line -->
+        <polygon points="7,21 13,14 18,18 26,8 26,27 7,27" fill="#DCFCE7" opacity="0.6" />
+        <!-- Bold green upward profit line -->
+        <path d="M7 21 L13 14 L18 18 L26 8" stroke="#22C55E" stroke-width="3" fill="none" />
+        <!-- Arrowhead pointer -->
+        <polyline points="20.5,8 26,8 26,13.5" stroke="#22C55E" stroke-width="3" fill="none" />
+      </g>
+</svg>

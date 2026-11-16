@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="gem-stone">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Brilliant cut Diamond Facets -->
+        <!-- Outer girdle contour -->
+        <polygon points="9,9 23,9 28,15 16,27 4,15" fill="#38BDF8" stroke="#0369A1" stroke-width="0.8" />
+        <!-- Table facet -->
+        <polygon points="12,9 20,9 22,12 10,12" fill="#E0F2FE" />
+        <!-- Crown side triangles -->
+        <polygon points="9,9 12,9 10,12 4,15" fill="#BAE6FD" />
+        <polygon points="20,9 23,9 28,15 22,12" fill="#7DD3FC" />
+        <!-- Crown center triangles -->
+        <polygon points="10,12 22,12 16,15" fill="#38BDF8" />
+        <polygon points="4,15 10,12 16,15" fill="#7DD3FC" />
+        <polygon points="28,15 22,12 16,15" fill="#0284C7" />
+        <!-- Pavilion facets (converging to bottom point 16, 27) -->
+        <polygon points="4,15 16,15 16,27" fill="#0284C7" stroke="#0369A1" stroke-width="0.6" />
+        <polygon points="16,15 28,15 16,27" fill="#0369A1" stroke="#0369A1" stroke-width="0.6" />
+        <!-- Facet lines -->
+        <line x1="4" y1="15" x2="28" y2="15" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6" />
+        <!-- Shimmering twinkle stars -->
+        <polygon points="23,5 23.8,6.5 25.5,7 23.8,7.5 23,9 22.2,7.5 20.5,7 22.2,6.5" fill="#FFFFFF" />
+      </g>
+</svg>

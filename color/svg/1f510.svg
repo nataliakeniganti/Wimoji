@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="locked-with-key">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11 12V8a5 5 0 0 1 10 0v4" fill="none" stroke="#94A3B8" stroke-width="2.5" />
+        <rect x="6" y="12" width="17" height="14" rx="2.5" fill="#F59E0B" stroke="#0F172A" stroke-width="1.2" />
+        <circle cx="14.5" cy="18" r="1.5" fill="#0F172A" />
+        <line x1="14.5" y1="19" x2="14.5" y2="21.5" stroke="#0F172A" stroke-width="1.2" />
+        <circle cx="23" cy="20" r="3.2" fill="#E2E8F0" stroke="#0F172A" stroke-width="1" />
+        <path d="M23 23.2v5 M23 26h2.5" stroke="#0F172A" stroke-width="1.4" fill="none" />
+      </g>
+</svg>

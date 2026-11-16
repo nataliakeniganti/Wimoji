@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="trolleybus">
+<g>
+        <!-- Dual Overhead Trolley Poles -->
+        <line x1="15" y1="8" x2="22" y2="2.5" stroke="#475569" stroke-width="1.8" stroke-linecap="round" />
+        <line x1="12" y1="8" x2="19" y2="2.5" stroke="#475569" stroke-width="1.8" stroke-linecap="round" />
+        <!-- Electric Bus Body (Emerald) -->
+        <rect x="3" y="8" width="26" height="15" rx="3" fill="#10B981" stroke="#047857" stroke-width="1.2" />
+        <!-- Windows -->
+        <rect x="6" y="11" width="5" height="5" rx="1" fill="#38BDF8" />
+        <rect x="13.5" y="11" width="5" height="5" rx="1" fill="#38BDF8" />
+        <rect x="21" y="11" width="5" height="5" rx="1" fill="#38BDF8" />
+        <!-- Rubber Tires -->
+        <circle cx="8" cy="24" r="2.8" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+        <circle cx="24" cy="24" r="2.8" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+      </g>
+</svg>

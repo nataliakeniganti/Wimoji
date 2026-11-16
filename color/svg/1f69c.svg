@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tractor">
+<g>
+        <!-- Farm Tractor Body (Green) -->
+        <rect x="14" y="15" width="10" height="6" rx="1" fill="#22C55E" stroke="#15803D" stroke-width="1.2" />
+        <rect x="8" y="8" width="7" height="9" rx="1" fill="#22C55E" stroke="#15803D" stroke-width="1.2" />
+        <rect x="9.5" y="9.5" width="4" height="4" rx="0.5" fill="#38BDF8" />
+        <!-- Exhaust Pipe -->
+        <line x1="21" y1="7" x2="21" y2="15" stroke="#475569" stroke-width="1.8" stroke-linecap="round" />
+        <!-- Huge Rear Mud Wheel (Left) -->
+        <circle cx="9" cy="21" r="5.5" fill="#0F172A" stroke="#94A3B8" stroke-width="1.5" />
+        <circle cx="9" cy="21" r="2.8" fill="#FBBF24" />
+        <!-- Smaller Front Wheel (Right) -->
+        <circle cx="24" cy="23" r="3.5" fill="#0F172A" stroke="#94A3B8" stroke-width="1.2" />
+        <circle cx="24" cy="23" r="1.5" fill="#FBBF24" />
+      </g>
+</svg>

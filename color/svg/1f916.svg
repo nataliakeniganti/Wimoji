@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="robot">
+<g stroke="#334155" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Top antenna -->
+        <line x1="16" y1="3" x2="16" y2="7" stroke-width="1.4" />
+        <circle cx="16" cy="3" r="1.8" fill="#EF4444" stroke="#B91C1C" />
+        <!-- Bolt ears on sides -->
+        <rect x="3.5" y="12" width="3" height="8" rx="1" fill="#64748B" />
+        <rect x="25.5" y="12" width="3" height="8" rx="1" fill="#64748B" />
+        <!-- Robot square head -->
+        <rect x="6" y="7" width="20" height="19" rx="3.5" fill="#94A3B8" stroke="#475569" stroke-width="1" />
+        <!-- Glowing eye dials -->
+        <circle cx="11.5" cy="13.5" r="3" fill="#FFFFFF" stroke="#0284C7" stroke-width="0.8" />
+        <circle cx="20.5" cy="13.5" r="3" fill="#FFFFFF" stroke="#0284C7" stroke-width="0.8" />
+        <circle cx="11.5" cy="13.5" r="1.8" fill="#0284C7" />
+        <circle cx="20.5" cy="13.5" r="1.8" fill="#0284C7" />
+        <!-- Grill mouth -->
+        <rect x="9.5" y="18.5" width="13" height="4.5" rx="1.2" fill="#1E293B" />
+        <path d="M12 18.5v4.5 M14.7 18.5v4.5 M17.3 18.5v4.5 M20 18.5v4.5" stroke="#FFFFFF" stroke-width="0.8" />
+      </g>
+</svg>

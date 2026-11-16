@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-wales">
+<defs><clipPath id="wimoji-flag-wls-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-wls-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#FFFFFF" />
+        <rect x="2" y="16" width="28" height="10" fill="#00AB39" />
+        <path d="M8.6 13.8 L7.0 13.2 L8.2 12.2 L9.8 12.6 L10.6 11.4 L11.4 12.6 C12.4 13.0 13.2 13.8 14.0 14.0 L16.2 10.0 L18.4 11.0 L19.8 9.6 L20.0 12.6 L21.4 11.2 L21.0 14.2 C22.4 13.8 23.6 12.2 23.4 10.6 L24.6 9.8 L24.2 11.4 C24.6 13.6 22.8 15.6 20.6 16.0 L21.8 19.6 L20.2 20.6 L19.4 17.6 L18.0 20.6 L16.8 20.4 L17.6 17.4 C16.2 17.6 14.8 17.4 13.8 16.8 L12.8 20.4 L11.4 20.4 L12.2 16.6 L9.4 18.0 L8.4 16.8 L11.4 15.0 C10.4 14.6 9.4 14.4 8.6 13.8 Z" fill="#D30731" stroke="#991B1B" stroke-width="0.35" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

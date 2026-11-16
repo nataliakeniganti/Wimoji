@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="water-wave">
+<g>
+        <path d="M4 26c4 0 7-3 9-7 2-4 5-8 9-8 3 0 5 2 6 5-1.5 1-3.5 1.5-5 1.5-4 0-6 4-8 7-2 3-5 3-7 3-1 0-3-.5-4-1.5z" fill="#38BDF8" />
+        <path d="M22 11c1-1 3-1 5 1-1.5 2-3 3-5 3s-3-2 0-4z" fill="#F8FAFC" />
+        <path d="M4 27c5 0 8-2 11-5s5-4 9-4c3 0 5 1 5 3" stroke="#BAE6FD" stroke-width="2" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

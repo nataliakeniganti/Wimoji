@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="musical-score">
+<g>
+        <!-- 5 Horizontal Staff Lines -->
+        <line x1="3" y1="8" x2="29" y2="8" stroke="#94A3B8" stroke-width="1" opacity="0.75" />
+        <line x1="3" y1="12" x2="29" y2="12" stroke="#94A3B8" stroke-width="1" opacity="0.75" />
+        <line x1="3" y1="16" x2="29" y2="16" stroke="#94A3B8" stroke-width="1" opacity="0.75" />
+        <line x1="3" y1="20" x2="29" y2="20" stroke="#94A3B8" stroke-width="1" opacity="0.75" />
+        <line x1="3" y1="24" x2="29" y2="24" stroke="#94A3B8" stroke-width="1" opacity="0.75" />
+        <!-- Treble G-Clef Graphic -->
+        <path d="M15 28c-2 0-3-1.8-1-2.8s3 0 3-1.8-1.8-2.5-3.5-2.5-3.5 2.5-3.5 5 2.5 4.5 5 4.5 4.5-2 4.5-5.5c0-5-5-9-5-14.5 0-3 1-4.8 2-4.8s2 1.8 2 3.5L14.5 28z" fill="#0F172A" />
+      </g>
+</svg>

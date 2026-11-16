@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-antigua-and-barbuda">
+<defs><clipPath id="wimoji-flag-ag-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-ag-clip)">
+        <!-- Upper Black Band with Rising Sun -->
+        <rect x="2" y="6" width="28" height="8.5" fill="#111827" />
+        <path d="M11.6 14 L12.2 11.4 L13.8 13.0 L14.5 10.4 L15.4 12.6 L16.0 9.6 L16.6 12.6 L17.5 10.4 L18.2 13.0 L19.8 11.4 L20.4 14 Z" fill="#FCD116" />
+        <path d="M12.8 14 A3.2 3.2 0 0 1 19.2 14 Z" fill="#FCD116" />
+        <!-- Middle Blue &amp; Lower White Bands -->
+        <rect x="2" y="14" width="28" height="4.5" fill="#0072C6" />
+        <rect x="2" y="18.5" width="28" height="7.5" fill="#FFFFFF" />
+        <!-- Twin Red Corner Triangles -->
+        <polygon points="2,6 16,26 2,26" fill="#CE1126" />
+        <polygon points="30,6 16,26 30,26" fill="#CE1126" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="white-chess-knight">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 23c-1-5 2-9 4-13 1-2 3-4 6-4 0 3-1 5 1 6 3 2 4 4 1 6l-3 1 2 4H10z" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+        <circle cx="17" cy="10" r="1" fill="#0F172A" />
+        <rect x="8" y="24" width="16" height="3.5" rx="1" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+      </g>
+</svg>

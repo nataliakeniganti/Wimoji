@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="curry-rice">
+<g>
+        <!-- Oval Plate -->
+        <ellipse cx="16" cy="19" rx="13.5" ry="8.5" fill="#F1F5F9" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Left Half: White Rice -->
+        <path d="M16 12c-6 0-11 3-11 7s5 7 11 7V12z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8" />
+        <!-- Right Half: Rich Brown Curry -->
+        <path d="M16 12c6 0 11 3 11 7s-5 7-11 7V12z" fill="#92400E" stroke="#78350F" stroke-width="0.8" />
+        <!-- Vegetable Chunks in Curry -->
+        <rect x="18" y="15" width="2.5" height="2.5" rx="0.5" fill="#F97316" />
+        <rect x="22" y="17" width="2.5" height="2.5" rx="0.5" fill="#FDE047" />
+        <circle cx="19" cy="20" r="1.2" fill="#78350F" />
+      </g>
+</svg>

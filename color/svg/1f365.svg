@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="fish-cake">
+<g>
+        <!-- Scalloped 3D bevel shadow -->
+        <path d="M 16 5.2 A 3.3 3.3 0 0 1 21.4 6.65 A 3.3 3.3 0 0 1 25.35 10.6 A 3.3 3.3 0 0 1 26.8 16 A 3.3 3.3 0 0 1 25.35 21.4 A 3.3 3.3 0 0 1 21.4 25.35 A 3.3 3.3 0 0 1 16 26.8 A 3.3 3.3 0 0 1 10.6 25.35 A 3.3 3.3 0 0 1 6.65 21.4 A 3.3 3.3 0 0 1 5.2 16 A 3.3 3.3 0 0 1 6.65 10.6 A 3.3 3.3 0 0 1 10.6 6.65 A 3.3 3.3 0 0 1 16 5.2 Z" transform="translate(0 1.2)" fill="#CBD5E1" />
+        <!-- White steamed fish paste disc -->
+        <path d="M 16 5.2 A 3.3 3.3 0 0 1 21.4 6.65 A 3.3 3.3 0 0 1 25.35 10.6 A 3.3 3.3 0 0 1 26.8 16 A 3.3 3.3 0 0 1 25.35 21.4 A 3.3 3.3 0 0 1 21.4 25.35 A 3.3 3.3 0 0 1 16 26.8 A 3.3 3.3 0 0 1 10.6 25.35 A 3.3 3.3 0 0 1 6.65 21.4 A 3.3 3.3 0 0 1 5.2 16 A 3.3 3.3 0 0 1 6.65 10.6 A 3.3 3.3 0 0 1 10.6 6.65 A 3.3 3.3 0 0 1 16 5.2 Z" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8" />
+        <!-- Iconic vibrant pink spiral -->
+        <path d="M 16 16.5 C 17 16.5 17.8 17.2 17.8 18.2 C 17.8 19.8 16.5 21 15 21 C 12.8 21 11.2 19.2 11.2 17 C 11.2 14.2 13.3 12 16 12 C 19 12 21.5 14.5 21.5 17.5 C 21.5 20.8 18.8 23.5 15.5 23.5 C 12.8 23.5 10.5 22 9.2 19.8" stroke="#EC4899" stroke-width="2.6" stroke-linecap="round" fill="none" />
+        <!-- Specular gloss highlight on face -->
+        <path d="M11 9c1.5-1 3.5-1.5 5-1.5" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.7" />
+      </g>
+</svg>

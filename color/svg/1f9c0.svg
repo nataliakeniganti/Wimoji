@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cheese-wedge">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Top wedge plane -->
+        <path d="M4.2 14.4 L22.4 6.2 C25.8 7.8 27.6 10.4 27.8 13.8 L4.2 14.4 Z" fill="#FEF08A" stroke="#B45309" stroke-width="1.2" />
+        <!-- Front face -->
+        <path d="M4.2 14.4 L27.8 13.8 V23.6 L4.2 24.4 Z" fill="#FACC15" stroke="#B45309" stroke-width="1.2" />
+        <!-- Swiss cheese holes -->
+        <ellipse cx="16.4" cy="10.4" rx="1.9" ry="1.1" fill="#D97706" />
+        <circle cx="11.6" cy="19.6" r="2.3" fill="#D97706" />
+        <circle cx="19.6" cy="18.2" r="2.8" fill="#D97706" />
+        <circle cx="24.2" cy="21.6" r="1.5" fill="#D97706" />
+        <circle cx="7.4" cy="21.4" r="1.1" fill="#D97706" />
+      </g>
+</svg>

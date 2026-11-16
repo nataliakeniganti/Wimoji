@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="black-nib">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Base Collar -->
+        <line x1="20" y1="8" x2="25" y2="13" stroke="#F59E0B" stroke-width="2.5" />
+        <!-- Black Lacquered Nib Body -->
+        <path d="M20 8c-3 3-5 3-8 8l-7 11 11-7c5-3 5-5 9-9z" fill="#1E293B" stroke="#0F172A" stroke-width="1" />
+        <!-- Gold Trim Slit &amp; Breather Hole -->
+        <circle cx="14" cy="18" r="1.5" fill="#F59E0B" />
+        <line x1="5" y1="27" x2="13" y2="19" stroke="#F59E0B" stroke-width="1.2" />
+      </g>
+</svg>

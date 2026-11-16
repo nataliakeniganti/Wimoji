@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="railway-car">
+<g>
+        <!-- Top Pantograph Electric Link -->
+        <path d="M11 9l5-4.5 5 4.5" stroke="#64748B" stroke-width="1.8" stroke-linecap="round" fill="none" />
+        <!-- Carriage Body -->
+        <rect x="3" y="9" width="26" height="14" rx="2.5" fill="#22C55E" stroke="#15803D" stroke-width="1.2" />
+        <!-- Windows Row -->
+        <rect x="6" y="12" width="4.5" height="4.5" rx="0.8" fill="#F8FAFC" />
+        <rect x="13.7" y="12" width="4.5" height="4.5" rx="0.8" fill="#F8FAFC" />
+        <rect x="21.5" y="12" width="4.5" height="4.5" rx="0.8" fill="#F8FAFC" />
+        <!-- Accent stripe along bottom -->
+        <line x1="3" y1="19.5" x2="29" y2="19.5" stroke="#FBBF24" stroke-width="1.5" />
+        <!-- Steel Track Wheels -->
+        <circle cx="8" cy="25" r="2.5" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+        <circle cx="24" cy="25" r="2.5" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+      </g>
+</svg>

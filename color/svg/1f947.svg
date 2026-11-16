@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="first-place-medal">
+<g>
+        <!-- Striped Olympic V-Ribbon (Blue Outer, Red Inner) -->
+        <polygon points="7,3 16,14 13.5,14 5,3" fill="#2563EB" />
+        <polygon points="25,3 16,14 18.5,14 27,3" fill="#2563EB" />
+        <polygon points="9,3 16,14 13.8,14 7,3" fill="#EF4444" />
+        <polygon points="23,3 16,14 18.2,14 25,3" fill="#EF4444" />
+        <!-- Medal Outer Rim -->
+        <circle cx="16" cy="21" r="8" fill="#FBBF24" stroke="#B45309" stroke-width="1.2" />
+        <!-- Medal Beveled Inset -->
+        <circle cx="16" cy="21" r="6" fill="#FDE047" stroke="#F59E0B" stroke-width="0.8" />
+        <!-- Laurel Sprigs Framing -->
+        <path d="M11.8 21.5 C11.8 23 13 24 14.2 24.5 M20.2 21.5 C20.2 23 19 24 17.8 24.5" stroke="#D97706" stroke-width="0.9" stroke-linecap="round" fill="none" />
+        <!-- Embossed Bold Digit 1 -->
+        <path d="M14.2 19 L16.2 17.5 V24 M14.2 24 H18" stroke="#B45309" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <!-- Bright Medallion Star Shine -->
+        <circle cx="13" cy="18" r="0.8" fill="#FFFFFF" opacity="0.8" />
+      </g>
+</svg>

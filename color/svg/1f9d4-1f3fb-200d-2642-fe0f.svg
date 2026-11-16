@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="man-beard-light">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6.5 17 A1.5 2.2 0 1 0 9.5 17 A1.5 2.2 0 1 0 6.5 17 Z" fill="#F7DECE" stroke="#E0B59E" stroke-width="0.9" />
+        <path d="M22.5 17 A1.5 2.2 0 1 0 25.5 17 A1.5 2.2 0 1 0 22.5 17 Z" fill="#F7DECE" stroke="#E0B59E" stroke-width="0.9" />
+        <path d="M7.4 16 A8.6 9 0 1 0 24.6 16 A8.6 9 0 1 0 7.4 16 Z" fill="#F7DECE" stroke="#E0B59E" stroke-width="0.9" />
+        <path d="M7.2 14.6 C6 8.6 10.4 5 16 5 C21.6 5 26 8.6 24.8 14.6 C23.8 12 21 9.8 16 9.8 C11 9.8 8.2 12 7.2 14.6 Z" fill="#5D3A1A" stroke="none" stroke-width="0.9" />
+        <path d="M7.8 17.4 C7.8 24.8 11.6 28.6 16 28.6 C20.4 28.6 24.2 24.8 24.2 17.4 C23 19.8 20.8 20.6 19 20.2 C17.8 19.8 17.2 19.4 16 19.4 C14.8 19.4 14.2 19.8 13 20.2 C11.2 20.6 9 19.8 7.8 17.4 Z" fill="#5D3A1A" stroke="none" stroke-width="0.9" />
+        <path d="M10.8 14.4 L14.6 14 M17.4 14 L21.2 14.4" fill="none" stroke="#37474F" stroke-width="1.35" /><circle cx="12.6" cy="17.2" r="1.1" fill="#37474F" stroke="none" /><circle cx="19.4" cy="17.2" r="1.1" fill="#37474F" stroke="none" /><path d="M14.2 22.8 C15.2 24 16.8 24 17.8 22.8 C16.8 22.2 15.2 22.2 14.2 22.8 Z" fill="#FCA5A5" stroke="none" stroke-width="0.8" />
+      </g>
+</svg>

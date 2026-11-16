@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="love-letter">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Warm ivory envelope body -->
+        <rect x="4" y="8" width="24" height="17" rx="2" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8" />
+        <!-- Bottom corner folds -->
+        <path d="M4 24.5 L12 17.5" stroke="#E2E8F0" stroke-width="1.2" />
+        <path d="M28 24.5 L20 17.5" stroke="#E2E8F0" stroke-width="1.2" />
+        <!-- Top V-flap fold -->
+        <polygon points="4,9 16,18 28,9" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8" />
+        <!-- Romantic Crimson Heart Stamp / Seal -->
+        <path d="M16 15.5 C14.5 13.8 12.8 14.5 12.8 16.2 C12.8 18 16 20.5 16 20.5 C16 20.5 19.2 18 19.2 16.2 C19.2 14.5 17.5 13.8 16 15.5 Z" fill="#E11D48" stroke="#9F1239" stroke-width="0.6" />
+        <circle cx="14.8" cy="15.8" r="0.5" fill="#FFFFFF" opacity="0.8" />
+        <!-- Small love hearts floating -->
+        <path d="M23 5 C22.2 4.2 21.3 4.6 21.3 5.4 C21.3 6.3 23 7.5 23 7.5 C23 7.5 24.7 6.3 24.7 5.4 C24.7 4.6 23.8 4.2 23 5 Z" fill="#FB7185" />
+      </g>
+</svg>

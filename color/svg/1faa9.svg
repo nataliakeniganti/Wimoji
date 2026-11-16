@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mirror-ball">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 3.4 V7" stroke="#475569" stroke-width="1.5" />
+        <circle cx="16" cy="17.2" r="10.2" fill="#CBD5E1" stroke="#475569" stroke-width="1.1" />
+        <!-- Sparkly mirror facet highlights -->
+        <rect x="11.2" y="10.4" width="3.2" height="3.2" fill="#FFFFFF" />
+        <rect x="16.4" y="14" width="3.8" height="3.4" fill="#E0F2FE" />
+        <rect x="8.8" y="14.2" width="2.8" height="3.2" fill="#E0F2FE" />
+        <path d="M6.4 14 H25.6 M6.4 20.4 H25.6 M16 7 V27.4" stroke="#475569" stroke-width="0.9" fill="none" />
+        <ellipse cx="16" cy="17.2" rx="5" ry="10.2" stroke="#475569" stroke-width="0.9" fill="none" />
+        <!-- Glitter star -->
+        <path d="M26 5.6 L26.5 7 L28 7.5 L26.5 8 L26 9.4 L25.5 8 L24 7.5 L25.5 7 Z" fill="#FDE047" />
+      </g>
+</svg>

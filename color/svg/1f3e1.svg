@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="house-with-garden">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Garden Tree on Right -->
+        <rect x="24" y="19" width="2" height="8" fill="#78350F" />
+        <circle cx="25" cy="14" r="5" fill="#16A34A" stroke="#15803D" stroke-width="0.8" />
+        <!-- House Roof -->
+        <polygon points="13,6 3.5,14.5 22.5,14.5" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.2" />
+        <!-- House Body -->
+        <rect x="5.5" y="14.5" width="15" height="12.5" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1" />
+        <!-- Window &amp; Front Door -->
+        <rect x="7.5" y="16.5" width="3" height="3" rx="0.5" fill="#38BDF8" />
+        <rect x="11.5" y="19.5" width="4" height="7.5" fill="#D97706" stroke="#92400E" stroke-width="0.8" />
+        <!-- Grass Verge Lawn -->
+        <rect x="2" y="26.5" width="28" height="1.5" rx="0.5" fill="#16A34A" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="e-mail">
+<g stroke-linecap="round" stroke-linejoin="round" transform="translate(0.2 -0.9)">
+        <rect x="3" y="6" width="24" height="16" rx="3" fill="#3B82F6" />
+        <path d="M3 7 L15 16 L27 7" stroke="#FFFFFF" stroke-width="2.3" fill="none" />
+        <!-- @ badge -->
+        <circle cx="22.5" cy="21" r="6.5" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="1.2" />
+        <circle cx="22.5" cy="21" r="1.5" stroke="#FFFFFF" stroke-width="1.2" fill="none" />
+        <path d="M24.1 19.5 V21.9 C24.1 22.8 25.3 22.8 25.3 21 C25.3 18.7 24 17.4 22.5 17.4 C20.4 17.4 19.6 19 19.6 21 C19.6 23 20.9 24.5 22.8 24.5" stroke="#FFFFFF" stroke-width="1.2" fill="none" />
+      </g>
+</svg>

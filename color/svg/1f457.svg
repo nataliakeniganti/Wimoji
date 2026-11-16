@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="dress">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 5 C14 7 18 7 20 5 L22 10 L19 12 L26 26 H6 L13 12 L10 10 Z" fill="#38BDF8" stroke="#0284C7" stroke-width="0.8" />
+        <line x1="13" y1="13" x2="19" y2="13" stroke="#0284C7" stroke-width="1.2" />
+        <path d="M10 26 C12 24 14 26 16 26 C18 24 20 26 22 26" stroke="#FFFFFF" stroke-width="0.8" fill="none" />
+      </g>
+</svg>

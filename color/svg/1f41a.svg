@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="spiral-shell">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Pointed apex -->
+        <path d="M16 10.4 L20 4.4 L24 11.4 Z" fill="#FDE68A" stroke="#D97706" stroke-width="1.1" />
+        <path d="M18 8 L20.8 9.6 M19.4 6 L22 7.8" fill="none" stroke="#D97706" stroke-width="0.8" />
+        <!-- Rounded body whorl -->
+        <path d="M4.6 19 C4.6 12.4 10.4 8.8 16.4 9.8 C22.6 10.8 27.4 15.4 26.4 21 C25.4 26 19.4 28 13.6 27 C8.2 26 4.6 23.4 4.6 19 Z" fill="#FDE68A" stroke="#D97706" stroke-width="1.1" />
+        <!-- Spiral ridge -->
+        <path d="M16 18 C16 16.4 18.2 16.2 18.6 17.8 C19 20.2 16 21.6 13.8 20 C11 18 12.2 14 15.6 13.2 C19.6 12.4 23 15.6 22.4 19.6 C21.8 23.6 17.4 25.4 13.2 24" fill="none" stroke="#F59E0B" stroke-width="1.1" />
+        <!-- Glossy pink lip -->
+        <path d="M6 22.6 C7.4 25.6 10.6 27 14 27 C11.8 25.4 9.6 23.8 8.4 20.8 Z" fill="#FDA4AF" stroke="#D97706" stroke-width="0.8" />
+      </g>
+</svg>

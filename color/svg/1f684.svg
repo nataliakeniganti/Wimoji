@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="high-speed-train">
+<g>
+        <!-- Sleek Bullet Train Aerodynamic Profile -->
+        <path d="M29 20H3v-8c0-3 2.5-5 6-5h10c6.5 0 10 5 10 8v5z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2" />
+        <!-- Blue Speed Streak -->
+        <path d="M3 16h26v3.5H3z" fill="#3B82F6" />
+        <!-- Cockpit &amp; Passenger Windows -->
+        <path d="M21 9h4c2.5 0 4 2 4 4h-8V9z" fill="#0F172A" />
+        <rect x="5" y="10" width="4" height="3" rx="0.5" fill="#38BDF8" />
+        <rect x="11" y="10" width="4" height="3" rx="0.5" fill="#38BDF8" />
+        <rect x="17" y="10" width="4" height="3" rx="0.5" fill="#38BDF8" />
+        <!-- Wheels and Rails -->
+        <circle cx="8" cy="22.5" r="2.2" fill="#0F172A" />
+        <circle cx="23" cy="22.5" r="2.2" fill="#0F172A" />
+        <line x1="1" y1="25" x2="31" y2="25" stroke="#64748B" stroke-width="1.8" stroke-linecap="round" />
+      </g>
+</svg>

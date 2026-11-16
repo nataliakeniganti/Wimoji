@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="zipper-mouth-face">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" fill="#FFCA28" stroke="#FFA000" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" opacity="0.3" fill="#FFE082" />
+        <ellipse cx="11.5" cy="13" rx="1.6" ry="2.2" fill="#37474F" />
+        <ellipse cx="20.5" cy="13" rx="1.6" ry="2.2" fill="#37474F" />
+        <ellipse cx="12" cy="12.3" rx="0.6" ry="0.6" fill="#FFFFFF" />
+        <ellipse cx="21" cy="12.3" rx="0.6" ry="0.6" fill="#FFFFFF" />
+        <!-- Zipper teeth band -->
+        <rect x="9.5" y="19.8" width="13" height="2.4" rx="1.2" fill="#37474F" />
+        <path d="M11 19.8v2.4 M13 19.8v2.4 M15 19.8v2.4 M17 19.8v2.4 M19 19.8v2.4 M21 19.8v2.4" stroke="#FFE082" stroke-width="1" />
+        <!-- Zipper slider pull tab -->
+        <rect x="8.2" y="19.2" width="2.8" height="3.6" rx="0.8" fill="#78909C" stroke="#37474F" stroke-width="0.6" />
+        <circle cx="9.6" cy="21" r="0.6" fill="#37474F" />
+      </g>
+</svg>

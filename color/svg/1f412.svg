@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="monkey">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Curling tail -->
+        <path d="M22 25 C28.5 26.5 30.5 20 27.5 17 C26.4 15.9 24.6 16.8 25.6 18.4" fill="none" stroke="#78350F" stroke-width="4.2" /><path d="M22 25 C28.5 26.5 30.5 20 27.5 17 C26.4 15.9 24.6 16.8 25.6 18.4" fill="none" stroke="#B45309" stroke-width="2" />
+        <!-- Feet -->
+        <ellipse cx="11.6" cy="27" rx="2.8" ry="1.5" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <ellipse cx="20.4" cy="27" rx="2.8" ry="1.5" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <!-- Body and belly -->
+        <ellipse cx="16" cy="21" rx="6.4" ry="6.2" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <ellipse cx="16" cy="22" rx="3.6" ry="4.2" fill="#FDE68A" stroke="none" />
+        <!-- Arms -->
+        <ellipse cx="9.4" cy="20.6" rx="2" ry="4.6" transform="rotate(14 9.4 20.6)" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <ellipse cx="22.6" cy="20.6" rx="2" ry="4.6" transform="rotate(-14 22.6 20.6)" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <!-- Ears -->
+        <circle cx="9.8" cy="10.6" r="2.4" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <circle cx="22.2" cy="10.6" r="2.4" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <circle cx="9.8" cy="10.6" r="1.2" fill="#FDE68A" stroke="none" />
+        <circle cx="22.2" cy="10.6" r="1.2" fill="#FDE68A" stroke="none" />
+        <!-- Head and face -->
+        <circle cx="16" cy="10.2" r="5.8" fill="#B45309" stroke="#78350F" stroke-width="1.1" />
+        <path d="M11.8 9.2 C11.8 7.6 14 7.8 16 9.4 C18 7.8 20.2 7.6 20.2 9.2 C20.2 12 18.6 13.2 16 13.2 C13.4 13.2 11.8 12 11.8 9.2 Z" fill="#FDE68A" stroke="none" />
+        <ellipse cx="16" cy="13" rx="2.6" ry="1.9" fill="#FDE68A" stroke="#78350F" stroke-width="0.6" />
+        <circle cx="13.9" cy="10" r="0.8" fill="#0F172A" />
+        <circle cx="18.1" cy="10" r="0.8" fill="#0F172A" />
+        <circle cx="15.2" cy="12.6" r="0.35" fill="#0F172A" />
+        <circle cx="16.8" cy="12.6" r="0.35" fill="#0F172A" />
+        <path d="M14.8 14.2 C15.6 14.8 16.4 14.8 17.2 14.2" fill="none" stroke="#78350F" stroke-width="0.6" />
+      </g>
+</svg>

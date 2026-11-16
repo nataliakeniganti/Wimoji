@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tulip">
+<g>
+        <!-- Stem -->
+        <path d="M16 15v13" stroke="#16A34A" stroke-width="2.2" stroke-linecap="round" />
+        <!-- Leaves -->
+        <path d="M16 23c-4-2-7-1-9 2" stroke="#16A34A" stroke-width="2" stroke-linecap="round" fill="none" />
+        <path d="M16 20c4-2 7-1 9 2" stroke="#16A34A" stroke-width="2" stroke-linecap="round" fill="none" />
+        <!-- Tulip petals -->
+        <path d="M16 4c-5 0-7 5-7 9 0 4 3 6 7 6s7-2 7-6c0-4-2-9-7-9z" fill="#F43F5E" stroke="#BE123C" stroke-width="1" />
+        <path d="M12 7c2 4 4 4 4 0s2-4 4 0c0 4-2 9-4 9s-4-5-4-9z" fill="#FB7185" />
+      </g>
+</svg>

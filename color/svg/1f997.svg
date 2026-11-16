@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cricket-insect">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Long Antennae -->
+        <path d="M7.4 13.6 C4.4 10.4 3.4 7.6 3.6 5.2 M8.4 13.2 C6.4 9.6 6.2 6.8 7 4.4" fill="none" stroke="#3F6212" stroke-width="0.95" />
+        <!-- Front &amp; Middle Legs -->
+        <path d="M9.6 18.8 L7.4 22.8 L6 23.6 M13 19.2 L12.4 23.4 L11.4 24.4" fill="none" stroke="#3F6212" stroke-width="1.3" />
+        <!-- Folded Jumping Hind Leg -->
+        <path d="M17.4 18.4 L23 11.4 L25.8 24.2 L28.4 24.4" fill="none" stroke="#3F6212" stroke-width="2" />
+        <!-- Abdomen &amp; Wings -->
+        <path d="M10.4 15.2 C14.6 14 21.8 15.4 26.8 19.6 C22.8 21.2 16 20.6 11.2 18.8 Z" fill="#65A30D" stroke="#3F6212" stroke-width="1.1" />
+        <path d="M14.4 15.2 C18.6 14.8 22.6 16.4 25.2 19 C21.8 19 17.6 18 14.4 16.6 Z" fill="#BEF264" stroke="none" />
+        <!-- Head -->
+        <ellipse cx="9" cy="16" rx="2.6" ry="2.2" fill="#65A30D" stroke="#3F6212" stroke-width="1.1" />
+        <circle cx="8.2" cy="15.2" r="0.85" fill="#0F172A" /><circle cx="8.497499999999999" cy="14.9025" r="0.323" fill="#FFFFFF" />
+      </g>
+</svg>

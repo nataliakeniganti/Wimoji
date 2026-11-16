@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="up-pointing-red-triangle">
+<g stroke-linejoin="round">
+        <path d="M15.3 5.4 C15.6 4.9 16.4 4.9 16.7 5.4 L27.7 23.4 C28 23.9 27.6 24.5 27 24.5 H5 C4.4 24.5 4 23.9 4.3 23.4 Z" fill="#EF4444" stroke="#B91C1C" stroke-width="0.8" />
+        <!-- Left highlight bevel -->
+        <polygon points="16,7 16,21 7,23 5,23" fill="#F87171" opacity="0.7" />
+        <!-- Right shadow bevel -->
+        <polygon points="16,7 27,23 16,21" fill="#DC2626" opacity="0.5" />
+      </g>
+</svg>

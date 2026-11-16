@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ring">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Gold ring band -->
+        <circle cx="16" cy="19" r="8" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+        <circle cx="16" cy="19" r="5.2" fill="#0F172A" />
+        <!-- Shiny band reflection highlight -->
+        <path d="M10 19 C10 15 12 13 16 13" stroke="#FDE047" stroke-width="1.5" fill="none" opacity="0.8" />
+        <!-- Prongs holding diamond -->
+        <line x1="12" y1="12" x2="13" y2="9" stroke="#CBD5E1" stroke-width="1.2" />
+        <line x1="20" y1="12" x2="19" y2="9" stroke="#CBD5E1" stroke-width="1.2" />
+        <!-- Brilliant cut Diamond on top -->
+        <polygon points="13.5,8 18.5,8 21,11 11,11" fill="#BAE6FD" stroke="#0284C7" stroke-width="0.6" />
+        <polygon points="11,11 16,14.5 21,11" fill="#38BDF8" stroke="#0284C7" stroke-width="0.6" />
+        <polygon points="13.5,8 18.5,8 16,11" fill="#E0F2FE" />
+        <!-- Diamond sparkle stars -->
+        <polygon points="22.5,4 23.2,5.2 24.5,5.5 23.2,5.8 22.5,7 21.8,5.8 20.5,5.5 21.8,5.2" fill="#FDE047" />
+      </g>
+</svg>

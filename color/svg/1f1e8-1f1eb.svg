@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-central-african-republic">
+<defs><clipPath id="wimoji-flag-cf-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-cf-clip)">
+        <rect x="2" y="6" width="28" height="5.2" fill="#003082" />
+        <rect x="2" y="11" width="28" height="5.2" fill="#FFFFFF" />
+        <rect x="2" y="16" width="28" height="5.2" fill="#289728" />
+        <rect x="2" y="21" width="28" height="5.2" fill="#FFCE00" />
+        <rect x="13.9" y="6" width="4.2" height="20" fill="#D21034" />
+        <polygon points="6.40,6.95 6.78,7.97 7.87,8.02 7.02,8.70 7.31,9.75 6.40,9.15 5.49,9.75 5.78,8.70 4.93,8.02 6.02,7.97" fill="#FFCE00" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

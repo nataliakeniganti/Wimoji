@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-togo">
+<defs><clipPath id="wimoji-flag-tg-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-tg-clip)">
+        <rect x="2" y="6" width="28" height="4.1" fill="#006A4E" /><rect x="2" y="10" width="28" height="4.1" fill="#FFCE00" /><rect x="2" y="14" width="28" height="4.1" fill="#006A4E" /><rect x="2" y="18" width="28" height="4.1" fill="#FFCE00" /><rect x="2" y="22" width="28" height="4.1" fill="#006A4E" />
+        <rect x="2" y="6" width="12" height="12" fill="#D21034" />
+        <polygon points="8.00,8.80 8.78,10.93 11.04,11.01 9.26,12.41 9.88,14.59 8.00,13.32 6.12,14.59 6.74,12.41 4.96,11.01 7.22,10.93" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>
