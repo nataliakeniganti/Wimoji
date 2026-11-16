@@ -2,6 +2,7 @@ node_modules/
 build/
 dist/
 coverage/
+generated-svgs/
 .DS_Store
 *.log
 .env*
