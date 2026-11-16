@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="person-with-white-cane-facing-right-medium">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9.4 15 L7.8 18.2" fill="none" stroke="#6E4523" stroke-width="4.800000000000001" /><path d="M9.4 15 L7.8 18.2" fill="none" stroke="#D5A070" stroke-width="2.6" />
+        <path d="M12.2 11.4 L9.4 15" fill="none" stroke="#6E4523" stroke-width="5.6" /><path d="M12.2 11.4 L9.4 15" fill="none" stroke="#FB8C00" stroke-width="3.4" />
+        <path d="M6.199999999999999 18.2 A1.6 1.6 0 1 0 9.4 18.2 A1.6 1.6 0 1 0 6.199999999999999 18.2 Z" fill="#D5A070" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M12.6 19 L10.4 24 L8.8 28.8" fill="none" stroke="#6E4523" stroke-width="5.800000000000001" /><path d="M12.6 19 L10.4 24 L8.8 28.8" fill="none" stroke="#455A64" stroke-width="3.6" />
+        <path d="M7.600000000000001 28.8 A2.1 1.1 0 1 0 11.8 28.8 A2.1 1.1 0 1 0 7.600000000000001 28.8 Z" fill="#5D4037" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M14.2 19 L16.2 24 L17.4 29" fill="none" stroke="#6E4523" stroke-width="5.800000000000001" /><path d="M14.2 19 L16.2 24 L17.4 29" fill="none" stroke="#455A64" stroke-width="3.6" />
+        <path d="M16.199999999999996 29 A2.1 1.1 0 1 0 20.4 29 A2.1 1.1 0 1 0 16.199999999999996 29 Z" fill="#5D4037" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M13.2 10.8 L13.4 19" fill="none" stroke="#6E4523" stroke-width="8.2" /><path d="M13.2 10.8 L13.4 19" fill="none" stroke="#FB8C00" stroke-width="6" />
+        <path d="M17.2 14.4 L19.4 16.2" fill="none" stroke="#6E4523" stroke-width="4.800000000000001" /><path d="M17.2 14.4 L19.4 16.2" fill="none" stroke="#D5A070" stroke-width="2.6" />
+        <path d="M14.2 11.4 L17.2 14.4" fill="none" stroke="#6E4523" stroke-width="5.6" /><path d="M14.2 11.4 L17.2 14.4" fill="none" stroke="#FB8C00" stroke-width="3.4" />
+        <path d="M17.799999999999997 16.2 A1.6 1.6 0 1 0 21 16.2 A1.6 1.6 0 1 0 17.799999999999997 16.2 Z" fill="#D5A070" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M9.6 5.8 A3.4 3.6 0 1 0 16.4 5.8 A3.4 3.6 0 1 0 9.6 5.8 Z" fill="#D5A070" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M9.76 5.57 C9.36 2.90 10.94 1.26 13.00 1.26 C15.06 1.26 16.64 2.90 16.24 5.57 C15.77 4.47 14.90 3.77 13.95 3.22 C13.00 4.23 11.26 4.86 9.76 5.57 Z" fill="#78350F" stroke="#6E4523" stroke-width="1.1" />
+        <circle cx="12.620000000000001" cy="6.085" r="0.7124999999999999" fill="#37474F" stroke="none" /><circle cx="15.09" cy="6.085" r="0.7124999999999999" fill="#37474F" stroke="none" /><path d="M12.905000000000001 7.6049999999999995 C13.475 8.27 14.235000000000001 8.27 14.805 7.6049999999999995" fill="none" stroke="#37474F" stroke-width="0.8" />
+      </g><g stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19.4 16.2 L26.8 27.6" stroke="#1E293B" stroke-width="2.6" fill="none" />
+            <path d="M19.4 16.2 L26.8 27.6" stroke="#F8FAFC" stroke-width="1.5" fill="none" />
+            <path d="M24.2 23.6 L26.4 27.0" stroke="#EF4444" stroke-width="1.6" fill="none" />
+            <circle cx="27.4" cy="28.4" r="1.35" fill="#F8FAFC" stroke="#1E293B" stroke-width="0.8" />
+          </g>
+</svg>

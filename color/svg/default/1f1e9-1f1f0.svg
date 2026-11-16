@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-denmark">
+<defs><clipPath id="wimoji-flag-dk-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-dk-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#C8102E" />
+        <rect x="10.2" y="6" width="3.0" height="20" fill="#FFFFFF" />
+        <rect x="2" y="14.5" width="28" height="3.0" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#991B1B" stroke-width="0.8" opacity="0.45" />
+</svg>

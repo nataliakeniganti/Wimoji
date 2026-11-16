@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="japanese-dolls">
+<g>
+        <!-- Left Doll: Emperor (Blue Kimono) -->
+        <path d="M5.5 25c0-6 2.5-9 5.5-9s5.5 3 5.5 9h-11z" fill="#38BDF8" stroke="#0369A1" stroke-width="1" />
+        <!-- Emperor Head &amp; Crown -->
+        <circle cx="11" cy="11.5" r="3.8" fill="#FED7AA" />
+        <path d="M7.5 11c0-2.5 1.5-4 3.5-4s3.5 1.5 3.5 4z" fill="#0F172A" />
+        <rect x="10.2" y="5" width="1.6" height="3" fill="#0F172A" />
+        <!-- Right Doll: Empress (Pink/Red Kimono) -->
+        <path d="M15.5 25c0-6 2.5-9 5.5-9s5.5 3 5.5 9h-11z" fill="#EC4899" stroke="#BE185D" stroke-width="1" />
+        <!-- Empress Head &amp; Golden Headdress Tiara -->
+        <circle cx="21" cy="11.5" r="3.8" fill="#FED7AA" />
+        <path d="M17.5 11.5c0-2.5 1.5-4 3.5-4s3.5 1.5 3.5 4z" fill="#0F172A" />
+        <polygon points="21,5 23,8 19,8" fill="#FBBF24" />
+      </g>
+</svg>

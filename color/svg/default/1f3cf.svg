@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cricket">
+<g>
+        <!-- Red Leather Cricket Ball with Seam -->
+        <circle cx="24" cy="14" r="4.5" fill="#DC2626" stroke="#991B1B" stroke-width="1" />
+        <path d="M22 10.5c2.5 2 2.5 5 0 7" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.8" />
+        <!-- Wooden Cricket Bat (Willow Blade &amp; Cane Handle) -->
+        <g transform="rotate(-45 13 18)">
+          <!-- Handle Grip (Wrapped White) -->
+          <line x1="13" y1="9" x2="13" y2="1.5" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+          <line x1="13" y1="9" x2="13" y2="1.5" stroke="#CBD5E1" stroke-width="0.8" stroke-dasharray="1 1" />
+          <!-- Willow Flat Bat Blade -->
+          <rect x="10" y="9" width="6" height="18.5" rx="1.5" fill="#D97706" stroke="#78350F" stroke-width="1.2" />
+          <!-- Woodgrain highlight stripe -->
+          <line x1="13" y1="10" x2="13" y2="26" stroke="#FEF3C7" stroke-width="1" opacity="0.6" />
+        </g>
+      </g>
+</svg>

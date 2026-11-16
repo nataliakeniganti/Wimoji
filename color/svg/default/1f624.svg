@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-with-steam-from-nose">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <path d="M8.4 9.4 L14 12.2" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M 23.6 9.4 L 18 12.2" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M9 14.4 C10 16.8 13 16.8 14 14.4" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M 23 14.4 C 22 16.8 19 16.8 18 14.4" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M13 24.6 C14.4 23 17.6 23 19 24.6" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M-3 1.8 C-4.6 1.6 -4.8 -0.8 -3 -1.2 C-3 -3 -0.8 -3.4 0.2 -2.2 C1.4 -3.4 3.6 -2.6 3.4 -0.8 C5 -0.4 4.8 1.8 3 1.8 Z" transform="translate(8.2 20.6) scale(1.05)" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.8" />
+        <path d="M-3 1.8 C-4.6 1.6 -4.8 -0.8 -3 -1.2 C-3 -3 -0.8 -3.4 0.2 -2.2 C1.4 -3.4 3.6 -2.6 3.4 -0.8 C5 -0.4 4.8 1.8 3 1.8 Z" transform="translate(23.8 20.6) scale(-1.05 1.05)" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.8" />
+      </g>
+</svg>

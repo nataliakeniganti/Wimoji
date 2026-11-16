@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-san-marino">
+<defs><clipPath id="wimoji-flag-sm-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-sm-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#FFFFFF" />
+        <rect x="2" y="16" width="28" height="10" fill="#5EB6E4" />
+        <path d="M13 17.5 A3.3 3.3 0 0 0 19 17.5" fill="none" stroke="#16A34A" stroke-width="1.0" stroke-linecap="round" />
+        <path d="M14.1 13.8 H17.9 V16.8 Q16 18.8 14.1 16.8 Z" fill="#5EB6E4" stroke="#FACC15" stroke-width="0.6" />
+        <path d="M14.7 13.2 Q16 12.1 17.3 13.2 Z" fill="#FACC15" />
+        <path d="M14.8 16.8 L16 14.9 L17.2 16.8 Z" fill="#16A34A" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

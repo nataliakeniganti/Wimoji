@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="woman-with-headscarf-medium-light">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5.6 32 C5.6 24.2 10 21 16 21 C22 21 26.4 24.2 26.4 32 Z" fill="#7C3AED" stroke="#4C1D95" stroke-width="1.1" />
+        <path d="M8.2 15.2 C7.2 8.2 11 4.4 16 4.4 C21 4.4 24.8 8.2 23.8 15.2 C23.4 20 23.8 23.2 22.6 25.8 C20.4 27.6 18.2 28.4 16 28.4 C13.8 28.4 11.6 27.6 9.4 25.8 C8.2 23.2 8.6 20 8.2 15.2 Z" fill="#9333EA" stroke="#4C1D95" stroke-width="1.1" />
+        <path d="M10.6 14.4 A5.4 5.8 0 1 0 21.4 14.4 A5.4 5.8 0 1 0 10.6 14.4 Z" fill="#F3D2A2" stroke="#4C1D95" stroke-width="1.1" />
+        <path d="M10.4 12.2 C11.4 8.6 14 7.6 16 7.6 C18 7.6 20.6 8.6 21.6 12.2 C19.4 9.8 17.6 9 16 9 C14.4 9 12.6 9.8 10.4 12.2 Z" fill="#A855F7" stroke="#4C1D95" stroke-width="1.1" />
+        <path d="M11.4 21.4 C14.2 23.4 17.8 23.4 20.6 21.4" fill="none" stroke="#581C87" stroke-width="1.1" />
+        <circle cx="13.6" cy="14.4" r="0.9" fill="#37474F" stroke="none" /><circle cx="18.4" cy="14.4" r="0.9" fill="#37474F" stroke="none" /><path d="M12 12.8 L11 12.3 M20 12.8 L21 12.3" fill="none" stroke="#37474F" stroke-width="0.8" /><path d="M14 17.4 C15 18.8 17 18.8 18 17.4" fill="none" stroke="#E11D48" stroke-width="1.35" />
+      </g>
+</svg>

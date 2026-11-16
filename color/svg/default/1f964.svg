@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cup-with-straw">
+<g>
+        <!-- Bendy Straw -->
+        <path d="M16 11 L16 7.5 L21.5 4" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M16 11 L16 7.5 L21.5 4" stroke="#0284C7" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <!-- Tapered Fast Food Paper Cup Body -->
+        <polygon points="9,13.5 23,13.5 21,28 11,28" fill="#EF4444" stroke="#B91C1C" stroke-width="1.2" stroke-linejoin="round" />
+        <!-- Iconic White Branding Wave Stripe -->
+        <path d="M9.8 19 C13 21 19 17 22.2 19 L21.8 22 C18.6 20 12.6 24 9.4 22 Z" fill="#FFFFFF" opacity="0.9" />
+        <!-- Snap-On Translucent Lid -->
+        <rect x="8" y="11" width="16" height="2.8" rx="1.2" fill="#F1F5F9" stroke="#94A3B8" stroke-width="1.1" />
+        <!-- Lid Lip Rim Line -->
+        <line x1="7.5" y1="13.8" x2="24.5" y2="13.8" stroke="#CBD5E1" stroke-width="0.8" stroke-linecap="round" />
+      </g>
+</svg>

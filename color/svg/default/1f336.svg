@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hot-pepper">
+<g>
+        <!-- Pepper body -->
+        <path d="M19 6c-3 3-9 8.5-9 15.5 0 3.5 2.5 5.5 3.5 5.5 1 0 1-2.5 2.5-5.5s7-8.5 6.5-12.5z" fill="#EF4444" stroke="#B91C1C" stroke-width="1" />
+        <!-- Shiny highlight -->
+        <path d="M13 13c-1.5 3-1.5 6 0 9" stroke="#FCA5A5" stroke-width="1" stroke-linecap="round" fill="none" />
+        <!-- Green calyx &amp; stem -->
+        <path d="M19 6c2-2 4-2 6-1" stroke="#16A34A" stroke-width="1.8" stroke-linecap="round" fill="none" />
+        <polygon points="17,6 20,4 23,6 20,8" fill="#16A34A" />
+      </g>
+</svg>

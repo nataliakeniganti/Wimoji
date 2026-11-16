@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="orangutan">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Feet (seated ape pose, NO tail) -->
+        <ellipse cx="11.4" cy="27.2" rx="2.9" ry="1.5" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <ellipse cx="20.6" cy="27.2" rx="2.9" ry="1.5" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <!-- Shaggy Torso &amp; Belly -->
+        <ellipse cx="16" cy="21" rx="6.6" ry="6.2" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <ellipse cx="16" cy="22" rx="3.6" ry="4.2" fill="#FED7AA" stroke="none" />
+        <!-- Long Shaggy Orangutan Arms -->
+        <ellipse cx="8.8" cy="20.8" rx="2.2" ry="5.4" transform="rotate(14 8.8 20.8)" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <ellipse cx="23.2" cy="20.8" rx="2.2" ry="5.4" transform="rotate(-14 23.2 20.8)" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <!-- Distinctive Wide Orangutan Cheek Flanges (Cheek Pads) -->
+        <ellipse cx="10.2" cy="11.2" rx="2.6" ry="3.8" fill="#C2410C" stroke="#9A3412" stroke-width="1.1" />
+        <ellipse cx="21.8" cy="11.2" rx="2.6" ry="3.8" fill="#C2410C" stroke="#9A3412" stroke-width="1.1" />
+        <!-- Head &amp; Shaggy Crown -->
+        <circle cx="16" cy="10.4" r="5.8" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <!-- Warm Tan Ape Face Mask &amp; Muzzle -->
+        <path d="M11.8 9.2 C11.8 7.6 14 7.8 16 9.4 C18 7.8 20.2 7.6 20.2 9.2 C20.2 12 18.6 13.2 16 13.2 C13.4 13.2 11.8 12 11.8 9.2 Z" fill="#FED7AA" stroke="none" />
+        <ellipse cx="16" cy="13.1" rx="2.7" ry="1.9" fill="#FED7AA" stroke="#9A3412" stroke-width="0.6" />
+        <!-- Expressive Eyes, Nostrils &amp; Smile -->
+        <circle cx="13.9" cy="10" r="0.85" fill="#0F172A" />
+        <circle cx="18.1" cy="10" r="0.85" fill="#0F172A" />
+        <circle cx="15.2" cy="12.6" r="0.38" fill="#0F172A" />
+        <circle cx="16.8" cy="12.6" r="0.38" fill="#0F172A" />
+        <path d="M14.8 14.3 C15.6 14.9 16.4 14.9 17.2 14.3" fill="none" stroke="#0F172A" stroke-width="0.7" />
+      </g>
+</svg>

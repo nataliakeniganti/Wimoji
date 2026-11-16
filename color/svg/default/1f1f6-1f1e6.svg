@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-qatar">
+<defs><clipPath id="wimoji-flag-qa-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-qa-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#FFFFFF" />
+        <polygon points="9.0,6.00 11.5,7.11 9.0,8.22 11.5,9.33 9.0,10.44 11.5,11.56 9.0,12.67 11.5,13.78 9.0,14.89 11.5,16.00 9.0,17.11 11.5,18.22 9.0,19.33 11.5,20.44 9.0,21.56 11.5,22.67 9.0,23.78 11.5,24.89 9.0,26.00 30,26 30,6" fill="#8A1538" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

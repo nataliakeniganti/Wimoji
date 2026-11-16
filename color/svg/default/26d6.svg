@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="black-two-way-left-way-traffic">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="16,4.5 27.5,16 16,27.5 4.5,16" fill="#FBBF24" stroke="#0F172A" stroke-width="1.5" />
+        <path d="M10.25 21.5v-7.5H8l3.5-4.5 3.5 4.5h-2.25v7.5z" fill="#0F172A" />
+        <path d="M19.25 10.5v7.5H17l3.5 4.5 3.5-4.5h-2.25v-7.5z" fill="#0F172A" />
+      </g>
+</svg>

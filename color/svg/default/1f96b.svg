@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="canned-food">
+<g>
+        <!-- Tin Can Metal Hull -->
+        <path d="M8 8 V24 C8 25.8 11.5 27 16 27 C20.5 27 24 25.8 24 24 V8 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="1.2" />
+        <!-- Bottom Rim Line -->
+        <path d="M8 24 C8 25.8 11.5 27 16 27 C20.5 27 24 25.8 24 24" stroke="#64748B" stroke-width="1.2" fill="none" />
+        <!-- Red Label Paper Band -->
+        <path d="M8 12 V21 C11.5 22.2 20.5 22.2 24 21 V12 C20.5 13.2 11.5 13.2 8 12 Z" fill="#EF4444" stroke="#B91C1C" stroke-width="0.8" />
+        <!-- Label Tomato / Soup Emblem -->
+        <circle cx="16" cy="16.5" r="2.4" fill="#FACC15" />
+        <circle cx="16" cy="16.5" r="1.8" fill="#DC2626" />
+        <!-- Top Embossed Metallic Can Lid -->
+        <ellipse cx="16" cy="8" rx="8" ry="2.5" fill="#E2E8F0" stroke="#64748B" stroke-width="1.2" />
+        <!-- Pull Tab Ring -->
+        <ellipse cx="16" cy="8" rx="2.5" ry="1" fill="none" stroke="#64748B" stroke-width="0.9" />
+        <circle cx="16" cy="8" r="0.6" fill="#64748B" />
+        <!-- Can Shine Glare -->
+        <line x1="10" y1="12" x2="10" y2="21" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.6" />
+      </g>
+</svg>

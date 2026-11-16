@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="harp">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Base Pedestal -->
+        <rect x="5" y="25" width="13" height="3" rx="1.2" fill="#B45309" stroke="#78350F" stroke-width="0.8" />
+        <!-- Soundbox Body (Right diagonal resonator) -->
+        <path d="M10 25.5 L24.5 10 C25.5 11 26 13 25 15 L14 26.5 Z" fill="#D97706" stroke="#78350F" stroke-width="1" />
+        <!-- Harmonic Neck (Curved top beam) -->
+        <path d="M7 8 C7 5 11 4.5 14 6 C17 7.5 21 8.5 24.5 10" fill="none" stroke="#F59E0B" stroke-width="2.8" />
+        <path d="M7 8 C7 5 11 4.5 14 6 C17 7.5 21 8.5 24.5 10" fill="none" stroke="#78350F" stroke-width="0.8" />
+        <!-- Pillar Column (Left upright) -->
+        <path d="M7.5 25.5 V8" stroke="#F59E0B" stroke-width="2.6" />
+        <path d="M7.5 25.5 V8" stroke="#78350F" stroke-width="0.8" fill="none" />
+        <circle cx="7.5" cy="7.5" r="1.8" fill="#FBBF24" stroke="#78350F" stroke-width="0.8" />
+        <!-- Strings -->
+        <line x1="10" y1="6.2" x2="10" y2="25" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="12" y1="7" x2="12" y2="23.5" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="14" y1="7.8" x2="14" y2="21.5" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="16" y1="8.5" x2="16" y2="19.5" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="18" y1="9" x2="18" y2="17" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="20" y1="9.4" x2="20" y2="14.8" stroke="#FBBF24" stroke-width="0.75" />
+        <line x1="22" y1="9.8" x2="22" y2="12.5" stroke="#FBBF24" stroke-width="0.75" />
+      </g>
+</svg>

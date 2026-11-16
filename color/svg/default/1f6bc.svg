@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="baby-symbol">
+<g>
+        <rect x="4" y="4" width="24" height="24" rx="6" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
+        <!-- Crawling Infant Silhouette -->
+        <g stroke="#F8FAFC" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="11.5" cy="11" r="2.8" fill="#F8FAFC" stroke="none" />
+          <path d="M13.5 13.5l4 3.5 4-2" />
+          <path d="M17.5 17v4.5l-3.5 2.5" />
+          <path d="M14 15l2 3" />
+        </g>
+      </g>
+</svg>

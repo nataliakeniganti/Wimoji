@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="studio-microphone">
+<g>
+        <!-- Base Stand and Stem -->
+        <line x1="16" y1="20" x2="16" y2="27" stroke="#64748B" stroke-width="2.5" stroke-linecap="round" />
+        <ellipse cx="16" cy="27" rx="6.5" ry="2" fill="#64748B" stroke="#1E293B" stroke-width="1" />
+        <!-- U-shaped cradle holder -->
+        <path d="M8 12c0 5 3.5 8.5 8 8.5s8-3.5 8-8.5" stroke="#64748B" stroke-width="2" stroke-linecap="round" fill="none" />
+        <!-- Microphone Capsule Cylinder with rounded ends -->
+        <rect x="11.5" y="4" width="9" height="13.5" rx="4.5" fill="#94A3B8" stroke="#334155" stroke-width="1.2" />
+        <!-- Mesh Grill Lines -->
+        <line x1="12" y1="7" x2="20" y2="7" stroke="#475569" stroke-width="0.8" />
+        <line x1="11.5" y1="10" x2="20.5" y2="10" stroke="#475569" stroke-width="1.2" />
+        <line x1="12" y1="13" x2="20" y2="13" stroke="#475569" stroke-width="0.8" />
+        <!-- Metallic specular highlight -->
+        <line x1="14" y1="5.5" x2="14" y2="15.5" stroke="#FFFFFF" stroke-width="0.8" opacity="0.6" />
+      </g>
+</svg>

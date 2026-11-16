@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="jack-o-lantern">
+<g>
+        <!-- Green Pumpkin Stem -->
+        <path d="M15 8V4c1.5-0.5 3-0.5 4 0l-1 4h-3z" fill="#16A34A" stroke="#15803D" stroke-width="0.8" />
+        <!-- Pumpkin Ribbed Lobes Base -->
+        <ellipse cx="16" cy="18" rx="12.5" ry="10" fill="#F97316" stroke="#C2410C" stroke-width="1.2" />
+        <!-- Inner rib lines -->
+        <path d="M12 8.5c-4 3-4 15 0 19" stroke="#EA580C" stroke-width="1.2" fill="none" />
+        <path d="M20 8.5c4 3 4 15 0 19" stroke="#EA580C" stroke-width="1.2" fill="none" />
+        <!-- Glowing Carved Facial Features (Golden Yellow) -->
+        <!-- Eyes -->
+        <polygon points="10.5,14 13.5,17.5 9.5,17.5" fill="#FEF08A" stroke="#9A3412" stroke-width="0.6" />
+        <polygon points="21.5,14 22.5,17.5 18.5,17.5" fill="#FEF08A" stroke="#9A3412" stroke-width="0.6" />
+        <!-- Nose -->
+        <polygon points="16,17 17.5,19.5 14.5,19.5" fill="#FEF08A" stroke="#9A3412" stroke-width="0.5" />
+        <!-- Tooth Carved Jagged Smile -->
+        <polygon points="9.5,22 13,20.5 16,22.5 19,20.5 22.5,22 20,25.5 16,24.5 12,25.5" fill="#FEF08A" stroke="#9A3412" stroke-width="0.8" />
+      </g>
+</svg>

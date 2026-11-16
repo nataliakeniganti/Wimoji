@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="chart-decreasing">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 5 V27 H28" stroke="#475569" stroke-width="2" fill="none" />
+        <!-- Grid dot lines -->
+        <line x1="4" y1="12" x2="27" y2="12" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 2" />
+        <line x1="4" y1="19" x2="27" y2="19" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="2 2" />
+        <!-- Shaded drop zone -->
+        <polygon points="7,9 13,16 18,12 26,23 26,27 7,27" fill="#FEE2E2" opacity="0.6" />
+        <!-- Plunging red loss line -->
+        <path d="M7 9 L13 16 L18 12 L26 23" stroke="#EF4444" stroke-width="3" fill="none" />
+        <!-- Arrowhead downward -->
+        <polyline points="20.5,23 26,23 26,17.5" stroke="#EF4444" stroke-width="3" fill="none" />
+      </g>
+</svg>

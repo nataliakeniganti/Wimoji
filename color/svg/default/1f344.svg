@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mushroom">
+<g>
+        <!-- Stem -->
+        <path d="M13 17v7c0 2 1.5 3 3 3s3-1 3-3v-7z" fill="#FEF08A" stroke="#D97706" stroke-width="1" />
+        <!-- Red Toadstool Cap -->
+        <path d="M4 18c0-8 5.5-13 12-13s12 5 12 13H4z" fill="#EF4444" stroke="#B91C1C" stroke-width="1.2" />
+        <!-- White Spots -->
+        <circle cx="16" cy="10" r="2.2" fill="#FFFFFF" />
+        <circle cx="9" cy="14" r="1.6" fill="#FFFFFF" />
+        <circle cx="23" cy="14" r="1.6" fill="#FFFFFF" />
+        <circle cx="15" cy="16" r="1.2" fill="#FFFFFF" />
+      </g>
+</svg>

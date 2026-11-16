@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lotion-bottle">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 8.6 V5.2 H21.6 C22.4 5.2 22.8 5.8 22.8 6.8" fill="none" stroke="#0F172A" stroke-width="2.4" />
+        <path d="M16 8.6 V5.2 H21.6 C22.4 5.2 22.8 5.8 22.8 6.8" fill="none" stroke="#38BDF8" stroke-width="1.1" />
+        <rect x="13" y="8.4" width="6" height="3.2" rx="0.8" fill="#38BDF8" stroke="#0F172A" stroke-width="1.1" />
+        <path d="M11 11.5 H21 C22.6 11.5 23.8 13.2 23.8 15.6 V26 C23.8 27.1 22.9 28 21.8 28 H10.2 C9.1 28 8.2 27.1 8.2 26 V15.6 C8.2 13.2 9.4 11.5 11 11.5 Z" fill="#F8FAFC" stroke="#0F172A" stroke-width="1.2" />
+        <rect x="10.8" y="16" width="10.4" height="7.6" rx="1" fill="#38BDF8" stroke="#0F172A" stroke-width="0.9" />
+        <circle cx="16" cy="19.8" r="1.8" fill="#FFFFFF" opacity="0.85" />
+      </g>
+</svg>

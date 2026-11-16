@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="beans">
+<g>
+        <!-- Left Kidney Bean -->
+        <path d="M10 8c-3 3-4 8-1 12 2 3 6 3 7 1 2-2 1-5 0-7-1-3 0-5 2-6 1-2-1-3-4-2-2 0-3 1-4 2z" fill="#991B1B" stroke="#450A0A" stroke-width="1" />
+        <ellipse cx="8.5" cy="14" rx="1.2" ry="3" transform="rotate(-20 8.5 14)" fill="#FFFFFF" opacity="0.25" />
+        <ellipse cx="12.5" cy="14" rx="0.8" ry="1.2" transform="rotate(15 12.5 14)" fill="#FEF08A" />
+        <!-- Right Kidney Bean -->
+        <path d="M22 10c3 3 4 8 1 12-2 3-6 3-7 1-2-2-1-5 0-7 1-3 0-5-2-6-1-2 1-3 4-2 2 0 3 1 4 2z" fill="#991B1B" stroke="#450A0A" stroke-width="1" />
+        <ellipse cx="23.5" cy="16" rx="1.2" ry="3" transform="rotate(20 23.5 16)" fill="#FFFFFF" opacity="0.25" />
+        <ellipse cx="19.5" cy="16" rx="0.8" ry="1.2" transform="rotate(-15 19.5 16)" fill="#FEF08A" />
+        <!-- Bottom Center Bean -->
+        <path d="M12 24c3-2 8-2 11 1 2 2 2 5-1 6-3 1-5 0-7 0-3-1-5 0-6-1-2-1-1-3 0-4 1-1 2-2 3-2z" fill="#DC2626" stroke="#450A0A" stroke-width="1" />
+        <ellipse cx="17" cy="28.5" rx="2.5" ry="1" fill="#FFFFFF" opacity="0.25" />
+        <ellipse cx="17" cy="26" rx="1.2" ry="0.8" fill="#FEF08A" />
+      </g>
+</svg>

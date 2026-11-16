@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="woman-pouting-medium-light">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9.15 12.45 C7.81 6.69 11.53 3.29 16.00 3.29 C20.47 3.29 24.19 6.69 22.85 12.45 C22.55 16.15 23.29 18.81 24.19 20.73 C21.80 21.03 20.47 19.84 19.42 18.51 H12.58 18.51 C11.53 19.84 10.20 21.03 7.81 20.73 C8.71 18.81 9.45 16.15 9.15 12.45 Z" fill="#78350F" stroke="none" stroke-width="1.05" />
+        <path d="M13.4 17.6 H18.6 V22 H13.4 Z" fill="#F3D2A2" stroke="#D4AA76" stroke-width="1.05" />
+        <path d="M4.6 32 C4.6 24 9.6 20.4 16 20.4 C22.4 20.4 27.4 24 27.4 32 Z" fill="#EC407A" stroke="#9D174D" stroke-width="1.05" />
+        <path d="M9.6 12.6 A6.4 6.8 0 1 0 22.4 12.6 A6.4 6.8 0 1 0 9.6 12.6 Z" fill="#F3D2A2" stroke="#D4AA76" stroke-width="1.05" />
+        <path d="M9.90 12.16 C9.15 7.13 12.13 4.03 16.00 4.03 C19.87 4.03 22.85 7.13 22.10 12.16 C21.21 10.09 19.57 8.76 17.79 7.72 C16.00 9.64 12.73 10.83 9.90 12.16 Z" fill="#78350F" stroke="none" stroke-width="1.05" />
+        <path d="M11 10.4 L14.8 12 M21 10.4 L17.2 12" fill="none" stroke="#37474F" stroke-width="1.2" /><path d="M11.6 13.8 L10.799999999999999 13.3 M20.4 13.8 L21.2 13.3" fill="none" stroke="#37474F" stroke-width="0.8" /><circle cx="13.2" cy="14" r="0.9" fill="#37474F" stroke="none" /><circle cx="18.8" cy="14" r="0.9" fill="#37474F" stroke="none" /><ellipse cx="16" cy="17.2" rx="1.6" ry="1.1" fill="#E11D48" stroke="#37474F" stroke-width="0.8" /><circle cx="11.4" cy="16.2" r="1.2" fill="#F87171" opacity="0.55" /><circle cx="20.6" cy="16.2" r="1.2" fill="#F87171" opacity="0.55" />
+      </g>
+</svg>

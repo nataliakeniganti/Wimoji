@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-pitcairn-islands">
+<defs><clipPath id="wimoji-flag-pn-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-pn-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#012169" />
+        <defs><clipPath id="wimoji-flag-pn-uj"><rect x="2" y="6" width="13.5" height="10" /></clipPath></defs>
+  <g clip-path="url(#wimoji-flag-pn-uj)">
+    <rect x="2" y="6" width="13.5" height="10" fill="#012169" />
+    <path d="M2 6 L15.5 16 M15.5 6 L2 16" stroke="#FFFFFF" stroke-width="2.1" />
+    <path d="M2 6 L15.5 16 M15.5 6 L2 16" stroke="#C8102E" stroke-width="0.95" />
+    <path d="M8.75 6 V16 M2 11 H15.5" stroke="#FFFFFF" stroke-width="3.0" />
+    <path d="M8.75 6 V16 M2 11 H15.5" stroke="#C8102E" stroke-width="1.7" />
+  </g>
+        <circle cx="22.6" cy="11.0" r="1.05" fill="#16A34A" />
+        <path d="M19.8 12.2 H25.4 V16.4 Q22.6 19.8 19.8 16.4 Z" fill="#38BDF8" stroke="#FACC15" stroke-width="0.6" />
+        <polygon points="20.4,17.2 22.6,12.8 24.8,17.2" fill="#16A34A" />
+        <line x1="22.6" y1="14" x2="22.6" y2="17.8" stroke="#FACC15" stroke-width="0.85" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

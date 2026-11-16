@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="person-gesturing-ok-medium">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 32 C7 26.6 10 24 16 24 C22 24 25 26.6 25 32 Z" fill="#FB8C00" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M9 27 C3.8 21.4 5 10.4 12.8 6.4" fill="none" stroke="#6E4523" stroke-width="5.4" /><path d="M9 27 C3.8 21.4 5 10.4 12.8 6.4" fill="none" stroke="#FB8C00" stroke-width="3.2" />
+        <path d="M23 27 C28.2 21.4 27 10.4 19.2 6.4" fill="none" stroke="#6E4523" stroke-width="5.4" /><path d="M23 27 C28.2 21.4 27 10.4 19.2 6.4" fill="none" stroke="#FB8C00" stroke-width="3.2" />
+        <path d="M12 5.6 C12 3.2 20 3.2 20 5.6 C20 7.8 12 7.8 12 5.6 Z" fill="#D5A070" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M10.7 17.6 A5.3 5.6 0 1 0 21.3 17.6 A5.3 5.6 0 1 0 10.7 17.6 Z" fill="#D5A070" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M10.95 17.23 C10.33 13.10 12.80 10.54 16.00 10.54 C19.20 10.54 21.67 13.10 21.05 17.23 C20.31 15.53 18.96 14.43 17.48 13.58 C16.00 15.17 13.29 16.14 10.95 17.23 Z" fill="#78350F" stroke="#6E4523" stroke-width="1.1" />
+        <path d="M11.8 18.2 C12.2 16.8 14 16.8 14.4 18.2 M17.6 18.2 C18 16.8 19.8 16.8 20.2 18.2" fill="none" stroke="#37474F" stroke-width="1.2" /><path d="M13.4 20.2 C14 23.2 18 23.2 18.6 20.2 Z" fill="#7F1D1D" stroke="#37474F" stroke-width="0.9" /><path d="M14.2 5.2 H17.8" fill="none" stroke="#37474F" stroke-width="0.9" />
+      </g>
+</svg>

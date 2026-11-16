@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sweet-potato">
+<g>
+        <!-- Purple skin outer body -->
+        <path d="M5 25c-3-4-1-12 5-17 6-4 13-4 17-2 2 3 2 8-1 12-4 5-13 10-21 7z" fill="#7E22CE" stroke="#581C87" stroke-width="1.2" />
+        <!-- Skin shadow / texture -->
+        <path d="M7 23c2 2 7 2 12-2" stroke="#581C87" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.6" />
+        <!-- Cut surface skin rim -->
+        <ellipse cx="21" cy="11" rx="5.2" ry="4.2" transform="rotate(-35 21 11)" fill="#6B21A8" />
+        <!-- Steaming golden flesh -->
+        <ellipse cx="21" cy="11" rx="4.5" ry="3.5" transform="rotate(-35 21 11)" fill="#F59E0B" />
+        <ellipse cx="21" cy="11" rx="3" ry="2.2" transform="rotate(-35 21 11)" fill="#FEF08A" opacity="0.75" />
+        <!-- Steam wisps rising -->
+        <path d="M20 4c-0.5-1.2 0.8-2 0-3" stroke="#CBD5E1" stroke-width="1.2" stroke-linecap="round" fill="none" />
+        <path d="M25 6c-0.5-1.2 0.8-2 0-3" stroke="#CBD5E1" stroke-width="1.2" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

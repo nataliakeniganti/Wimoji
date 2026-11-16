@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="playground-slide">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Blue Ladder Legs &amp; Rungs -->
+        <line x1="6" y1="28.5" x2="6" y2="7.5" stroke="#0284C7" stroke-width="1.8" />
+        <line x1="10" y1="28.5" x2="10" y2="7.5" stroke="#0284C7" stroke-width="1.8" />
+        <line x1="6" y1="13" x2="10" y2="13" stroke="#0284C7" stroke-width="1.5" />
+        <line x1="6" y1="18" x2="10" y2="18" stroke="#0284C7" stroke-width="1.5" />
+        <line x1="6" y1="23" x2="10" y2="23" stroke="#0284C7" stroke-width="1.5" />
+        <!-- Slide Support Leg -->
+        <line x1="20" y1="19" x2="20" y2="28.5" stroke="#64748B" stroke-width="1.6" />
+        <!-- Red Slide Chute Swoop -->
+        <path d="M9 7.5h5c2.2 0 3.5 1.5 4.5 4.2l4.8 10.5c.8 1.8 2 2.5 3.7 2.5h2" stroke="#EF4444" stroke-width="3" fill="none" />
+        <path d="M9 6h5c2.2 0 3.5 1.5 4.5 4.2l4.8 10.5c.8 1.8 2 2.5 3.7 2.5h2" stroke="#FCA5A5" stroke-width="1" fill="none" />
+        <!-- Ground Baseline -->
+        <line x1="3" y1="28.5" x2="29" y2="28.5" stroke="#16A34A" stroke-width="1.8" />
+      </g>
+</svg>

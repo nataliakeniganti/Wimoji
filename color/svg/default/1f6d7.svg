@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="elevator">
+<g>
+        <!-- Blue Elevator Badge -->
+        <rect x="3" y="3" width="26" height="26" rx="5" fill="#0284C7" stroke="#0369A1" stroke-width="0" />
+        <!-- Direction Arrows (Up &amp; Down) -->
+        <polygon points="12,5.5 8.5,9 15.5,9" fill="#F8FAFC" />
+        <polygon points="20,9 16.5,5.5 23.5,5.5" fill="#F8FAFC" />
+        <!-- Boy Stick Figure Silhouette Base -->
+        <circle cx="10" cy="12.5" r="1.6" fill="#F8FAFC" />
+        <path d="M7.8 15h4.4c.5 0 .9.4.9.9v2.8c0 .4-.3.6-.6.6h-.6v4.2c0 .4-.3.6-.6.6h-1.3c-.4 0-.6-.3-.6-.6V19.3h-.6c-.4 0-.6-.3-.6-.6v-2.8c0-.5.4-.9.9-.9z" fill="#F8FAFC" />
+        <!-- Girl Dress Silhouette Base -->
+        <circle cx="22" cy="12.5" r="1.6" fill="#F8FAFC" />
+        <path d="M20.7 15h2.6c.5 0 .9.3 1 .8l1.4 4.5c.1.5-.3 1-.8 1h-4.8c-.5 0-.9-.5-.8-1l1.4-4.5c.1-.5.5-.8 1-.8z" fill="#F8FAFC" />
+        <rect x="20.2" y="21.3" width="1.3" height="2.8" rx="0.3" fill="#F8FAFC" />
+        <rect x="22.5" y="21.3" width="1.3" height="2.8" rx="0.3" fill="#F8FAFC" />
+      </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-sark">
+<defs><clipPath id="wimoji-flag-cq-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-cq-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#FFFFFF" />
+        <rect x="14.1" y="6" width="3.8" height="20" fill="#CE1124" />
+        <rect x="2" y="14.1" width="28" height="3.8" fill="#CE1124" />
+        <rect x="2" y="6" width="12.2" height="8.2" fill="#CE1124" />
+        <path d="M5.6 8.8 H10.8 V9.9 H9.6 V10.5 H8.8 V9.9 H7.2 V10.5 H6.4 V9.9 H5.6 Z" fill="#FFD100" />
+        <path d="M5.6 11.7 H10.8 V12.8 H9.6 V13.4 H8.8 V12.8 H7.2 V13.4 H6.4 V12.8 H5.6 Z" fill="#FFD100" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-congo-kinshasa">
+<defs><clipPath id="wimoji-flag-cd-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-cd-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#007FFF" />
+        <line x1="2" y1="26" x2="30" y2="6" stroke="#F7D618" stroke-width="5.6" />
+        <line x1="2" y1="26" x2="30" y2="6" stroke="#CE1021" stroke-width="3.4" />
+        <polygon points="6.80,8.00 7.39,9.69 9.18,9.73 7.75,10.81 8.27,12.52 6.80,11.50 5.33,12.52 5.85,10.81 4.42,9.73 6.21,9.69" fill="#F7D618" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#2563EB" stroke-width="0.8" opacity="0.45" />
+</svg>

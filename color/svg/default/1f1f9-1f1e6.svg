@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-tristan-da-cunha">
+<defs><clipPath id="wimoji-flag-ta-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-ta-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#012169" />
+        <defs><clipPath id="wimoji-flag-ta-uj"><rect x="2" y="6" width="13.5" height="10" /></clipPath></defs>
+  <g clip-path="url(#wimoji-flag-ta-uj)">
+    <rect x="2" y="6" width="13.5" height="10" fill="#012169" />
+    <path d="M2 6 L15.5 16 M15.5 6 L2 16" stroke="#FFFFFF" stroke-width="2.1" />
+    <path d="M2 6 L15.5 16 M15.5 6 L2 16" stroke="#C8102E" stroke-width="0.95" />
+    <path d="M8.75 6 V16 M2 11 H15.5" stroke="#FFFFFF" stroke-width="3.0" />
+    <path d="M8.75 6 V16 M2 11 H15.5" stroke="#C8102E" stroke-width="1.7" />
+  </g>
+        <path d="M19.8 12.6 H25.4 V16.4 Q22.6 19.6 19.8 16.4 Z" fill="#FFFFFF" stroke="#FACC15" stroke-width="0.6" />
+        <path d="M19.9 12.7 H25.3 V15.3 H19.9 Z" fill="#38BDF8" />
+        <polygon points="22.6,13.4 24.0,15.4 22.6,17.4 21.2,15.4" fill="#FFFFFF" stroke="#012169" stroke-width="0.45" />
+        <path d="M21.0 11.4 Q22.6 10.4 24.2 11.4" fill="none" stroke="#FACC15" stroke-width="0.85" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="jeans">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 6 H23 L25 26 H18 L16 14 L14 26 H7 Z" fill="#2563EB" stroke="#1D4ED8" stroke-width="0.8" />
+        <line x1="8.5" y1="9" x2="23.5" y2="9" stroke="#F59E0B" stroke-width="1" />
+        <line x1="16" y1="9" x2="16" y2="14" stroke="#F59E0B" stroke-width="0.8" />
+        <!-- Pockets -->
+        <path d="M10 10 C12 10 13 11 13 13" stroke="#F59E0B" stroke-width="0.8" fill="none" />
+        <path d="M22 10 C20 10 19 11 19 13" stroke="#F59E0B" stroke-width="0.8" fill="none" />
+      </g>
+</svg>

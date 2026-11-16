@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-with-symbols-on-mouth">
+<g>
+        <!-- Fiery red angry head -->
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" fill="#EF4444" stroke="#B91C1C" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" opacity="0.25" fill="#F87171" />
+        <!-- Furious furrowed angled eyebrows -->
+        <path d="M8 9.5 L14 13" stroke="#450A0A" stroke-width="1.8" stroke-linecap="round" />
+        <path d="M24 9.5 L18 13" stroke="#450A0A" stroke-width="1.8" stroke-linecap="round" />
+        <ellipse cx="11.5" cy="14.2" rx="1.6" ry="2" fill="#450A0A" />
+        <ellipse cx="20.5" cy="14.2" rx="1.6" ry="2" fill="#450A0A" />
+        <ellipse cx="12" cy="13.5" rx="0.5" ry="0.5" fill="#FFFFFF" />
+        <ellipse cx="21" cy="13.5" rx="0.5" ry="0.5" fill="#FFFFFF" />
+        <!-- Black censor bar with cursing symbols -->
+        <rect x="7" y="18.5" width="18" height="6" rx="1.2" fill="#0F172A" />
+        <!-- White curse symbols: @ % ! &amp; # -->
+        <text x="16" y="23" font-family="monospace, sans-serif" font-weight="900" font-size="4.5" text-anchor="middle" fill="#FFFFFF" letter-spacing="1">@$#!&amp;</text>
+      </g>
+</svg>

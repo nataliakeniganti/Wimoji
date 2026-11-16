@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="nauseated-face">
+<g>
+        <!-- Sick green head -->
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" fill="#84CC16" stroke="#65A30D" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" opacity="0.3" fill="#A3E635" />
+        <!-- Puffy bloated green cheeks -->
+        <circle cx="8" cy="18" r="3" fill="#65A30D" opacity="0.4" />
+        <circle cx="24" cy="18" r="3" fill="#65A30D" opacity="0.4" />
+        <!-- Queasy angled eyebrows &amp; droopy sick eyes -->
+        <path d="M9.5 12.5 C11.5 11 13 11 14 12 M18 12 C19 11 20.5 11 22.5 12.5" stroke="#365314" stroke-width="1.3" stroke-linecap="round" fill="none" />
+        <ellipse cx="11.5" cy="14" rx="1.5" ry="1.2" fill="#1E293B" />
+        <ellipse cx="20.5" cy="14" rx="1.5" ry="1.2" fill="#1E293B" />
+        <!-- Queasy wavy mouth keeping vomit in -->
+        <path d="M10.5 21 C12.5 23 15 19.5 17 21.5 C19 23 20.5 21.5 21.5 20" stroke="#365314" stroke-width="1.6" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

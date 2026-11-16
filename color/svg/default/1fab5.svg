@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="wood-log">
+<g stroke-linejoin="round">
+        <!-- Log Cylinder Body -->
+        <path d="M8.5 12 L24.5 14 C27 14 28 17 28 20 C28 23 27 26 24.5 26 L8.5 24 Z" fill="#78350F" stroke="#451A03" stroke-width="0.8" />
+        <!-- Top bark cylinder highlight -->
+        <path d="M8.5 12 L24.5 14 C26 14.2 27 15.5 27.5 17 L8.5 15 Z" fill="#92400E" opacity="0.6" />
+        <!-- Bark wood grain lines -->
+        <path d="M13 18 C17 18 21 19 25 19" stroke="#451A03" stroke-width="0.8" stroke-linecap="round" />
+        <path d="M14 22 C18 22 21 23 24 23" stroke="#451A03" stroke-width="0.8" stroke-linecap="round" />
+        <!-- Log Face (Annual Rings) -->
+        <ellipse cx="8.5" cy="18" rx="4.5" ry="6" fill="#FDE68A" stroke="#451A03" stroke-width="0.8" />
+        <!-- Outer Tree Ring -->
+        <ellipse cx="8.5" cy="18" rx="3.2" ry="4.3" fill="none" stroke="#D97706" stroke-width="0.8" />
+        <!-- Inner Tree Ring -->
+        <ellipse cx="8.5" cy="18" rx="1.8" ry="2.4" fill="none" stroke="#D97706" stroke-width="0.8" />
+        <!-- Center Pith -->
+        <circle cx="8.5" cy="18" r="0.8" fill="#D97706" />
+        <!-- Fresh green sprout on log -->
+        <path d="M19 13.5 C19 11 20 9 22 8" stroke="#16A34A" stroke-width="1.2" stroke-linecap="round" fill="none" />
+        <path d="M22 8 C23.5 9 23 11 20.5 11 Z" fill="#22C55E" stroke="#15803D" stroke-width="0.6" />
+      </g>
+</svg>

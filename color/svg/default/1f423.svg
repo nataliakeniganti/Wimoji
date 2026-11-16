@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hatching-chick">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Head tuft -->
+        <path d="M14.4 6.6 C13.6 4.8 15.2 4.2 16 5.8 C16.4 4.2 18.2 4.6 17.6 6.6" fill="none" stroke="#CA8A04" stroke-width="1.1" />
+        <!-- Wing tips -->
+        <ellipse cx="8.8" cy="15.4" rx="1.8" ry="2.8" transform="rotate(-28 8.8 15.4)" fill="#FDE047" stroke="#CA8A04" stroke-width="1.1" />
+        <ellipse cx="23.2" cy="15.4" rx="1.8" ry="2.8" transform="rotate(28 23.2 15.4)" fill="#FDE047" stroke="#CA8A04" stroke-width="1.1" />
+        <!-- Chick head -->
+        <circle cx="16" cy="12.6" r="6.4" fill="#FDE047" stroke="#CA8A04" stroke-width="1.1" />
+        <circle cx="13.2" cy="11.6" r="0.95" fill="#0F172A" />
+        <circle cx="18.8" cy="11.6" r="0.95" fill="#0F172A" />
+        <path d="M14.2 13 H17.8 L16 15.4 Z" fill="#F97316" stroke="#CA8A04" stroke-width="0.6" />
+        <circle cx="11.4" cy="13.8" r="1" fill="#FDA4AF" stroke="none" opacity="0.85" />
+        <circle cx="20.6" cy="13.8" r="1" fill="#FDA4AF" stroke="none" opacity="0.85" />
+        <!-- Broken eggshell -->
+        <path d="M6.4 19.4 L9.6 16 L12.8 19.4 L16 15.8 L19.2 19.4 L22.4 16 L25.6 19.4 C25.6 24.8 21.6 28.2 16 28.2 C10.4 28.2 6.4 24.8 6.4 19.4 Z" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.1" />
+        <path d="M10 23.4 C10.8 25 12.2 26 13.8 26.4" fill="none" stroke="#E2E8F0" stroke-width="1.2" />
+      </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="briefs">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Main blue pouch -->
+        <path d="M7 11.5 C7 17 11.5 24 15 25 H17 C20.5 24 25 17 25 11.5 Z" fill="#3B82F6" stroke="#1D4ED8" stroke-width="1.4" />
+        <!-- White elastic waistband -->
+        <rect x="6.5" y="8" width="19" height="3.5" rx="1" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="1.4" />
+        <!-- Waistband stripe -->
+        <line x1="7.5" y1="9.75" x2="24.5" y2="9.75" stroke="#94A3B8" stroke-width="0.8" />
+        <!-- Leg opening trim and fly seams -->
+        <path d="M16 11.5 V16 C14.5 18 14.5 22 15 25" stroke="#1D4ED8" stroke-width="1.1199999999999999" fill="none" />
+        <path d="M7 11.5 C8.5 16 12 22 15 25" stroke="#60A5FA" stroke-width="1.2" fill="none" />
+        <path d="M25 11.5 C23.5 16 20 22 17 25" stroke="#60A5FA" stroke-width="1.2" fill="none" />
+      </g>
+</svg>

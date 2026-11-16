@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="envelope-with-arrow">
+<g stroke-linecap="round" stroke-linejoin="round" transform="translate(0.2 -0.9)">
+        <rect x="3" y="6" width="24" height="16" rx="3" fill="#3B82F6" />
+        <path d="M3 7 L15 16 L27 7" stroke="#FFFFFF" stroke-width="2.3" fill="none" />
+        <!-- Down-arrow badge -->
+        <circle cx="22.5" cy="21" r="6.5" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="1.2" />
+        <path d="M22.5 17.5 V24 M19.3 21 L22.5 24.2 L25.7 21" stroke="#FFFFFF" stroke-width="1.6" fill="none" />
+      </g>
+</svg>

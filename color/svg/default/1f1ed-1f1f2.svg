@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-heard-and-mcdonald-islands">
+<defs><clipPath id="wimoji-flag-hm-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-hm-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#012169" />
+        <defs><clipPath id="wimoji-flag-hm-canton"><rect x="2" y="6" width="14" height="10" /></clipPath></defs>
+  <g clip-path="url(#wimoji-flag-hm-canton)">
+    <rect x="2" y="6" width="14" height="10" fill="#012169" />
+    <path d="M2 6 L16 16 M16 6 L2 16" stroke="#FFFFFF" stroke-width="2.1" />
+    <path d="M2 6 L16 16 M16 6 L2 16" stroke="#C8102E" stroke-width="0.95" />
+    <path d="M9 6 V16 M2 11 H16" stroke="#FFFFFF" stroke-width="3.0" />
+    <path d="M9 6 V16 M2 11 H16" stroke="#C8102E" stroke-width="1.7" />
+  </g>
+        <polygon points="9.00,18.70 9.43,20.10 10.80,19.57 9.97,20.78 11.24,21.51 9.78,21.62 10.00,23.07 9.00,22.00 8.00,23.07 8.22,21.62 6.76,21.51 8.03,20.78 7.20,19.57 8.57,20.10" fill="#FFFFFF" />
+        <circle cx="23" cy="9.2" r="1" fill="#FFFFFF" /><circle cx="20.5" cy="13" r="0.9" fill="#FFFFFF" /><circle cx="25.5" cy="12.2" r="0.9" fill="#FFFFFF" /><circle cx="23" cy="20.5" r="1" fill="#FFFFFF" /><circle cx="24.4" cy="15.8" r="0.6" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#1E3A8A" stroke-width="0.8" opacity="0.45" />
+</svg>

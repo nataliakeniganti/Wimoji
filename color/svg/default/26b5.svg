@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="juno-symbol">
+<g stroke="#EC4899" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <line x1="16" y1="9" x2="16" y2="28" />
+        <line x1="11" y1="23" x2="21" y2="23" />
+        <!-- Scepter star bursts -->
+        <circle cx="16" cy="6" r="3" />
+        <line x1="12" y1="4" x2="10" y2="2" />
+        <line x1="20" y1="4" x2="22" y2="2" />
+      </g>
+</svg>

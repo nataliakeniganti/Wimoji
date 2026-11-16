@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tomato">
+<g>
+        <!-- Red Tomato Body -->
+        <circle cx="16" cy="17" r="10.5" fill="#EF4444" stroke="#B91C1C" stroke-width="1.2" />
+        <!-- Soft highlight -->
+        <ellipse cx="12" cy="13" rx="2.5" ry="4" transform="rotate(-30 12 13)" fill="#FFFFFF" opacity="0.25" />
+        <!-- Green Calyx &amp; Stem -->
+        <path d="M16 8v-4" stroke="#16A34A" stroke-width="2" stroke-linecap="round" />
+        <path d="M16 7l-4-2M16 7l4-2M16 7l-3 3M16 7l3 3" stroke="#16A34A" stroke-width="2" stroke-linecap="round" />
+      </g>
+</svg>

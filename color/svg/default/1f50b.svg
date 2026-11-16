@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="battery">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Battery outer container -->
+        <rect x="3" y="9" width="23" height="14" rx="2.5" fill="#334155" stroke="#15803D" stroke-width="2" />
+        <!-- Positive terminal nub -->
+        <path d="M26 13 C27.5 13 28.5 14 28.5 15 V17 C28.5 18 27.5 19 26 19 Z" fill="#94A3B8" stroke="#15803D" stroke-width="1.4" />
+        <!-- Full battery charging segments -->
+        <rect x="6" y="11.5" width="5" height="9" rx="1" fill="#22C55E" />
+        <rect x="12" y="11.5" width="5" height="9" rx="1" fill="#22C55E" />
+        <rect x="18" y="11.5" width="5" height="9" rx="1" fill="#22C55E" />
+      </g>
+</svg>

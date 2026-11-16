@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="kitchen-knife">
+<g transform="rotate(-45 16 16)" stroke="#0F172A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Chef's blade: straight spine, curved belly -->
+        <path d="M19 2.5 V18 H12 C12 11.5 14.5 5.5 19 2.5 Z" fill="#CBD5E1" />
+        <!-- Handle -->
+        <rect x="13" y="18" width="6" height="11" rx="2.2" fill="#1E293B" />
+        <!-- Rivets -->
+        <circle cx="16" cy="21.5" r="0.9" fill="#F59E0B" stroke="none" />
+        <circle cx="16" cy="25.5" r="0.9" fill="#F59E0B" stroke="none" />
+      </g>
+</svg>

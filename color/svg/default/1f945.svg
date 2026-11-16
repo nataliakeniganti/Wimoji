@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="goal-net">
+<g>
+        <!-- Netting Mesh Back Ground -->
+        <g stroke="#94A3B8" stroke-width="0.8" stroke-linecap="round" opacity="0.75" fill="none">
+          <!-- Perspective Rafters -->
+          <line x1="7" y1="7" x2="10" y2="11.5" />
+          <line x1="25" y1="7" x2="22" y2="11.5" />
+          <line x1="4" y1="25" x2="10" y2="25" />
+          <line x1="28" y1="25" x2="22" y2="25" />
+          <!-- Horizontal Mesh Strands -->
+          <line x1="10" y1="11.5" x2="22" y2="11.5" />
+          <line x1="8" y1="15" x2="24" y2="15" />
+          <line x1="6" y1="18.5" x2="26" y2="18.5" />
+          <line x1="5" y1="22" x2="27" y2="22" />
+          <line x1="10" y1="25" x2="22" y2="25" />
+          <!-- Vertical Mesh Strands -->
+          <line x1="10" y1="11.5" x2="10" y2="25" />
+          <line x1="13" y1="7" x2="13" y2="25" />
+          <line x1="16" y1="7" x2="16" y2="25" />
+          <line x1="19" y1="7" x2="19" y2="25" />
+          <line x1="22" y1="11.5" x2="22" y2="25" />
+          <!-- Angled side net diagonals -->
+          <line x1="4" y1="12" x2="10" y2="18" />
+          <line x1="4" y1="18" x2="10" y2="24" />
+          <line x1="28" y1="12" x2="22" y2="18" />
+          <line x1="28" y1="18" x2="22" y2="24" />
+        </g>
+        <!-- Heavy Front Goal Crossbar &amp; Upright Posts (Crimson Red / Tournament Style) -->
+        <path d="M4 25 V9 C4 7.5 5.5 6.5 7 6.5 H25 C26.5 6.5 28 7.5 28 9 V25" stroke="#EF4444" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M4 25 V9 C4 7.5 5.5 6.5 7 6.5 H25 C26.5 6.5 28 7.5 28 9 V25" stroke="#B91C1C" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <!-- Glossy Crossbar Highlight -->
+        <line x1="8" y1="6.5" x2="24" y2="6.5" stroke="#FFFFFF" stroke-width="0.9" opacity="0.6" stroke-linecap="round" />
+      </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="video-camera">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Top viewfinder -->
+        <rect x="6" y="6.5" width="8" height="4" rx="1" fill="#1E293B" stroke="#0F172A" stroke-width="1.4" />
+        <!-- Main camcorder body -->
+        <rect x="4" y="10" width="16" height="13" rx="2.5" fill="#334155" stroke="#0F172A" stroke-width="2" />
+        <!-- Flip screen / side panel -->
+        <rect x="7" y="13.5" width="7" height="6.5" rx="1" fill="#475569" stroke="#0F172A" stroke-width="1.4" />
+        <!-- Red recording tally lamp -->
+        <circle cx="16.5" cy="13" r="1.2" fill="#EF4444" />
+        <!-- Flaring lens cone -->
+        <path d="M20 13 L27 8 V25 L20 20 Z" fill="#1E293B" stroke="#0F172A" stroke-width="2" />
+        <!-- Front lens glass element -->
+        <ellipse cx="27" cy="16.5" rx="1.5" ry="7.5" fill="#38BDF8" stroke="#0F172A" stroke-width="2" />
+      </g>
+</svg>

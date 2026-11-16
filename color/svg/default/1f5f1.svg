@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lightning-mood-bubble">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Spiky Shock Bubble Outline -->
+        <path d="M6 7l6-2 9 1 5 6-2 8-5 5-4 4 1-4H10l-6-5z" fill="#FEF3C7" stroke="#D97706" stroke-width="1.2" />
+        <!-- Electric Bolt Core -->
+        <polygon points="17,8 12,16 16,16 14,23 20,14 16,14" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+      </g>
+</svg>

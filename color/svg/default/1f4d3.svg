@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="notebook">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="7" y="3" width="18" height="26" rx="2" fill="#475569" stroke="#0F172A" stroke-width="2" />
+        <!-- Taped spine -->
+        <path d="M11 3 H9 C7.9 3 7 3.9 7 5 V27 C7 28.1 7.9 29 9 29 H11 Z" fill="#CBD5E1" stroke="#0F172A" stroke-width="2" />
+        <!-- Name label -->
+        <rect x="14" y="9" width="8" height="7" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+        <line x1="15.5" y1="12.5" x2="20.5" y2="12.5" stroke="#94A3B8" stroke-width="1.4" />
+      </g>
+</svg>

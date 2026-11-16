@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="service-dog">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M26.6 12.4 C29 11.6 29.6 8.6 28 6" fill="none" stroke="#92400E" stroke-width="3.8" /><path d="M26.6 12.4 C29 11.6 29.6 8.6 28 6" fill="none" stroke="#D97706" stroke-width="2.4" />
+        <rect x="9.8" y="17" width="2.7" height="10.5" rx="1.2" fill="#D97706" stroke="#92400E" stroke-width="1" /><ellipse cx="11.15" cy="27" rx="1.9" ry="1" fill="#FDE68A" stroke="#92400E" stroke-width="1" /><rect x="12.8" y="17" width="2.7" height="10.5" rx="1.2" fill="#D97706" stroke="#92400E" stroke-width="1" /><ellipse cx="14.15" cy="27" rx="1.9" ry="1" fill="#FDE68A" stroke="#92400E" stroke-width="1" /><rect x="21" y="17" width="2.7" height="10.5" rx="1.2" fill="#D97706" stroke="#92400E" stroke-width="1" /><ellipse cx="22.35" cy="27" rx="1.9" ry="1" fill="#FDE68A" stroke="#92400E" stroke-width="1" /><rect x="24" y="17" width="2.7" height="10.5" rx="1.2" fill="#D97706" stroke="#92400E" stroke-width="1" /><ellipse cx="25.35" cy="27" rx="1.9" ry="1" fill="#FDE68A" stroke="#92400E" stroke-width="1" />
+        <path d="M9 12.5 C9 10.3 12 10 16 10 H22 C25.4 10 27.2 11.6 27.2 14.4 C27.2 17.6 25.4 19 22 19 H12.5 C10 19 9 16.6 9 12.5 Z" fill="#D97706" stroke="#92400E" stroke-width="1" />
+        <!-- Service Dog Vest &amp; Handle Harness -->
+        <path d="M13.6 10.0 H21.6 C22.4 13.4 22.0 17.2 21.0 19.0 H14.2 C13.2 17.2 13.0 13.4 13.6 10.0 Z" fill="#EA580C" stroke="#9A3412" stroke-width="0.9" />
+        <line x1="14.2" y1="14.4" x2="21.4" y2="14.4" stroke="#FACC15" stroke-width="1.35" />
+        <path d="M15.2 10.0 C14.6 5.6 19.6 4.8 20.6 10.0" fill="none" stroke="#64748B" stroke-width="1.5" />
+        <!-- Head &amp; Snout -->
+        <ellipse cx="7.4" cy="11.4" rx="4.6" ry="4.1" fill="#D97706" stroke="#92400E" stroke-width="1" />
+        <path d="M5.6 12 C3.4 11.4 1.8 12.4 1.8 14 C1.8 15.6 3.2 16.2 5.4 16 C7 15.8 8 14.8 8 13.6 Z" fill="#D97706" stroke="#92400E" stroke-width="1" />
+        <circle cx="2.4" cy="13.4" r="1" fill="#0F172A" />
+        <path d="M3.6 15.6 C5 16.6 6.6 16.4 7.4 15.6" fill="none" stroke="#92400E" stroke-width="0.7" />
+        <path d="M5 16 C5 18.4 6.8 18.4 6.8 16 Z" fill="#FB7185" stroke="#92400E" stroke-width="0.6" />
+        <path d="M9.4 8.6 C12 8.4 13 11 12.2 14 C10.4 14.6 9 12.6 8.8 10.6 Z" fill="#78350F" stroke="#92400E" stroke-width="0.8" />
+        <circle cx="6.8" cy="10.4" r="0.85" fill="#0F172A" />
+        <path d="M10.4 12.2 C11.4 13.6 11.6 15.6 11 17" fill="none" stroke="#EF4444" stroke-width="1.6" />
+      </g>
+</svg>

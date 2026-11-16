@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shortcake">
+<g>
+        <!-- Sponge Cake Wedge Base -->
+        <polygon points="4,25 28,25 28,17 4,21" fill="#FDE68A" stroke="#D97706" stroke-width="1" />
+        <!-- Cream filling layer -->
+        <polygon points="4,23.5 28,21.5 28,19.5 4,21.5" fill="#FFFFFF" />
+        <circle cx="10" cy="22.5" r="1.2" fill="#EF4444" />
+        <circle cx="19" cy="21" r="1.2" fill="#EF4444" />
+        <!-- Whipped Cream Top Slope -->
+        <polygon points="4,21 16,11 28,17" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8" />
+        <!-- Cream dollop ripples -->
+        <path d="M6 20.5c3-2 6-4 9-7" stroke="#F1F5F9" stroke-width="1.2" fill="none" />
+        <!-- Whole Strawberry on Top -->
+        <path d="M16 6.5c-2.5 0-3.5 3-3 5s3 3.5 3 3.5 2.5-1.5 3-3.5-0.5-5-3-5z" fill="#EF4444" stroke="#B91C1C" stroke-width="0.8" />
+        <!-- Strawberry green calyx -->
+        <path d="M16 6.5l-1.5-2M16 6.5l1.5-2M16 6.5v-2" stroke="#16A34A" stroke-width="1.2" stroke-linecap="round" />
+        <circle cx="15" cy="9" r="0.4" fill="#FEF08A" />
+        <circle cx="17" cy="10" r="0.4" fill="#FEF08A" />
+      </g>
+</svg>

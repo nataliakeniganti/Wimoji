@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="butter">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Ceramic Butter Dish -->
+        <ellipse cx="16" cy="22.8" rx="13" ry="4.4" fill="#E0F2FE" stroke="#0284C7" stroke-width="1.1" />
+        <!-- Stick of Creamy Butter -->
+        <path d="M8.4 19.8 V12.4 L17.8 8.8 L24 11.4 V18.8 L14.6 22.4 Z" fill="#FACC15" stroke="#B45309" stroke-width="1.1" />
+        <path d="M8.4 12.4 L17.8 8.8 L24 11.4 L14.6 15 Z" fill="#FEF08A" stroke="#B45309" stroke-width="0.9" />
+        <path d="M14.6 15 V22.4" stroke="#B45309" stroke-width="0.9" />
+        <!-- Cut Front Pat -->
+        <path d="M6.6 21.8 V16.4 L11 18.2 V23.6 Z" fill="#FEF08A" stroke="#B45309" stroke-width="1" />
+      </g>
+</svg>

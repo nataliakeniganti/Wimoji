@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-djibouti">
+<defs><clipPath id="wimoji-flag-dj-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-dj-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#6AB2E7" />
+        <rect x="2" y="16" width="28" height="10" fill="#12AD2B" />
+        <polygon points="2,6 15.2,16 2,26" fill="#FFFFFF" />
+        <polygon points="7.20,13.70 7.76,15.23 9.39,15.29 8.10,16.29 8.55,17.86 7.20,16.95 5.85,17.86 6.30,16.29 5.01,15.29 6.64,15.23" fill="#D7141A" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

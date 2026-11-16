@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="beer-mug">
+<g>
+        <!-- Glass Handle Right -->
+        <path d="M20 13h4.5c1.5 0 2.5 1.5 2.5 3v5c0 1.5-1 3-2.5 3H20" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" fill="none" />
+        <!-- Glass Stein Body -->
+        <rect x="6" y="10" width="14" height="17" rx="2" fill="#F59E0B" stroke="#CBD5E1" stroke-width="1.2" />
+        <!-- Beer Glass Vertical facets -->
+        <line x1="10" y1="12" x2="10" y2="25" stroke="#FDE047" stroke-width="1.2" opacity="0.6" />
+        <line x1="15" y1="12" x2="15" y2="25" stroke="#D97706" stroke-width="1.2" opacity="0.5" />
+        <!-- Frothy White Foam Head -->
+        <path d="M5 10c-0.5-2 1.5-3.5 3.5-3 1.5-2 4-2.5 5.5-1 1.5-1 3.5-0.5 4.5 1 1.5 0.5 2.5 2 1.5 3.5-0.5 1-1.5 1.5-2.5 1H6c-1 0-1.5-0.5-1-1.5z" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="0.8" />
+        <!-- Drips of foam cascading down -->
+        <circle cx="7" cy="13" r="1" fill="#FFFFFF" />
+      </g>
+</svg>

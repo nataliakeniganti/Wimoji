@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="division">
+<g stroke="#64748B" stroke-width="3.8" stroke-linecap="round" fill="none">
+        <path d="M6 16h20" />
+        <circle cx="16" cy="9" r="1.8" fill="#64748B" stroke="none" />
+        <circle cx="16" cy="23" r="1.8" fill="#64748B" stroke="none" />
+      </g>
+</svg>

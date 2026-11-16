@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="person-fencing">
+<g stroke="#334155" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Floor piste guide line -->
+        <path d="M2 29.5 H30" fill="none" stroke="#E2E8F0" stroke-width="1.2" />
+        <!-- Trailing back arm raised gracefully in en garde -->
+        <path d="M19 14.5 C22.5 13.5 24 10 23.5 7" fill="none" stroke="#334155" stroke-width="2.2" />
+        <path d="M19 14.5 C22.5 13.5 24 10 23.5 7" fill="none" stroke="#F8FAFC" stroke-width="1.4" />
+        <circle cx="23.5" cy="6.2" r="1.1" fill="#FFCA28" stroke="#334155" stroke-width="1" />
+        <!-- Trailing back leg extended in lunge -->
+        <path d="M18.5 21 L22.5 25 L26.5 29" fill="none" stroke="#334155" stroke-width="3.2" />
+        <path d="M18.5 21 L22.5 25 L26.5 29" fill="none" stroke="#F8FAFC" stroke-width="2.2" />
+        <path d="M25 29.5 H28.5" stroke-width="1.5" />
+        <!-- Lead front leg bent in deep lunge -->
+        <path d="M15 21 L11.5 24.5 L8.5 29" fill="none" stroke="#334155" stroke-width="3.2" />
+        <path d="M15 21 L11.5 24.5 L8.5 29" fill="none" stroke="#F8FAFC" stroke-width="2.2" />
+        <path d="M7 29.5 H10.5" stroke-width="1.5" />
+        <!-- White fencing jacket torso -->
+        <path d="M14 13.5 L20 13 L19.2 21.5 L14.5 21.5 Z" fill="#F8FAFC" stroke="#334155" stroke-width="1.2" />
+        <path d="M14 17.5 H19.5" fill="none" stroke="#E2E8F0" stroke-width="1" />
+        <!-- Lead sword arm extending forward holding foil -->
+        <path d="M14 14.8 L8.5 14.8" fill="none" stroke="#334155" stroke-width="2.6" />
+        <path d="M14 14.8 L8.5 14.8" fill="none" stroke="#F8FAFC" stroke-width="1.6" />
+        <!-- Foil bell guard (coquille) -->
+        <ellipse cx="7.5" cy="14.8" rx="1" ry="2.2" fill="#CBD5E1" stroke="#334155" stroke-width="1" />
+        <!-- Fencing foil blade pointing forward to the left -->
+        <line x1="6.5" y1="14.8" x2="1" y2="14.8" fill="none" stroke="#94A3B8" stroke-width="1.2" />
+        <circle cx="1" cy="14.8" r="0.8" fill="#94A3B8" stroke="#334155" stroke-width="0.8" />
+        <!-- Protective fencing mask -->
+        <ellipse cx="17" cy="9.5" rx="3.4" ry="4.2" fill="#334155" stroke="#334155" stroke-width="1.2" />
+        <!-- Canvas bib collar under mask -->
+        <path d="M14.2 12 C15.4 13.8 18.6 13.8 19.8 12 Z" fill="#FFFFFF" stroke="#334155" stroke-width="1" />
+        <!-- Mask mesh grid lines -->
+        <line x1="17" y1="6" x2="17" y2="12.5" stroke="#94A3B8" stroke-width="0.6" stroke-dasharray="0.8 0.8" opacity="0.6" /><line x1="14.5" y1="9.5" x2="19.5" y2="9.5" stroke="#94A3B8" stroke-width="0.6" stroke-dasharray="0.8 0.8" opacity="0.6" />
+      </g>
+</svg>

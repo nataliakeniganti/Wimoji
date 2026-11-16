@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flatbread">
+<g>
+        <!-- Golden Flatbread Disc Base -->
+        <circle cx="16" cy="16" r="11.8" fill="#FDE68A" stroke="#B45309" stroke-width="1.2" />
+        <!-- Toasted golden rim blush -->
+        <path d="M7 14c2-4 6-6 11-5" stroke="#D97706" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.5" />
+        <path d="M9 22c3 3 8 3 12 1" stroke="#D97706" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.4" />
+        <!-- Charred Tandoor Blisters (spots) -->
+        <ellipse cx="12" cy="12" rx="2.2" ry="1.5" fill="#78350F" />
+        <circle cx="11.5" cy="11.5" r="0.5" fill="#FEF08A" opacity="0.6" />
+        <ellipse cx="19" cy="14" rx="2.6" ry="1.8" fill="#78350F" />
+        <circle cx="18.5" cy="13.5" r="0.6" fill="#FEF08A" opacity="0.6" />
+        <ellipse cx="14" cy="20" rx="2.4" ry="1.6" fill="#78350F" />
+        <circle cx="13.5" cy="19.5" r="0.5" fill="#FEF08A" opacity="0.6" />
+        <circle cx="9.5" cy="17" r="1.1" fill="#92400E" />
+        <circle cx="21" cy="19" r="1.2" fill="#92400E" />
+        <circle cx="16" cy="9.5" r="0.9" fill="#92400E" />
+      </g>
+</svg>

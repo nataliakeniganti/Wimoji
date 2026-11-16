@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="volcano">
+<g>
+        <path d="M4 28L12 13h8l8 15H4z" fill="#78716C" />
+        <path d="M12 13h8l-2 5h-4z" fill="#EF4444" />
+        <path d="M13 18v5M16 18v7M19 18v4" stroke="#EF4444" stroke-width="1.8" stroke-linecap="round" />
+        <path d="M13 9L11 4M19 9l2-4M16 8V3" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+        <circle cx="16" cy="4" r="1.5" fill="#EF4444" />
+      </g>
+</svg>

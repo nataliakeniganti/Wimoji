@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="man-pouting">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.4 17.6 H18.6 V22 H13.4 Z" fill="#FFCA28" stroke="#FFA000" stroke-width="1.05" />
+        <path d="M4.6 32 C4.6 24 9.6 20.4 16 20.4 C22.4 20.4 27.4 24 27.4 32 Z" fill="#1976D2" stroke="#1E3A8A" stroke-width="1.05" />
+        <path d="M9.6 12.6 A6.4 6.8 0 1 0 22.4 12.6 A6.4 6.8 0 1 0 9.6 12.6 Z" fill="#FFCA28" stroke="#FFA000" stroke-width="1.05" />
+        <path d="M9.90 11.71 C9.15 6.83 12.13 3.88 16.00 3.88 C19.87 3.88 22.85 6.83 22.10 11.71 C21.06 9.35 18.83 8.17 16.00 8.17 C13.17 8.17 10.94 9.35 9.90 11.71 Z" fill="#6D4C41" stroke="none" stroke-width="1.05" />
+        <path d="M11 10.4 L14.8 12 M21 10.4 L17.2 12" fill="none" stroke="#37474F" stroke-width="1.2" /><circle cx="13.2" cy="14" r="0.9" fill="#37474F" stroke="none" /><circle cx="18.8" cy="14" r="0.9" fill="#37474F" stroke="none" /><ellipse cx="16" cy="17.2" rx="1.6" ry="1.1" fill="#7F1D1D" stroke="#37474F" stroke-width="0.8" /><circle cx="11.4" cy="16.2" r="1.2" fill="#F87171" opacity="0.55" /><circle cx="20.6" cy="16.2" r="1.2" fill="#F87171" opacity="0.55" />
+      </g>
+</svg>

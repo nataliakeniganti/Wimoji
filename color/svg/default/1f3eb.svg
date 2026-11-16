@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="school">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- School Clock Tower on Roof -->
+        <polygon points="16,3 12,8 20,8" fill="#EF4444" stroke="#991B1B" stroke-width="1" />
+        <rect x="13" y="8" width="6" height="5" fill="#F8FAFC" stroke="#94A3B8" stroke-width="0.8" />
+        <circle cx="16" cy="10.5" r="1.6" fill="#FBBF24" stroke="#D97706" stroke-width="0.6" />
+        <line x1="16" y1="9.6" x2="16" y2="10.5" stroke="#0F172A" stroke-width="0.5" />
+        <line x1="16" y1="10.5" x2="16.8" y2="10.5" stroke="#0F172A" stroke-width="0.5" />
+        <!-- Brick Schoolhouse Building -->
+        <rect x="4" y="13" width="24" height="15" rx="1.5" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Classroom Windows -->
+        <rect x="7" y="16" width="3.5" height="3.5" rx="0.5" fill="#38BDF8" />
+        <rect x="21.5" y="16" width="3.5" height="3.5" rx="0.5" fill="#38BDF8" />
+        <rect x="7" y="21.5" width="3.5" height="3.5" rx="0.5" fill="#38BDF8" />
+        <rect x="21.5" y="21.5" width="3.5" height="3.5" rx="0.5" fill="#38BDF8" />
+        <!-- Wooden Double Doors -->
+        <rect x="13.5" y="21" width="5" height="7" fill="#78350F" />
+      </g>
+</svg>

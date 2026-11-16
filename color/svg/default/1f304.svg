@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sunrise-over-mountains">
+<g>
+        <rect x="4" y="4" width="24" height="24" rx="4" fill="#FFEDD5" />
+        <circle cx="16" cy="13" r="4.5" fill="#F59E0B" />
+        <path d="M4 28l7-10 6 7 5-6 6 9H4z" fill="#475569" />
+      </g>
+</svg>

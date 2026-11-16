@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cocktail-glass">
+<g>
+        <!-- Stem &amp; Foot Base -->
+        <line x1="16" y1="17" x2="16" y2="28" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+        <ellipse cx="16" cy="28" rx="6" ry="1.5" fill="#CBD5E1" stroke="#94A3B8" stroke-width="1" />
+        <!-- Cocktail triangular cone -->
+        <polygon points="5,5 27,5 16,17" fill="#E0F2FE" fill-opacity="0.6" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Martini Liquid -->
+        <polygon points="7.5,7.5 24.5,7.5 16,17" fill="#BAE6FD" fill-opacity="0.75" />
+        <!-- Toothpick skewer -->
+        <line x1="11" y1="2" x2="19.5" y2="12.5" stroke="#D97706" stroke-width="1.4" stroke-linecap="round" />
+        <!-- Green Martini Olive -->
+        <circle cx="16" cy="8" r="2.6" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+        <!-- Pimento red center dot -->
+        <circle cx="16.5" cy="7.5" r="0.8" fill="#EF4444" />
+      </g>
+</svg>

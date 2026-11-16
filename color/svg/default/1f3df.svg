@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="stadium">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Floodlight Masts -->
+        <line x1="5" y1="13" x2="5" y2="6" stroke="#64748B" stroke-width="1.5" />
+        <rect x="3" y="5" width="4" height="2.5" rx="0.5" fill="#FBBF24" stroke="#D97706" stroke-width="0.6" />
+        <line x1="27" y1="13" x2="27" y2="6" stroke="#64748B" stroke-width="1.5" />
+        <rect x="25" y="5" width="4" height="2.5" rx="0.5" fill="#FBBF24" stroke="#D97706" stroke-width="0.6" />
+        <!-- Outer Concrete Seating Bowl -->
+        <ellipse cx="16" cy="18" rx="13" ry="8.5" fill="#E2E8F0" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Grandstand Seating Tier Ring -->
+        <ellipse cx="16" cy="17.5" rx="11" ry="6.8" fill="#EF4444" opacity="0.75" />
+        <!-- Lush Green Playing Pitch Field -->
+        <ellipse cx="16" cy="17" rx="8.5" ry="4.8" fill="#16A34A" stroke="#15803D" stroke-width="0.8" />
+        <!-- Field Markings -->
+        <ellipse cx="16" cy="17" rx="2" ry="1.2" fill="none" stroke="#FFFFFF" stroke-width="0.6" />
+        <line x1="16" y1="12.5" x2="16" y2="21.5" stroke="#FFFFFF" stroke-width="0.6" />
+      </g>
+</svg>
