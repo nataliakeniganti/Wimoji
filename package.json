@@ -1,6 +1,6 @@
 {
   "name": "wimoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open vector emoji library and SVG command-line exporter",
   "type": "module",
   "bin": {
