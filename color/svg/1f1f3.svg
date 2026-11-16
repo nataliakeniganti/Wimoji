@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="regional-indicator-n">
 <g>
       <rect x="4" y="4" width="24" height="24" rx="6" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
-      <text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-weight="bold" font-size="14">N</text>
+      <g fill="#FFFFFF" stroke="none" transform="translate(10.309 21.5) scale(0.014 -0.014)"><path d="M723 0H531L220 540H216Q218 506 219.5 472Q221 438 222.5 404Q224 370 225 336V0H90V714H281L591 179H594Q593 212 592 245Q591 278 589.5 310.5Q588 343 587 376V714H723Z" transform="translate(0 0)" /></g>
     </g>
 </svg>

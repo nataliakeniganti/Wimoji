@@ -12,9 +12,9 @@
         <line x1="11.5" y1="12" x2="11.5" y2="20.5" stroke="#CBD5E1" stroke-width="1" />
         <line x1="16.5" y1="12" x2="16.5" y2="20.5" stroke="#CBD5E1" stroke-width="1" />
         <!-- 7 7 7 Digits on Reels -->
-        <text x="9" y="18.5" font-size="6" font-family="sans-serif" font-weight="bold" fill="#DC2626" text-anchor="middle">7</text>
-        <text x="14" y="18.5" font-size="6" font-family="sans-serif" font-weight="bold" fill="#DC2626" text-anchor="middle">7</text>
-        <text x="19" y="18.5" font-size="6" font-family="sans-serif" font-weight="bold" fill="#DC2626" text-anchor="middle">7</text>
+        <g fill="#DC2626" stroke="none" transform="translate(7.284 18.5) scale(0.006 -0.006)"><path d="M111 0 379 587H27V714H539V619L269 0Z" transform="translate(0 0)" /></g>
+        <g fill="#DC2626" stroke="none" transform="translate(12.284 18.5) scale(0.006 -0.006)"><path d="M111 0 379 587H27V714H539V619L269 0Z" transform="translate(0 0)" /></g>
+        <g fill="#DC2626" stroke="none" transform="translate(17.284 18.5) scale(0.006 -0.006)"><path d="M111 0 379 587H27V714H539V619L269 0Z" transform="translate(0 0)" /></g>
         <!-- Coin Payout Tray -->
         <rect x="8" y="23" width="12" height="3" rx="1" fill="#0F172A" />
       </g>

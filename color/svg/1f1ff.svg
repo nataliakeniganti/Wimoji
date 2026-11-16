@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="regional-indicator-z">
 <g>
       <rect x="4" y="4" width="24" height="24" rx="6" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
-      <text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-weight="bold" font-size="14">Z</text>
+      <g fill="#FFFFFF" stroke="none" transform="translate(11.947 21.5) scale(0.014 -0.014)"><path d="M555 0H24V98L366 589H33V714H546V616L204 125H555Z" transform="translate(0 0)" /></g>
     </g>
 </svg>

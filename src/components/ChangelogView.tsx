@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { Sparkles, Search, Calendar, Tag } from 'lucide-react';
 import { WimojiIconDef, WimojiStyleOptions } from '../types/wimoji';
 import { ALL_WIMOJI_ICONS, ICONS_BY_CHAR } from '../data/wimojiIcons';
+import { convertSvgTextToPaths } from '../utils/svgTextToPath';
 
 interface ChangelogViewProps {
   options: WimojiStyleOptions;
@@ -152,7 +153,7 @@ export const ChangelogView: React.FC<ChangelogViewProps> = ({
       );
     }
 
-    const svgMarkup = icon.renderContent({ ...options, size: 20 });
+    const svgMarkup = convertSvgTextToPaths(icon.renderContent({ ...options, size: 20 }));
 
     return (
       <button

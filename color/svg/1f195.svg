@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="new-button">
 <g>
         <rect x="3" y="6" width="26" height="20" rx="5" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
-        <text x="16" y="19" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-weight="bold" font-size="9">NEW</text>
+        <g fill="#FFFFFF" stroke="none" transform="translate(5.47 19) scale(0.009 -0.009)"><path d="M723 0H531L220 540H216Q218 506 219.5 472Q221 438 222.5 404Q224 370 225 336V0H90V714H281L591 179H594Q593 212 592 245Q591 278 589.5 310.5Q588 343 587 376V714H723Z" transform="translate(0 0)" /><path d="M501 0H90V714H501V590H241V433H483V309H241V125H501Z" transform="translate(813 0)" /><path d="M967 714 785 0H613L516 375Q513 386 508.5 408Q504 430 498.5 456Q493 482 489 505.5Q485 529 483 542Q482 529 477.5 505.5Q473 482 468 456.5Q463 431 458 408.5Q453 386 450 374L354 0H182L0 714H149L240 324Q244 307 249 282.5Q254 258 259 231.5Q264 205 268.5 180Q273 155 275 137Q277 156 281 180.5Q285 205 290 230.5Q295 256 299.5 278.5Q304 301 308 314L412 714H555L659 314Q662 301 667 278.5Q672 256 677 230Q682 204 686 179.5Q690 155 692 137Q695 162 701 196.5Q707 231 714.5 266Q722 301 727 324L818 714Z" transform="translate(1373 0)" /></g>
       </g>
 </svg>

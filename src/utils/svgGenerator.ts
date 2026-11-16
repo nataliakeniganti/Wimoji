@@ -5,6 +5,7 @@ import {
   isMultiToneIcon,
   isSkinnableIcon,
 } from './skinTones';
+import { convertSvgTextToPaths } from './svgTextToPath';
 
 /**
  * Renders the inner SVG markup for an icon, applying active Fitzpatrick skin tone(s) if skinnable
@@ -18,13 +19,15 @@ export function renderWimojiInner(icon: WimojiIconDef, opts: WimojiStyleOptions)
     leftTone !== rightTone &&
     (icon.fixedRightSkinTone !== undefined || isMultiToneIcon(icon))
   ) {
-    return applyDualSkinToneToSvg(icon.id, raw, leftTone, rightTone, opts.style);
+    return convertSvgTextToPaths(
+      applyDualSkinToneToSvg(icon.id, raw, leftTone, rightTone, opts.style)
+    );
   }
 
   if (leftTone !== 'default' && (icon.fixedSkinTone !== undefined || isSkinnableIcon(icon))) {
-    return applySkinToneToSvg(raw, leftTone, opts.style);
+    return convertSvgTextToPaths(applySkinToneToSvg(raw, leftTone, opts.style));
   }
-  return raw.replace(/\sdata-skin-side="(?:left|right)"/g, '');
+  return convertSvgTextToPaths(raw.replace(/\sdata-skin-side="(?:left|right)"/g, ''));
 }
 
 /**

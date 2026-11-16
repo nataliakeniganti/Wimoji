@@ -31,6 +31,7 @@ import {
   Sparkles,
 } from 'lucide-react';
 import { generateSvgString } from '../utils/svgGenerator';
+import { convertSvgTextToPaths } from '../utils/svgTextToPath';
 
 interface PlaygroundViewProps {
   options: WimojiStyleOptions;
@@ -103,7 +104,7 @@ export const PlaygroundView: React.FC<PlaygroundViewProps> = ({
     const icon = ICONS_BY_ID.get(id);
     if (!icon) return null;
     const finalOpts = { ...options, ...customOpts, size };
-    const markup = icon.renderContent(finalOpts);
+    const markup = convertSvgTextToPaths(icon.renderContent(finalOpts));
     return (
       <svg
         viewBox="0 0 32 32"

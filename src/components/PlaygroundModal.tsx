@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { X, Play, Bell, MessageSquare, Compass, Settings, Maximize2 } from 'lucide-react';
 import { WimojiIconDef, WimojiStyleOptions } from '../types/wimoji';
+import { convertSvgTextToPaths } from '../utils/svgTextToPath';
 
 interface PlaygroundModalProps {
   isOpen: boolean;
@@ -28,7 +29,7 @@ export const PlaygroundModal: React.FC<PlaygroundModalProps> = ({
         width={size}
         height={size}
         fill="none"
-        dangerouslySetInnerHTML={{ __html: icon.renderContent(options) }}
+        dangerouslySetInnerHTML={{ __html: convertSvgTextToPaths(icon.renderContent(options)) }}
         className="shrink-0"
       />
     );

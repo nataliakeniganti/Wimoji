@@ -10,6 +10,8 @@ on:
       - 'src/data/constants.ts'
       - 'src/utils/skinTones.ts'
       - 'src/utils/svgGenerator.ts'
+      - 'src/utils/svgTextToPath.ts'
+      - 'src/data/svgTextGlyphPaths.json'
       - 'src/types/wimoji.ts'
       - 'scripts/generateSvgs.ts'
       - 'package.json'
