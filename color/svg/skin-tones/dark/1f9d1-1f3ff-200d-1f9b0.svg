@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="person-red-hair-dark">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M6.5 18 A1.5 2.2 0 1 0 9.5 18 A1.5 2.2 0 1 0 6.5 18 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M22.5 18 A1.5 2.2 0 1 0 25.5 18 A1.5 2.2 0 1 0 22.5 18 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M7.4 17 A8.6 9.2 0 1 0 24.6 17 A8.6 9.2 0 1 0 7.4 17 Z" fill="#5C3E2F" stroke="#382216" stroke-width="0.9" />
-        <path d="M7.8 16.4 C6.6 9.4 10.6 5.2 16 5.2 C21.4 5.2 25.4 9.4 24.2 16.4 C23 13.4 20.6 11.4 18.2 10.2 C15.8 12.8 11.4 14.4 7.8 16.4 Z" fill="#C2410C" stroke="none" stroke-width="0.9" />
-        <circle cx="12.6" cy="18.4" r="1.1" fill="#37474F" stroke="none" /><circle cx="19.4" cy="18.4" r="1.1" fill="#37474F" stroke="none" /><path d="M13.6 22.6 C14.8 24 17.2 24 18.4 22.6" fill="none" stroke="#37474F" stroke-width="1.2" /><path d="M10 13 C12.2 9 15.4 7.6 18.8 8.4" fill="none" stroke="#FB923C" stroke-width="1" stroke-linecap="round" opacity="0.85" />
-      </g>
-</svg>

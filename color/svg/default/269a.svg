@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="staff-of-hermes">
-<g stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
-        <line x1="16" y1="3" x2="16" y2="29" stroke-width="2.5" />
-        <circle cx="16" cy="4" r="2" fill="#F59E0B" />
-        <path d="M11 9c5-3 10 3 10 6s-5 3-10 1 M21 9c-5-3-10 3-10 6s5 3 10 1" />
-        <path d="M12 18c4-2 8 2 8 5s-4 3-8 1 M20 18c-4-2-8 2-8 5s4 3 8 1" />
-      </g>
-</svg>

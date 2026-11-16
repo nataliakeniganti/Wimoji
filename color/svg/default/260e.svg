@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="telephone">
-<g>
-        <path d="M5.5 10c0-2 4.5-5 10.5-5s10.5 3 10.5 5l-4 4-3-1.5c-2.2 0-4.8 0-7 0l-3 1.5L5.5 10z" fill="#EF4444" />
-        <path d="M8.5 15h15l2 11H6.5l2-11z" fill="#EF4444" />
-        <circle cx="16" cy="20.5" r="3" fill="#FFFFFF" />
-        <circle cx="16" cy="20.5" r="1.2" fill="#B91C1C" />
-      </g>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="garlic">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M16 4 C17.4 7.6 19 9.8 22.2 12.6 C25.8 15.6 26.8 20.6 24.4 24.2 C22.2 27.4 18.6 28 16 28 C13.4 28 9.8 27.4 7.6 24.2 C5.2 20.6 6.2 15.6 9.8 12.6 C13 9.8 14.6 7.6 16 4 Z" fill="#F8FAFC" stroke="#A78BFA" stroke-width="1.2" />
-        <!-- Clove Rib Lines &amp; Soft Lavender Shading -->
-        <path d="M16 7.4 V27.8 M13.2 11.4 C10.4 15.8 10.6 22.4 13.2 27.2 M18.8 11.4 C21.6 15.8 21.4 22.4 18.8 27.2" fill="none" stroke="#DDD6FE" stroke-width="1.2" />
-        <path d="M14.4 28 L13.8 29.4 M16 28 V29.6 M17.6 28 L18.2 29.4" stroke="#92400E" stroke-width="0.9" />
-      </g>
-</svg>

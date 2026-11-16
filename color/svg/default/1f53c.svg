@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="up-pointing-small-red-triangle">
-<g stroke-linejoin="round">
-        <rect x="3.5" y="3.5" width="25" height="25" rx="5" fill="#1E293B" stroke="#0F172A" stroke-width="0.8" />
-        <!-- Red up triangle -->
-        <polygon points="16,9.5 23.5,21.5 8.5,21.5" fill="#EF4444" stroke="#DC2626" stroke-width="0.8" />
-        <!-- Triangle highlight facet -->
-        <polygon points="16,10.5 16,20.5 10,20.5" fill="#F87171" opacity="0.6" />
-      </g>
-</svg>

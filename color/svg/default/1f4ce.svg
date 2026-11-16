@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="paperclip">
-<g stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(-0.9 0.6) rotate(45 16 15)">
-        <!-- Dark wire edge -->
-        <path d="M18.2 22 V9 A2.2 2.2 0 0 0 13.8 9 V24 A4.4 4.4 0 0 0 22.6 24 V8 A6.6 6.6 0 0 0 9.4 8 V22" stroke="#334155" stroke-width="3.4" />
-        <!-- Metal wire highlight -->
-        <path d="M18.2 22 V9 A2.2 2.2 0 0 0 13.8 9 V24 A4.4 4.4 0 0 0 22.6 24 V8 A6.6 6.6 0 0 0 9.4 8 V22" stroke="#CBD5E1" stroke-width="1.4" />
-      </g>
-</svg>

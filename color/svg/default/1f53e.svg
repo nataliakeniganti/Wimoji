@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lower-right-shadowed-white-circle">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Lower-Right Drop Shadow Crescent -->
-        <circle cx="17" cy="17" r="9" fill="#64748B" opacity="0.3" />
-        <path d="M14 4.5a9.5 9.5 0 0 1 9.5 9.5 9.5 9.5 0 0 1 -9.5 9.5c4.5 0 9-3.5 9-8.5s-4.5-9-9-10.5z" fill="#64748B" />
-        <!-- White Foreground Circle -->
-        <circle cx="14" cy="14" r="9.5" fill="#FFFFFF" stroke="#334155" stroke-width="1.2" />
-      </g>
-</svg>

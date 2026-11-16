@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sparkles">
-<g fill="#F59E0B">
-        <path d="M14 4c0 6-3 9-9 9 6 0 9 3 9 9 0-6 3-9 9-9-6 0-9-3-9-9z" />
-        <path d="M23 17c0 3-1.5 4.5-4.5 4.5 3 0 4.5 1.5 4.5 4.5 0-3 1.5-4.5 4.5-4.5-3 0-4.5-1.5-4.5-4.5z" fill="#FCD34D" />
-        <circle cx="7" cy="24" r="1.5" fill="#FCD34D" />
-      </g>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-botswana">
-<defs><clipPath id="wimoji-flag-bw-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
-      <g clip-path="url(#wimoji-flag-bw-clip)">
-        <rect x="2" y="6" width="28" height="20" rx="3" fill="#6DA9D2" />
-        <rect x="2" y="13.3" width="28" height="5.4" fill="#FFFFFF" />
-        <rect x="2" y="14.4" width="28" height="3.2" fill="#111827" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="roll-of-paper">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <path d="M7 8.4 V21.8 C7 23.8 11 25.4 16 25.4 V11.4 Z" fill="#E2E8F0" stroke="#475569" stroke-width="1.1" />
-        <path d="M14.8 11.2 L25 8.4 V27.4 H14.8 Z" fill="#F8FAFC" stroke="#475569" stroke-width="1.1" />
-        <path d="M16 19.6 H23.8" stroke="#94A3B8" stroke-width="0.9" stroke-dasharray="1.6 1.6" />
-        <ellipse cx="16" cy="8.4" rx="9" ry="3.4" fill="#F8FAFC" stroke="#475569" stroke-width="1.1" />
-        <ellipse cx="16" cy="8.4" rx="3.2" ry="1.2" fill="#B45309" stroke="#475569" stroke-width="0.9" />
-      </g>
-</svg>

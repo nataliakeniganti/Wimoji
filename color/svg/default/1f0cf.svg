@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="joker">
-<g>
-        <rect x="6" y="4" width="20" height="24" rx="3" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
-        <path d="M11 18c0-3.5 2.2-5.5 5-5.5s5 2 5 5z" fill="#8B5CF6" />
-        <path d="M11 13l-3-3 4-1M21 13l3-3-4-1" stroke="#EF4444" stroke-width="1.8" stroke-linecap="round" fill="none" />
-        <circle cx="16" cy="10.5" r="2" fill="#EF4444" />
-      </g>
-</svg>

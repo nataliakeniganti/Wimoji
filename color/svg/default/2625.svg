@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ankh">
-<g stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
-        <ellipse cx="16" cy="10" rx="4.5" ry="6" />
-        <line x1="16" y1="16" x2="16" y2="28" />
-        <line x1="9" y1="19" x2="23" y2="19" />
-      </g>
-</svg>

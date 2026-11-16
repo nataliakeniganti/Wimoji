@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="black-safety-scissors">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="9.5" cy="22.5" r="3.5" fill="none" stroke="#0F172A" stroke-width="2.2" />
-        <circle cx="16" cy="24" r="3.5" fill="none" stroke="#0F172A" stroke-width="2.2" />
-        <path d="M12 20L17 15L25 7a2 2 0 0 1 2.8 2.8L19 16z" fill="#0F172A" />
-        <path d="M17 15L23 21a2 2 0 0 0 2.8-2.8L17 12z" fill="#0F172A" />
-        <circle cx="17" cy="15" r="1.2" fill="#FFFFFF" />
-      </g>
-</svg>

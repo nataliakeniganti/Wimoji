@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="droplet">
-<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Clean water droplet -->
-        <path d="M16 4 C16 4 7 14 7 20 C7 25 11 28 16 28 C21 28 25 25 25 20 C25 14 16 4 16 4 Z" fill="#38BDF8" stroke="#0284C7" stroke-width="0.8" />
-        <!-- Curving specular light reflection -->
-        <path d="M11 16 C10 18 10 22 13 24.5" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.8" />
-      </g>
-</svg>

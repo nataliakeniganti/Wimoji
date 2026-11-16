@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-nauru">
-<defs><clipPath id="wimoji-flag-nr-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
-      <g clip-path="url(#wimoji-flag-nr-clip)">
-        <rect x="2" y="6" width="28" height="20" rx="3" fill="#002B7F" />
-        <rect x="2" y="15.1" width="28" height="1.8" fill="#FFC61E" />
-        <polygon points="9.00,18.20 9.36,19.65 10.40,18.58 9.99,20.01 11.42,19.60 10.35,20.64 11.80,21.00 10.35,21.36 11.42,22.40 9.99,21.99 10.40,23.42 9.36,22.35 9.00,23.80 8.64,22.35 7.60,23.42 8.01,21.99 6.58,22.40 7.65,21.36 6.20,21.00 7.65,20.64 6.58,19.60 8.01,20.01 7.60,18.58 8.64,19.65" fill="#FFFFFF" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
-</svg>

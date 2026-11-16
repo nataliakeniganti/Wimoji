@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="boys-symbol">
-<g>
-        <!-- Blue Square Badge -->
-        <rect x="4" y="4" width="24" height="24" rx="6" fill="#3B82F6" stroke="#1D4ED8" stroke-width="0" />
-        <!-- White Male Stick Figure Silhouette -->
-        <circle cx="16" cy="8.5" r="2.5" fill="#F8FAFC" />
-        <path d="M12.5 12.5h7c0.8 0 1.5 0.7 1.5 1.5v4.5c0 0.6-0.4 1-1 1h-1v5.5c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1V19.5h-1c-0.6 0-1-0.4-1-1V14c0-0.8 0.7-1.5 1.5-1.5z" fill="#F8FAFC" />
-      </g>
-</svg>

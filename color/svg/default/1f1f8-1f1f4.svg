@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-somalia">
-<g>
-        <rect x="2" y="6" width="28" height="20" rx="3" fill="#4189DD" />
-        <polygon points="16.00,10.60 17.29,14.22 21.14,14.33 18.09,16.68 19.17,20.37 16.00,18.20 12.83,20.37 13.91,16.68 10.86,14.33 14.71,14.22" fill="#FFFFFF" />
-      </g>
-      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
-</svg>

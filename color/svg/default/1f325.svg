@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sun-behind-large-cloud">
-<g>
-        <!-- Sun Behind Cloud -->
-        <circle cx="12" cy="11" r="5.5" fill="#F59E0B" />
-        <path d="M12 2.5v3M5.5 5.5l2.2 2.2M18.5 5.5l-2.2 2.2M3.5 11h3" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
-        <!-- Large cloud taking main focus -->
-        <path d="M6 25h19a5 5 0 0 0 1-9.9A7.5 7.5 0 0 0 10 14a5 5 0 0 0-4 11z" fill="#94A3B8" stroke="#1E293B" stroke-width="0.8" />
-      </g>
-</svg>
