@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DEFAULT_STYLE_OPTIONS } from '../src/data/constants';
@@ -13,9 +13,10 @@ import type { WimojiIconDef, WimojiSkinTone } from '../src/types/wimoji';
 
 const projectRoot = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outputRoot = join(projectRoot, 'color/svg');
+const sequenceRoot = join(projectRoot, '.unicode-sequences');
 const sequenceFiles = [
-  join(outputRoot, 'unicode/emoji-sequences.txt'),
-  join(outputRoot, 'unicode/emoji-zwj-sequences.txt'),
+  join(sequenceRoot, 'emoji-sequences.txt'),
+  join(sequenceRoot, 'emoji-zwj-sequences.txt'),
 ];
 const skinToneByCodePoint = new Map<string, WimojiSkinTone>(
   SKIN_TONE_DEFS.filter((tone) => tone.modifierHex).map((tone) => [
@@ -156,13 +157,13 @@ async function generateSkinToneSequences(): Promise<void> {
       if (tones.length === 1) {
         await writeIconSvg(
           withSkinToneIcon(baseIcon, tones[0]!),
-          `skin-tones/${tones[0]}/${filename}`,
+          filename,
           tones[0]!
         );
       } else {
         await writeIconSvg(
           withDualSkinToneIcon(baseIcon, tones[0]!, tones[1]!),
-          `multi-skin-tones/${tones[0]}-${tones[1]}/${filename}`,
+          filename,
           tones[0]!,
           tones[1]!
         );
@@ -171,11 +172,12 @@ async function generateSkinToneSequences(): Promise<void> {
   }
 }
 
+await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
 
 for (const icon of ALL_WIMOJI_ICONS) {
   const filename = getUnicodeHexFilename(icon);
-  await writeIconSvg(icon, `default/${filename}`, 'default');
+  await writeIconSvg(icon, filename, 'default');
 }
 
 await generateSkinToneSequences();

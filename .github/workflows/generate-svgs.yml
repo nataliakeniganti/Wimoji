@@ -37,13 +37,13 @@ jobs:
 
       - name: Download Unicode 18.0.0 emoji sequences
         run: |
-          mkdir -p color/svg/unicode
+          mkdir -p .unicode-sequences
           curl --fail --location --retry 3 \
             https://unicode.org/Public/18.0.0/emoji/emoji-sequences.txt \
-            --output color/svg/unicode/emoji-sequences.txt
+            --output .unicode-sequences/emoji-sequences.txt
           curl --fail --location --retry 3 \
             https://unicode.org/Public/18.0.0/emoji/emoji-zwj-sequences.txt \
-            --output color/svg/unicode/emoji-zwj-sequences.txt
+            --output .unicode-sequences/emoji-zwj-sequences.txt
 
       - name: Generate SVGs
         run: bun run generate:svgs

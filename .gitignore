@@ -3,6 +3,7 @@ build/
 dist/
 coverage/
 color/svg/
+.unicode-sequences/
 .DS_Store
 *.log
 .env*
