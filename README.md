@@ -75,6 +75,12 @@ Generated SVGs are written to `color/svg/`. The **Generate SVGs** GitHub Actions
 
 The **Generate PNGs** workflow runs after successful SVG generation, when SVG assets are pushed directly, or by manual dispatch. It writes PNGs into `color/png/64x64/`, `color/png/128x128/`, `color/png/256x256/`, and `color/png/512x512/`, then commits changes to `main`.
 
+## License
+
+Unless otherwise noted, Wimoji's original code and artwork are licensed under
+[CC BY 4.0](LICENSE). Third-party materials, including font-derived glyph
+outlines, remain subject to their respective licenses.
+
 ## Text-to-path fonts
 
 Outlined glyph data is stored in [`src/data/svgTextGlyphPaths.json`](src/data/svgTextGlyphPaths.json) and applied by [`src/utils/svgTextToPath.ts`](src/utils/svgTextToPath.ts). The glyphs are based on:

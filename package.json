@@ -2,6 +2,7 @@
   "name": "wimoji",
   "version": "1.0.1",
   "description": "Open vector emoji library and SVG command-line exporter",
+  "license": "CC-BY-4.0",
   "type": "module",
   "bin": {
     "wimoji": "dist-cli/wimoji.js"
