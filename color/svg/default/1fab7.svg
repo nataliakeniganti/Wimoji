@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lotus">
+<g stroke-linejoin="round">
+        <!-- Floating water pad ripples -->
+        <ellipse cx="16" cy="25.5" rx="11" ry="2.5" fill="#10B981" opacity="0.8" />
+        <!-- Outer left cupped petal -->
+        <path d="M10 13 C4.5 17 5 22.5 14 23.5 C8.5 21.5 8 16 10 13 Z" fill="#DB2777" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Outer right cupped petal -->
+        <path d="M22 13 C27.5 17 27 22.5 18 23.5 C23.5 21.5 24 16 22 13 Z" fill="#DB2777" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Inner left petal -->
+        <path d="M14 8 C9.5 12 9 17.5 15.5 22.5 C13 18 13 13 14 8 Z" fill="#EC4899" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Inner right petal -->
+        <path d="M18 8 C22.5 12 23 17.5 16.5 22.5 C19 18 19 13 18 8 Z" fill="#EC4899" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Central upright petal -->
+        <path d="M16 5 C13.5 10 13 16 16 21.5 C19 16 18.5 10 16 5 Z" fill="#F472B6" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Golden stamen center -->
+        <ellipse cx="16" cy="20.5" rx="2.5" ry="1.2" fill="#FBBF24" />
+      </g>
+</svg>

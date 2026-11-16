@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="guitar">
+<g transform="rotate(-45 16 16)">
+        <!-- Neck Fretboard -->
+        <line x1="16" y1="15" x2="16" y2="4" stroke="#D97706" stroke-width="2.5" stroke-linecap="round" />
+        <!-- Headstock &amp; Tuning Pegs -->
+        <polygon points="14.5,4 17.5,4 18,1.5 14,1.5" fill="#B45309" />
+        <circle cx="13.5" cy="2.5" r="0.6" fill="#FFFFFF" />
+        <circle cx="18.5" cy="2.5" r="0.6" fill="#FFFFFF" />
+        <!-- Electric Guitar Body (Classic Double-cutaway Red) -->
+        <path d="M11 15c-3.5 1-6 4-6 7.5S8 28 12 28s6-2 7-5.5c-0.5-1.5-1.5-2.5-1.5-4l1-3.5h-7.5z" fill="#EF4444" stroke="#991B1B" stroke-width="1.2" />
+        <!-- Pickguard &amp; Pickups -->
+        <path d="M13 18c-1.5 1-2.5 2-2.5 4s1 3 3 3" fill="#FDE047" opacity="0.6" />
+        <rect x="14.5" y="19" width="3" height="1.2" fill="#0F172A" />
+        <rect x="14.5" y="22" width="3" height="1.2" fill="#0F172A" />
+      </g>
+</svg>

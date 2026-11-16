@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="newspaper">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Newspaper page -->
+        <rect x="4" y="5" width="24" height="22" rx="2" fill="#F8FAFC" stroke="#334155" stroke-width="2" />
+        <!-- Bold masthead header -->
+        <rect x="7" y="8" width="18" height="3.5" rx="0.5" fill="#0F172A" />
+        <!-- Front-page photograph box -->
+        <rect x="7" y="13.5" width="8" height="6.5" rx="0.5" fill="#93C5FD" stroke="#334155" stroke-width="1.4" />
+        <!-- Column text lines -->
+        <line x1="17" y1="14" x2="25" y2="14" stroke="#64748B" stroke-width="1.4" />
+        <line x1="17" y1="17" x2="25" y2="17" stroke="#64748B" stroke-width="1.4" />
+        <line x1="17" y1="20" x2="23" y2="20" stroke="#64748B" stroke-width="1.4" />
+        <line x1="7" y1="23" x2="25" y2="23" stroke="#94A3B8" stroke-width="1.4" />
+      </g>
+</svg>

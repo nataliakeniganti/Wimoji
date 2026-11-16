@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="fight-cloud">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Comic motion lines outside dust cloud -->
+        <path d="M3.2 8.4 L6 10.4 M28.8 8.4 L26 10.4 M4 25.6 L6.6 23.4 M28 25.6 L25.4 23.4" fill="none" stroke="#EF4444" stroke-width="1.4" />
+        <!-- Billowing cartoon dust puff -->
+        <path d="M8.6 22.6 C5.2 22.6 3.6 19.2 5.4 16.4 C4.2 13.6 6.4 10 9.8 10.2 C10.8 6.8 15.2 5.4 18.2 7.6 C21 5.6 25.4 7.4 25.6 11 C28.6 12.2 29.2 16.4 26.8 18.6 C28 21.4 25.6 24.4 22.4 23.6 C20.4 25.8 16.4 25.8 14.4 23.8 C12.4 25.2 9.6 24.6 8.6 22.6 Z" fill="#F1F5F9" stroke="#475569" stroke-width="1.2" />
+        <!-- Comic swirl curves -->
+        <path d="M8 15.2 C7.8 13.4 9.6 12.4 11 13.4 M23.8 18.8 C24.6 17.2 23.6 15.2 22 15.6" fill="none" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Central comic scuffle starburst -->
+        <path d="M16 10.4 L17.6 13.6 L21.2 12.8 L19 15.8 L21.8 18.2 L18 18.4 L16.8 21.8 L15 18.6 L11.4 19.4 L13.4 16.2 L10.8 13.8 L14.4 13.6 Z" fill="#FBBF24" stroke="#D97706" stroke-width="1" />
+        <circle cx="16.2" cy="16" r="1.4" fill="#EF4444" />
+      </g>
+</svg>

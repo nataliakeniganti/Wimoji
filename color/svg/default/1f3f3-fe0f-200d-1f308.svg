@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="rainbow-flag">
+<defs>
+      <clipPath id="wimoji-rainbow-flag-clip">
+        <path d="M7 6 C12 4 17 8 25 6 V18.5 C17 20.5 12 16.5 7 18.5 Z" />
+      </clipPath>
+    </defs>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <line x1="7" y1="4" x2="7" y2="28" stroke="#64748B" stroke-width="2.5" />
+      <circle cx="7" cy="4" r="1.5" fill="#FBBF24" />
+      <g clip-path="url(#wimoji-rainbow-flag-clip)">
+        <rect x="6" y="4.00" width="20" height="3.25" fill="#EF4444" /><rect x="6" y="6.75" width="20" height="3.25" fill="#F97316" /><rect x="6" y="9.50" width="20" height="3.25" fill="#FACC15" /><rect x="6" y="12.25" width="20" height="3.25" fill="#22C55E" /><rect x="6" y="15.00" width="20" height="3.25" fill="#3B82F6" /><rect x="6" y="17.75" width="20" height="3.25" fill="#A855F7" />
+      </g>
+      <path d="M7 6 C12 4 17 8 25 6 V18.5 C17 20.5 12 16.5 7 18.5 Z" fill="none" stroke="#64748B" stroke-width="1.1" />
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="low-brightness-symbol">
+<g stroke-linecap="round">
+        <!-- 8 Shorter / Dimmed Rays -->
+        <g stroke="#64748B" stroke-width="2.2">
+          <line x1="16" y1="5.5" x2="16" y2="8" />
+          <line x1="16" y1="24" x2="16" y2="26.5" />
+          <line x1="5.5" y1="16" x2="8" y2="16" />
+          <line x1="24" y1="16" x2="26.5" y2="16" />
+          <line x1="8.6" y1="8.6" x2="10.4" y2="10.4" />
+          <line x1="21.6" y1="21.6" x2="23.4" y2="23.4" />
+          <line x1="8.6" y1="23.4" x2="10.4" y2="21.6" />
+          <line x1="21.6" y1="10.4" x2="23.4" y2="8.6" />
+        </g>
+        <!-- Hollow/Dimmed Center Circle -->
+        <circle cx="16" cy="16" r="4.5" fill="#94A3B8" stroke="#64748B" stroke-width="1.2" />
+        <circle cx="16" cy="16" r="2.2" fill="#FFFFFF" opacity="0.4" />
+      </g>
+</svg>

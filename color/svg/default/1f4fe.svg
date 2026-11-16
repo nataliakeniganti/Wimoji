@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="portable-stereo">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Top Handle -->
+        <path d="M9 9V5h14v4" stroke="#94A3B8" stroke-width="2.5" fill="none" />
+        <!-- Boombox Body -->
+        <rect x="2" y="9" width="28" height="18" rx="2.5" fill="#334155" stroke="#0F172A" stroke-width="1.2" />
+        <!-- Left Speaker Subwoofer -->
+        <circle cx="8" cy="19" r="4.8" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+        <circle cx="8" cy="19" r="2.2" fill="#38BDF8" />
+        <!-- Right Speaker Subwoofer -->
+        <circle cx="24" cy="19" r="4.8" fill="#0F172A" stroke="#94A3B8" stroke-width="1" />
+        <circle cx="24" cy="19" r="2.2" fill="#38BDF8" />
+        <!-- Central Cassette Deck Window -->
+        <rect x="13.5" y="15" width="5" height="7" rx="0.8" fill="#1E293B" stroke="#94A3B8" stroke-width="0.8" />
+        <circle cx="15" cy="18.5" r="0.7" fill="#CBD5E1" />
+        <circle cx="17" cy="18.5" r="0.7" fill="#CBD5E1" />
+        <!-- Equalizer &amp; Buttons -->
+        <line x1="13.5" y1="12" x2="18.5" y2="12" stroke="#EF4444" stroke-width="1.5" />
+        <!-- Tuner Display Band -->
+        <rect x="4" y="11" width="8" height="1.8" rx="0.4" fill="#FBBF24" />
+      </g>
+</svg>

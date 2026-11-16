@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="vesta-symbol">
+<g stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M16 4c-3 4 0 7 0 7s3-3 0-7z" fill="#F59E0B" />
+        <line x1="9" y1="13" x2="23" y2="13" />
+        <path d="M11 13v9l5 4 5-4v-9" />
+      </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="fox">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Pointy Ears -->
+        <path d="M6.2 13.4 L5.4 4.2 L12.4 8.6 Z" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <path d="M7.2 11.4 L6.8 6.4 L10.8 9 Z" fill="#1E293B" stroke="none" /><g transform="matrix(-1 0 0 1 32 0)"><path d="M6.2 13.4 L5.4 4.2 L12.4 8.6 Z" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <path d="M7.2 11.4 L6.8 6.4 L10.8 9 Z" fill="#1E293B" stroke="none" /></g>
+        <!-- Face -->
+        <path d="M16 7.4 C21.2 7.4 26.8 11.6 27.6 17.6 C25.2 21.8 20.4 26.4 16 27 C11.6 26.4 6.8 21.8 4.4 17.6 C5.2 11.6 10.8 7.4 16 7.4 Z" fill="#EA580C" stroke="#9A3412" stroke-width="1.1" />
+        <!-- White Cheeks -->
+        <path d="M4.8 17.8 C7.8 17.8 12.4 20.4 15.4 26.4 C11.2 25.8 7 21.8 4.8 17.8 Z" fill="#FFFFFF" stroke="none" /><g transform="matrix(-1 0 0 1 32 0)"><path d="M4.8 17.8 C7.8 17.8 12.4 20.4 15.4 26.4 C11.2 25.8 7 21.8 4.8 17.8 Z" fill="#FFFFFF" stroke="none" /></g>
+        <!-- Eyes &amp; Black Nose -->
+        <circle cx="11.4" cy="15.4" r="1.35" fill="#0F172A" /><circle cx="11.8725" cy="14.9275" r="0.513" fill="#FFFFFF" />
+        <circle cx="20.6" cy="15.4" r="1.35" fill="#0F172A" /><circle cx="21.0725" cy="14.9275" r="0.513" fill="#FFFFFF" />
+        <ellipse cx="16" cy="24.2" rx="2.1" ry="1.5" fill="#0F172A" />
+      </g>
+</svg>

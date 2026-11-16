@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pinata">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 3.8 V13.6" fill="none" stroke="#94A3B8" stroke-width="1.4" />
+        <path d="M11.6 13.6 H21.6 C22.8 13.6 23.6 14.4 23.6 15.6 V19.6 H21.4 V26.6 H18.4 V21.2 H13.8 V26.6 H10.8 V19.6 H9.6 V14.6 L8.4 9.6 L11.4 8.2 Z" fill="#EC4899" stroke="#831843" stroke-width="1.1" />
+        <rect x="13" y="14.2" width="2.8" height="5.6" fill="#FBBF24" />
+        <rect x="15.8" y="14.2" width="2.8" height="5.6" fill="#38BDF8" />
+        <rect x="18.6" y="14.2" width="2.8" height="5.6" fill="#22C55E" />
+        <path d="M23.6 16 L26.4 17.6" stroke="#FBBF24" stroke-width="1.8" />
+        <circle cx="10.6" cy="11.2" r="0.8" fill="#1E293B" />
+      </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-with-spiral-eyes">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="16" cy="16" r="12.5" fill="#FFCA28" stroke="#FFA000" stroke-width="0.8" />
+        <circle cx="16" cy="15" r="11" fill="#FFE082" opacity="0.3" />
+        <!-- White circular eye discs behind spirals -->
+        <circle cx="11.2" cy="13.0" r="3.2" fill="#FFFFFF" opacity="0.9" />
+        <circle cx="20.8" cy="13.0" r="3.2" fill="#FFFFFF" opacity="0.9" />
+        <!-- Crisp hypnotic spirals -->
+        <path d="M11.2 13.0 C11.2 12.2 12.2 12.2 12.2 13.0 C12.2 14.2 10.2 14.2 10.2 12.8 C10.2 11.0 13.0 11.0 13.2 13.0 C13.4 15.2 9.4 15.4 9.0 12.8" fill="none" stroke="#37474F" stroke-width="1.35" />
+        <path d="M20.8 13.0 C20.8 12.2 21.8 12.2 21.8 13.0 C21.8 14.2 19.8 14.2 19.8 12.8 C19.8 11.0 22.6 11.0 22.8 13.0 C23.0 15.2 19.0 15.4 18.6 12.8" fill="none" stroke="#37474F" stroke-width="1.35" />
+        <!-- Woozy wavy open mouth -->
+        <path d="M12.6 21.4 C14.0 19.8 18.0 19.8 19.4 21.4 C18.0 23.0 14.0 23.0 12.6 21.4 Z" fill="#37474F" />
+      </g>
+</svg>

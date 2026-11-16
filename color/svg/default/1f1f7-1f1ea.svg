@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-reunion">
+<defs><clipPath id="wimoji-flag-re-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-re-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#003580" />
+        <polygon points="16,16 30,26 2,26" fill="#D21034" />
+        <polygon points="16,16 14.3,6 17.7,6" fill="#FFCE00" />
+        <polygon points="16,16 2,13.6 2,16.5" fill="#FFCE00" />
+        <polygon points="16,16 30,13.6 30,16.5" fill="#FFCE00" />
+        <polygon points="16,16 4.6,6 8.8,6" fill="#FFCE00" />
+        <polygon points="16,16 23.2,6 27.4,6" fill="#FFCE00" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

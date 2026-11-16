@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="disappointed-face">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <path d="M9.5 14.5 C10.5 16.5 12.5 16.5 13.5 14.5" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+        <path d="M18.5 14.5 C19.5 16.5 21.5 16.5 22.5 14.5" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+        <path d="M10.5 22 C12 18.5 20 18.5 21.5 22" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

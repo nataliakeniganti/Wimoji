@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="crossed-swords">
+<g>
+        <path d="M6 26l18-18 2-2-2 2-18 18z" stroke="#94A3B8" stroke-width="2.5" fill="none" />
+        <path d="M26 26L8 8l-2-2 2 2 18 18z" stroke="#94A3B8" stroke-width="2.5" fill="none" />
+        <path d="M7 22l3 3M22 25l3-3" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+        <circle cx="5" cy="27" r="1.5" fill="#F59E0B" />
+        <circle cx="27" cy="27" r="1.5" fill="#F59E0B" />
+      </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-mayotte">
+<g>
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#FFFFFF" />
+        <path d="M11.4 13.2 C10.2 14.8 10.5 17.8 12.1 19.0 M20.6 13.2 C21.8 14.8 21.5 17.8 19.9 19.0" fill="none" stroke="#94A3B8" stroke-width="1.15" stroke-linecap="round" />
+        <path d="M12.6 11.4 H19.4 V14.6 H12.6 Z" fill="#0055A4" />
+        <path d="M12.6 14.6 H19.4 V16.4 Q16 19.8 12.6 16.4 Z" fill="#EF4135" />
+        <path d="M12.6 11.4 H19.4 V16.4 Q16 19.8 12.6 16.4 Z" fill="none" stroke="#64748B" stroke-width="0.45" />
+        <path d="M14.4 13.0 A1.6 1.2 0 0 0 17.6 13.0" fill="none" stroke="#FFFFFF" stroke-width="0.95" stroke-linecap="round" />
+        <circle cx="14.6" cy="16.2" r="0.65" fill="#FACC15" />
+        <circle cx="17.4" cy="16.2" r="0.65" fill="#FACC15" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

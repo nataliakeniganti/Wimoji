@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-vietnam">
+<g>
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#DA251D" />
+        <polygon points="16.00,10.40 17.35,14.14 21.33,14.27 18.19,16.71 19.29,20.53 16.00,18.30 12.71,20.53 13.81,16.71 10.67,14.27 14.65,14.14" fill="#FFFF00" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

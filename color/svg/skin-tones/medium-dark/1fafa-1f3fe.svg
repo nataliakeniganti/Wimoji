@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="rightwards-thumb-sign-medium-dark">
+<g transform="translate(29, -1) scale(-1, 1) rotate(-90 16 16)" stroke="#4A260E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#A1653B">
+        <!-- Upright hitchhiker thumb -->
+        <path d="M10 14 C10 12 11 7 13 4 C14.5 2 16.5 3 16.5 5.5 C16.5 8.5 15.5 12 17.5 12 H23 C24.5 12 25.5 13 25.5 14.5 C25.5 15.5 24.8 16.2 24.8 16.8 C25.5 17.5 25.5 18.5 24.8 19.5 C25.5 20.2 25.5 21.2 24.8 22 C25 22.8 24.5 24 23 24 H17 C13 24 10 22 9 19 V15 C9 14.5 9.5 14 10 14 Z" />
+        <!-- Wrist / sleeve cuff baseline -->
+        <path d="M6 14.5 H9 V23.5 H6 C5.2 23.5 4.5 22.8 4.5 22 V16 C4.5 15.2 5.2 14.5 6 14.5 Z" />
+        <!-- Clenched finger creases -->
+        <line x1="17.5" y1="16" x2="23" y2="16" fill="none" />
+        <line x1="17" y1="19" x2="23" y2="19" fill="none" />
+        <line x1="16.5" y1="21.5" x2="22" y2="21.5" fill="none" />
+      </g>
+</svg>

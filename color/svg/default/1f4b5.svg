@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="dollar-banknote">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="7" width="26" height="18" rx="2" fill="#86EFAC" stroke="#14532D" stroke-width="2" />
+        <!-- Inner decorative frame -->
+        <rect x="5.5" y="9.5" width="21" height="13" rx="1" fill="none" stroke="#14532D" stroke-width="1" />
+        <!-- Center Washington medallion -->
+        <ellipse cx="16" cy="16" rx="5" ry="4" fill="#DCFCE7" stroke="#14532D" stroke-width="1.2" />
+        <!-- Dollar sign in center -->
+        <g stroke="#14532D" stroke-width="2" fill="none">
+          <path d="M16 13.5 V18.5" />
+          <path d="M17.5 14.5 C17 14 15 14 14.8 14.6 C14.5 15.3 17.5 15.5 17.2 16.3 C16.8 17.2 15 17.2 14.5 16.8" />
+        </g>
+        <circle cx="7" cy="11" r="1" fill="#14532D" />
+        <circle cx="25" cy="21" r="1" fill="#14532D" />
+      </g>
+</svg>

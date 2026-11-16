@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="beverage-box">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Bendy Drinking Straw -->
+        <path d="M15.4 10.6 V6.2 C15.4 4.8 17 4.2 21.4 4.2" fill="none" stroke="#EF4444" stroke-width="2" />
+        <!-- Carton Front &amp; Side Panel -->
+        <rect x="8.4" y="10.4" width="15.2" height="18.2" rx="1.4" fill="#FB923C" stroke="#9A3412" stroke-width="1.1" />
+        <path d="M19.2 10.4 H22.4 C23.1 10.4 23.6 10.9 23.6 11.6 V27.4 C23.6 28.1 23.1 28.6 22.4 28.6 H19.2 Z" fill="#EA580C" stroke="#9A3412" stroke-width="1" />
+        <path d="M8.4 13.4 H23.6" stroke="#9A3412" stroke-width="0.9" />
+        <!-- Fruit Label Emblem -->
+        <circle cx="13.8" cy="20.8" r="2.8" fill="#FACC15" stroke="#9A3412" stroke-width="0.9" />
+        <path d="M13.8 17.8 C14.6 16.4 16 16.2 16.4 17.4 C15.2 17.8 14.4 18 13.8 17.8 Z" fill="#22C55E" />
+      </g>
+</svg>

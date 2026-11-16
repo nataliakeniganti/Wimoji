@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="honey-pot">
+<g>
+        <!-- Wooden Honey Dipper stick inserted -->
+        <line x1="23.5" y1="3.5" x2="17" y2="12.5" stroke="#D97706" stroke-width="2.2" stroke-linecap="round" />
+        <!-- Dipper grooved head -->
+        <ellipse cx="18" cy="11.5" rx="2.8" ry="2" transform="rotate(-35 18 11.5)" fill="#B45309" stroke="#78350F" stroke-width="0.6" />
+        <!-- Terracotta Honey Pot Belly Body -->
+        <path d="M8.8 10.5C5.8 14.5 5.8 21.5 9.8 25.5c3.5 3.5 8.9 3.5 12.4 0 4-4 4-11 1-15z" fill="#EA580C" stroke="#9A3412" stroke-width="1.2" />
+        <!-- Pot neck and rim lip -->
+        <ellipse cx="16" cy="10" rx="7.5" ry="2.2" fill="#C2410C" stroke="#9A3412" stroke-width="1" />
+        <!-- Honey inside rim -->
+        <ellipse cx="16" cy="10" rx="6.5" ry="1.6" fill="#F59E0B" />
+        <!-- Luscious Golden Honey Drip overflowing rim and down front -->
+        <path d="M12.5 10c0 2 0.8 5 0.8 7 0 1.8 1.2 3 2.7 3s2.7-1.2 2.7-3c0-2 0.8-5 0.8-7z" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+        <ellipse cx="16" cy="18.5" rx="1.5" ry="1.2" fill="#FEF08A" opacity="0.6" />
+        <!-- Jar label band with pattern -->
+        <path d="M8.5 18c2 1 5 1.5 7.5 1.5s5.5-0.5 7.5-1.5" stroke="#FED7AA" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.5" />
+      </g>
+</svg>

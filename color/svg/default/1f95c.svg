@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="peanuts">
+<g>
+        <!-- Textured Peanut Pod In Shell -->
+        <path d="M14 5 C10.5 5 8.5 8 9 11.5 C9.5 14 11.5 15.5 11.5 16.5 C11.5 17.5 8.5 19.5 9 23 C9.5 26.5 11.8 28 15 28 C18.2 28 20.5 26.5 21 23 C21.5 19.5 18.5 17.5 18.5 16.5 C18.5 15.5 20.5 14 21 11.5 C21.5 8 18 5 14 5 Z" fill="#D97706" stroke="#78350F" stroke-width="1.2" stroke-linejoin="round" />
+        <!-- Shell Waist Constriction Contour -->
+        <path d="M11.5 16.5 C13.5 17 16.5 17 18.5 16.5" stroke="#78350F" stroke-width="1.4" stroke-linecap="round" fill="none" />
+        <!-- Reticulated Shell Texture Ridges -->
+        <g stroke="#78350F" stroke-width="0.9" stroke-linecap="round" opacity="0.75" fill="none">
+          <path d="M12 9 C14 8 16 8 18 9" />
+          <path d="M11.5 12 C14 11 16 11 18.5 12" />
+          <path d="M11.5 21 C14 20 16 20 18.5 21" />
+          <path d="M12 24 C14 25 16 25 18 24" />
+          <!-- Vertical Intersecting Mesh Strands -->
+          <line x1="15" y1="8" x2="15" y2="14" />
+          <line x1="15" y1="19" x2="15" y2="25" />
+        </g>
+        <!-- Shell Light Highlight -->
+        <ellipse cx="14" cy="9.5" rx="2" ry="1.2" fill="#FEF3C7" opacity="0.4" />
+        <ellipse cx="15" cy="22.5" rx="2.5" ry="1.5" fill="#FEF3C7" opacity="0.4" />
+      </g>
+</svg>

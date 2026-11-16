@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="grimacing-face">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <ellipse cx="11.5" cy="12" rx="1.6" ry="2.2" fill="#37474F" />
+        <ellipse cx="20.5" cy="12" rx="1.6" ry="2.2" fill="#37474F" />
+        <circle cx="12" cy="11.2" r="0.6" fill="#FFFFFF" />
+        <circle cx="21" cy="11.2" r="0.6" fill="#FFFFFF" />
+        <!-- Clenched teeth rectangle -->
+        <rect x="9" y="16.5" width="14" height="6.5" rx="3.2" fill="#FFFFFF" stroke="#37474F" stroke-width="1.4" />
+        <line x1="9.5" y1="19.75" x2="22.5" y2="19.75" stroke="#37474F" stroke-width="0.9" />
+        <line x1="12.5" y1="16.8" x2="12.5" y2="22.8" stroke="#37474F" stroke-width="0.8" />
+        <line x1="16" y1="16.8" x2="16" y2="22.8" stroke="#37474F" stroke-width="0.8" />
+        <line x1="19.5" y1="16.8" x2="19.5" y2="22.8" stroke="#37474F" stroke-width="0.8" />
+      </g>
+</svg>

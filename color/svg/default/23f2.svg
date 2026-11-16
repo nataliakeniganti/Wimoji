@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="timer-clock">
+<g>
+        <path d="M14 4h4v3h-4z" fill="#1E293B" />
+        <rect x="6" y="7" width="20" height="21" rx="4" fill="#F59E0B" />
+        <circle cx="16" cy="17.5" r="6.5" fill="#FFFFFF" />
+        <path d="M16 13.5v4h3.5" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round" fill="none" />
+      </g>
+</svg>

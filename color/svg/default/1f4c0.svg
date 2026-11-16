@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="dvd">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="16" cy="16" r="13" fill="#FDE047" stroke="#78350F" stroke-width="2" />
+        <!-- Golden iridescent reflection slices -->
+        <path d="M16 16 L25 7 A13 13 0 0 1 28 12 Z" fill="#F59E0B" opacity="0.75" />
+        <path d="M16 16 L7 25 A13 13 0 0 1 4 20 Z" fill="#F59E0B" opacity="0.75" />
+        <circle cx="16" cy="16" r="5" fill="#FEF08A" stroke="#78350F" stroke-width="1.4" />
+        <circle cx="16" cy="16" r="2.2" fill="#FFFFFF" stroke="#78350F" stroke-width="2" />
+      </g>
+</svg>

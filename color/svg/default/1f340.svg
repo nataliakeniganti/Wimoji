@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="four-leaf-clover">
+<g>
+        <!-- Stem -->
+        <path d="M16 16v9c0 2 2 3 4 3" stroke="#15803D" stroke-width="2" stroke-linecap="round" fill="none" />
+        <!-- 4 Heart leaflets -->
+        
+          <g transform="rotate(0 16 16)">
+            <path d="M16 16c-3-5-8-5-8 0s5 4 8 0z" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+            <path d="M16 16c3-5 8-5 8 0s-5 4-8 0z" fill="#4ADE80" stroke="#15803D" stroke-width="0.8" />
+          </g>
+        
+          <g transform="rotate(90 16 16)">
+            <path d="M16 16c-3-5-8-5-8 0s5 4 8 0z" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+            <path d="M16 16c3-5 8-5 8 0s-5 4-8 0z" fill="#4ADE80" stroke="#15803D" stroke-width="0.8" />
+          </g>
+        
+          <g transform="rotate(180 16 16)">
+            <path d="M16 16c-3-5-8-5-8 0s5 4 8 0z" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+            <path d="M16 16c3-5 8-5 8 0s-5 4-8 0z" fill="#4ADE80" stroke="#15803D" stroke-width="0.8" />
+          </g>
+        
+          <g transform="rotate(270 16 16)">
+            <path d="M16 16c-3-5-8-5-8 0s5 4 8 0z" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+            <path d="M16 16c3-5 8-5 8 0s-5 4-8 0z" fill="#4ADE80" stroke="#15803D" stroke-width="0.8" />
+          </g>
+        
+      </g>
+</svg>

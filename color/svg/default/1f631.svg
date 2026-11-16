@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-screaming-in-fear">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <path d="M 4.54 11 A 12.5 12.5 0 0 1 27.46 11 C 22 12.5 10 12.5 4.54 11 Z" fill="#60A5FA" opacity="0.65" />
+        <ellipse cx="11" cy="11.8" rx="3.4" ry="4.8" fill="#FFFFFF" stroke="#37474F" stroke-width="1" />
+        <ellipse cx="21" cy="11.8" rx="3.4" ry="4.8" fill="#FFFFFF" stroke="#37474F" stroke-width="1" />
+        <path d="M16 17 C18.8 17 20.2 19.8 20.2 22.4 C20.2 25.2 18.4 26.6 16 26.6 C13.6 26.6 11.8 25.2 11.8 22.4 C11.8 19.8 13.2 17 16 17 Z" fill="#37474F" />
+        <ellipse cx="16" cy="24.6" rx="2" ry="1.2" fill="#FB7185" />
+        <path d="M4.2 27 C2.6 24.4 2.4 20 3.4 17.2 C3.8 16 5 15.8 5.6 16.8 C5.8 15.4 7.4 15 8 16.2 C8.4 15.2 10 15.4 10.2 16.8 C11 16.4 12 17.2 11.6 18.4 L11.4 22.6 C11.2 25.4 9.2 28 6.8 28.2 C5.6 28.3 4.8 27.8 4.2 27 Z" fill="#FFB300" stroke="#F57C00" stroke-width="0.8" />
+        <path d="M 27.8 27 C 29.4 24.4 29.6 20 28.6 17.2 C 28.2 16 27 15.8 26.4 16.8 C 26.2 15.4 24.6 15 24 16.2 C 23.6 15.2 22 15.4 21.8 16.8 C 21 16.4 20 17.2 20.4 18.4 L 20.6 22.6 C 20.8 25.4 22.8 28 25.2 28.2 C 26.4 28.3 27.2 27.8 27.8 27 Z" fill="#FFB300" stroke="#F57C00" stroke-width="0.8" />
+      </g>
+</svg>

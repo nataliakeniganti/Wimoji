@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="collision">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Outer energetic impact explosion starburst -->
+        <polygon points="16,2 19,9 27,4 23,12 30,16 23,20 27,28 19,23 16,30 13,23 5,28 9,20 2,16 9,12 5,4 13,9" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+        <!-- Inner fiery blast core -->
+        <polygon points="16,6 18,11 23,8 20,13 25,16 20,19 23,24 18,21 16,26 14,21 9,24 12,19 7,16 12,13 9,8 14,11" fill="#FDE047" />
+      </g>
+</svg>

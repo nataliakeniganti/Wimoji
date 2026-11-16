@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="busts-in-silhouette">
+<g>
+        <!-- Back figure -->
+        <circle cx="21" cy="10" r="4" fill="#94A3B8" />
+        <path d="M15 25 C15 20 18 17 22 17 C26 17 29 20 29 25 Z" fill="#94A3B8" />
+        <!-- Front figure -->
+        <circle cx="12" cy="12" r="4.5" fill="#64748B" />
+        <path d="M4 26 C4 20.5 7.5 19 12 19 C16.5 19 20 20.5 20 26 Z" fill="#64748B" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-greenland">
+<defs><clipPath id="wimoji-flag-gl-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-gl-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#FFFFFF" />
+        <rect x="2" y="16" width="28" height="10" fill="#D00C33" />
+        <path d="M7.3 16 A5.2 5.2 0 0 1 17.7 16 Z" fill="#D00C33" />
+        <path d="M7.3 16 A5.2 5.2 0 0 0 17.7 16 Z" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

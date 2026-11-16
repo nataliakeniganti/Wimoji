@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="anchor">
+<g>
+        <circle cx="16" cy="7" r="3" fill="none" stroke="#3B82F6" stroke-width="2.5" />
+        <path d="M16 10v16M10 13h12" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" />
+        <path d="M6 18c0 6.6 4.5 9 10 9s10-2.4 10-9" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" fill="none" />
+        <path d="M4 16h4M24 16h4" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" />
+      </g>
+</svg>

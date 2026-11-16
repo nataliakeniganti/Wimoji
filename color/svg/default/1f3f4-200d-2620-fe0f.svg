@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pirate-flag">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <line x1="7" y1="4" x2="7" y2="28" stroke="#64748B" stroke-width="2.5" />
+        <circle cx="7" cy="4" r="1.5" fill="#FBBF24" />
+        <path d="M7 6 C12 4 17 8 25 6 V18.5 C17 20.5 12 16.5 7 18.5 Z" fill="#1E293B" stroke="#0F172A" stroke-width="1.2" />
+        <!-- Crossbones -->
+        <path d="M12.2 15.8 L19.8 12.4 M12.2 12.4 L19.8 15.8" stroke="#FFFFFF" stroke-width="1.35" />
+        <!-- Skull -->
+        <circle cx="16" cy="11.0" r="2.3" fill="#FFFFFF" />
+        <rect x="14.8" y="12.3" width="2.4" height="1.6" rx="0.4" fill="#FFFFFF" />
+        <circle cx="15.1" cy="11.0" r="0.5" fill="#1E293B" />
+        <circle cx="16.9" cy="11.0" r="0.5" fill="#1E293B" />
+      </g>
+</svg>

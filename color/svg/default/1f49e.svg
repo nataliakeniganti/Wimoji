@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="revolving-hearts">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Orbiting swoosh arcs -->
+        <path d="M22 10 C18 6 12 7 9 10" stroke="#FDA4AF" stroke-width="1.6" fill="none" />
+        <polygon points="8,11 11,9 9.5,12.5" fill="#FDA4AF" />
+        <path d="M10 22 C14 26 20 25 23 22" stroke="#FDA4AF" stroke-width="1.6" fill="none" />
+        <polygon points="24,21 21,23 22.5,19.5" fill="#FDA4AF" />
+        <!-- Top Left Heart without border or shiny spot -->
+        <g transform="translate(10 12) scale(0.55) translate(-16 -17)">
+          <path d="M16 27s-10-6.5-10-14a5.5 5.5 0 0 1 10-3 5.5 5.5 0 0 1 10 3c0 7.5-10 14-10 14z" fill="#EC4899" />
+        </g>
+        <!-- Bottom Right Heart without border or shiny spot -->
+        <g transform="translate(22 20) scale(0.55) translate(-16 -17)">
+          <path d="M16 27s-10-6.5-10-14a5.5 5.5 0 0 1 10-3 5.5 5.5 0 0 1 10 3c0 7.5-10 14-10 14z" fill="#F43F5E" />
+        </g>
+      </g>
+</svg>

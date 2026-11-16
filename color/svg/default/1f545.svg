@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="symbol-for-marks-chapter">
+<g stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Central Cross Axes -->
+        <line x1="16" y1="5" x2="16" y2="27" />
+        <line x1="5" y1="16" x2="27" y2="16" />
+        <!-- Terminal Crossbars -->
+        <line x1="13.5" y1="5" x2="18.5" y2="5" />
+        <line x1="13.5" y1="27" x2="18.5" y2="27" />
+        <line x1="5" y1="13.5" x2="5" y2="18.5" />
+        <line x1="27" y1="13.5" x2="27" y2="18.5" />
+        <!-- Central Ring Intersection -->
+        <circle cx="16" cy="16" r="3.5" />
+        <!-- Four Quadrant Dots -->
+        <circle cx="10.5" cy="10.5" r="1.5" fill="#8B5CF6" stroke="none" />
+        <circle cx="21.5" cy="10.5" r="1.5" fill="#8B5CF6" stroke="none" />
+        <circle cx="10.5" cy="21.5" r="1.5" fill="#8B5CF6" stroke="none" />
+        <circle cx="21.5" cy="21.5" r="1.5" fill="#8B5CF6" stroke="none" />
+      </g>
+</svg>

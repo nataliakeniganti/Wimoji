@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="open-book">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Cover peeking out beneath the pages -->
+        <path d="M2.5 7 V27 C8 25.5 13 26 16 28.5 C19 26 24 25.5 29.5 27 V7" fill="#2563EB" stroke="#1E3A8A" stroke-width="2" />
+        <!-- Pages -->
+        <path d="M16 8 C13 5.5 8.5 5 4 6.5 V24.5 C8.5 23 13 23.5 16 26 C19 23.5 23.5 23 28 24.5 V6.5 C23.5 5 19 5.5 16 8 Z" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="2" />
+        <line x1="16" y1="8" x2="16" y2="26" stroke="#1E3A8A" stroke-width="1.2" />
+        <path d="M7.5 11 C9.5 10.6 11.5 11 13 12 M7.5 15 C9.5 14.6 11.5 15 13 16" stroke="#94A3B8" stroke-width="1.2" fill="none" />
+        <path d="M24.5 11 C22.5 10.6 20.5 11 19 12 M24.5 15 C22.5 14.6 20.5 15 19 16" stroke="#94A3B8" stroke-width="1.2" fill="none" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="razor">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Neck &amp; ergonomic handle -->
+        <path d="M14.2 9.8 H17.8 V25.6 C17.8 27 17 27.8 16 27.8 C15 27.8 14.2 27 14.2 25.6 Z" fill="#0EA5E9" stroke="#0F172A" stroke-width="1.1" />
+        <path d="M15 17 H17 M15 20 H17 M15 23 H17" stroke="#0369A1" stroke-width="1" />
+        <!-- Swivel razor head &amp; twin blades -->
+        <rect x="8" y="4.5" width="16" height="5.6" rx="1.4" fill="#CBD5E1" stroke="#0F172A" stroke-width="1.1" />
+        <path d="M10 6.5 H22 M10 8.2 H22" stroke="#475569" stroke-width="1" />
+      </g>
+</svg>

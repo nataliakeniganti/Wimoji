@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="top-hat">
+<g>
+        <!-- Wide Brim -->
+        <ellipse cx="16" cy="23.5" rx="13" ry="3.8" fill="#1E293B" stroke="#020617" stroke-width="1.2" />
+        <!-- Tall Cylinder Body -->
+        <path d="M8 23V8c0-1.8 3.5-3 8-3s8 1.2 8 3v15H8z" fill="#1E293B" stroke="#020617" stroke-width="1.2" />
+        <!-- Top Crown Ellipse -->
+        <ellipse cx="16" cy="8" rx="8" ry="2.6" fill="#334155" stroke="#020617" stroke-width="1" />
+        <!-- Red Silk Ribbon Band -->
+        <path d="M8 19v4c2 1 5 1.5 8 1.5s6-0.5 8-1.5v-4c-2 1-5 1.5-8 1.5s-6-0.5-8-1.5z" fill="#EF4444" />
+      </g>
+</svg>

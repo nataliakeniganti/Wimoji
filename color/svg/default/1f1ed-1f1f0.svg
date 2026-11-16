@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-hong-kong">
+<defs><clipPath id="wimoji-flag-hk-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-hk-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#DE2910" />
+        <path d="M16 16 C14.5 13.8 14.9 10.9 16.7 10.6 C18.1 11.4 17.5 14.2 16 16 Z" fill="#FFFFFF" transform="rotate(0 16 16)" /><circle cx="16" cy="11.8" r="0.45" fill="#DE2910" transform="rotate(0 16 16)" /><path d="M16 16 C14.5 13.8 14.9 10.9 16.7 10.6 C18.1 11.4 17.5 14.2 16 16 Z" fill="#FFFFFF" transform="rotate(72 16 16)" /><circle cx="16" cy="11.8" r="0.45" fill="#DE2910" transform="rotate(72 16 16)" /><path d="M16 16 C14.5 13.8 14.9 10.9 16.7 10.6 C18.1 11.4 17.5 14.2 16 16 Z" fill="#FFFFFF" transform="rotate(144 16 16)" /><circle cx="16" cy="11.8" r="0.45" fill="#DE2910" transform="rotate(144 16 16)" /><path d="M16 16 C14.5 13.8 14.9 10.9 16.7 10.6 C18.1 11.4 17.5 14.2 16 16 Z" fill="#FFFFFF" transform="rotate(216 16 16)" /><circle cx="16" cy="11.8" r="0.45" fill="#DE2910" transform="rotate(216 16 16)" /><path d="M16 16 C14.5 13.8 14.9 10.9 16.7 10.6 C18.1 11.4 17.5 14.2 16 16 Z" fill="#FFFFFF" transform="rotate(288 16 16)" /><circle cx="16" cy="11.8" r="0.45" fill="#DE2910" transform="rotate(288 16 16)" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#991B1B" stroke-width="0.8" opacity="0.45" />
+</svg>

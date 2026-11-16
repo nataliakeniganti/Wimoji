@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="horse">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Tail -->
+        <path d="M27 13 C30.8 14.5 30.8 20 28 25" fill="none" stroke="#451A03" stroke-width="2.6" />
+        <rect x="11.5" y="18.5" width="2.2" height="10" rx="1" fill="#92400E" stroke="#78350F" stroke-width="1.1" /><rect x="11.5" y="26.4" width="2.2" height="2.1" rx="0.8" fill="#451A03" stroke="none" /><rect x="14.6" y="18.5" width="2.2" height="10" rx="1" fill="#92400E" stroke="#78350F" stroke-width="1.1" /><rect x="14.6" y="26.4" width="2.2" height="2.1" rx="0.8" fill="#451A03" stroke="none" /><rect x="21.8" y="18.5" width="2.2" height="10" rx="1" fill="#92400E" stroke="#78350F" stroke-width="1.1" /><rect x="21.8" y="26.4" width="2.2" height="2.1" rx="0.8" fill="#451A03" stroke="none" /><rect x="24.8" y="18.5" width="2.2" height="10" rx="1" fill="#92400E" stroke="#78350F" stroke-width="1.1" /><rect x="24.8" y="26.4" width="2.2" height="2.1" rx="0.8" fill="#451A03" stroke="none" />
+        <!-- Head, neck and body -->
+        <path d="M10 5 L5 10 C3.6 11.2 3.6 12.8 5 13.6 C6.2 14.2 7.4 13.8 8.6 12.4 C9.5 14 10 15.5 10.3 17.5 C10.8 20 12 21 14 21 H24 C26.5 21 28 18.5 27.5 15.5 C27 12.5 25 11.5 22 11.5 H16 C14.5 11.3 12.5 8 10 5 Z" fill="#92400E" stroke="#78350F" stroke-width="1.1" />
+        <!-- Mane -->
+        <path d="M10.2 5.2 C11.8 8 13.8 10.4 16 11.4" fill="none" stroke="#451A03" stroke-width="1.9" />
+        <!-- Ear, eye, nostril -->
+        <path d="M9.4 5.6 L10 2.8 L11.6 5.2 Z" fill="#92400E" stroke="#78350F" stroke-width="1.1" />
+        <circle cx="6.8" cy="10.6" r="0.8" fill="#0F172A" />
+        <circle cx="4.2" cy="12.6" r="0.5" fill="#451A03" />
+      </g>
+</svg>

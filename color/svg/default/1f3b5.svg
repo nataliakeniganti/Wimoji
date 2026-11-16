@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="musical-note">
+<g>
+        <!-- Musical Note Head (angled oval) -->
+        <ellipse cx="11" cy="22" rx="5.2" ry="3.8" transform="rotate(-20 11 22)" fill="#3B82F6" />
+        <!-- Vertical Stem -->
+        <line x1="15" y1="21" x2="15" y2="5" stroke="#3B82F6" stroke-width="2.8" />
+        <!-- Waving Flag Banner -->
+        <path d="M15 5c4 0 7.5 2 9.5 6.5-2.5 1-6 0.5-9.5-2.5V5z" fill="#3B82F6" />
+      </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pensive-face">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <path d="M8 11.2 C9.8 10.4 12 9.2 14 8.4" stroke="#37474F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M 24 11.2 C 22.2 10.4 20 9.2 18 8.4" stroke="#37474F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M9 14.4 C10 16.6 12.8 16.8 14 14.8" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M 23 14.4 C 22 16.6 19.2 16.8 18 14.8" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M13.2 22 H18.8" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      </g>
+</svg>

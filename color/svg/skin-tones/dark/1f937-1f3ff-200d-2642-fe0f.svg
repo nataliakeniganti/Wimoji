@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="man-shrugging-dark">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4.6 25.4 L3.8 19.6" fill="none" stroke="#382216" stroke-width="4.9" /><path d="M4.6 25.4 L3.8 19.6" fill="none" stroke="#5C3E2F" stroke-width="2.8" />
+        <path d="M9.2 23 L4.8 27.4" fill="none" stroke="#1E3A8A" stroke-width="6.1" /><path d="M9.2 23 L4.8 27.4" fill="none" stroke="#1976D2" stroke-width="4" />
+        <path d="M1.7000000000000002 18 A2 2 0 1 0 5.7 18 A2 2 0 1 0 1.7000000000000002 18 Z" fill="#5C3E2F" stroke="#382216" stroke-width="1.05" />
+        <path d="M27.4 25.4 L28.2 19.6" fill="none" stroke="#382216" stroke-width="4.9" /><path d="M27.4 25.4 L28.2 19.6" fill="none" stroke="#5C3E2F" stroke-width="2.8" />
+        <path d="M22.8 23 L27.2 27.4" fill="none" stroke="#1E3A8A" stroke-width="6.1" /><path d="M22.8 23 L27.2 27.4" fill="none" stroke="#1976D2" stroke-width="4" />
+        <path d="M26.3 18 A2 2 0 1 0 30.3 18 A2 2 0 1 0 26.3 18 Z" fill="#5C3E2F" stroke="#382216" stroke-width="1.05" />
+        <path d="M5.6 32 C5.6 24.4 9.6 20.2 16 20.2 C22.4 20.2 26.4 24.4 26.4 32 Z" fill="#1976D2" stroke="#1E3A8A" stroke-width="1.05" />
+        <path d="M13.2 17.4 H18.8 V21.4 H13.2 Z" fill="#5C3E2F" stroke="#382216" stroke-width="1.05" />
+        <path d="M10.2 11.4 A5.8 6.2 0 1 0 21.8 11.4 A5.8 6.2 0 1 0 10.2 11.4 Z" fill="#5C3E2F" stroke="#382216" stroke-width="1.05" />
+        <path d="M10.47 10.59 C9.80 6.14 12.49 3.45 16.00 3.45 C19.51 3.45 22.20 6.14 21.53 10.59 C20.59 8.43 18.56 7.36 16.00 7.36 C13.44 7.36 11.41 8.43 10.47 10.59 Z" fill="#6D4C41" stroke="none" stroke-width="1.05" />
+        <circle cx="13.9" cy="12.28" r="1.15" fill="#37474F" stroke="none" /><circle cx="18.1" cy="12.28" r="1.15" fill="#37474F" stroke="none" /><path d="M14.4 14.84 C15.36 15.96 16.64 15.96 17.6 14.84" fill="none" stroke="#37474F" stroke-width="0.9" /><path d="M11 7.4 L14.2 6.6 M21 7.4 L17.8 6.6" fill="none" stroke="#37474F" stroke-width="1.1" /><path d="M2.6 14.8 V16.4 M3.8 14.4 V16.2 M5 14.8 V16.4" fill="none" stroke="#37474F" stroke-width="0.7" /><path d="M27 14.8 V16.4 M28.2 14.4 V16.2 M29.4 14.8 V16.4" fill="none" stroke="#37474F" stroke-width="0.7" />
+      </g>
+</svg>

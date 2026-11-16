@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-solomon-islands">
+<defs><clipPath id="wimoji-flag-sb-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-sb-clip)">
+        <polygon points="2,6 30,6 2,26" fill="#0051BA" />
+        <polygon points="30,6 30,26 2,26" fill="#215B33" />
+        <path d="M1 26.7 L31 5.3" stroke="#FCD116" stroke-width="2.6" />
+        <polygon points="5.40,8.10 5.67,8.83 6.45,8.86 5.84,9.34 6.05,10.09 5.40,9.66 4.75,10.09 4.96,9.34 4.35,8.86 5.13,8.83" fill="#FFFFFF" /><polygon points="10.20,8.10 10.47,8.83 11.25,8.86 10.64,9.34 10.85,10.09 10.20,9.66 9.55,10.09 9.76,9.34 9.15,8.86 9.93,8.83" fill="#FFFFFF" /><polygon points="7.80,10.30 8.07,11.03 8.85,11.06 8.24,11.54 8.45,12.29 7.80,11.86 7.15,12.29 7.36,11.54 6.75,11.06 7.53,11.03" fill="#FFFFFF" /><polygon points="5.40,12.50 5.67,13.23 6.45,13.26 5.84,13.74 6.05,14.49 5.40,14.06 4.75,14.49 4.96,13.74 4.35,13.26 5.13,13.23" fill="#FFFFFF" /><polygon points="10.20,12.50 10.47,13.23 11.25,13.26 10.64,13.74 10.85,14.49 10.20,14.06 9.55,14.49 9.76,13.74 9.15,13.26 9.93,13.23" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

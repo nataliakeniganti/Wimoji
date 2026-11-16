@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="accordion">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Pleated bellows -->
+        <rect x="10.4" y="8.4" width="11.2" height="15.2" fill="#334155" stroke="#0F172A" stroke-width="1" />
+        <path d="M12.6 8.4 V23.6 M15 8.4 V23.6 M17.4 8.4 V23.6 M19.8 8.4 V23.6" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Left &amp; right lacquered casings -->
+        <rect x="4.5" y="7" width="6.2" height="18" rx="1.4" fill="#DC2626" stroke="#0F172A" stroke-width="1.1" />
+        <rect x="21.3" y="7" width="6.2" height="18" rx="1.4" fill="#DC2626" stroke="#0F172A" stroke-width="1.1" />
+        <!-- White piano keys &amp; bass buttons -->
+        <rect x="21.8" y="9" width="2.6" height="14" rx="0.5" fill="#F8FAFC" stroke="#0F172A" stroke-width="0.7" />
+        <circle cx="7.4" cy="11.5" r="0.9" fill="#F8FAFC" />
+        <circle cx="7.4" cy="16" r="0.9" fill="#F8FAFC" />
+        <circle cx="7.4" cy="20.5" r="0.9" fill="#F8FAFC" />
+      </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tropical-drink">
+<g>
+        <!-- Drinking Straw (yellow-striped) -->
+        <line x1="18" y1="2" x2="13" y2="18" stroke="#FDE047" stroke-width="2" stroke-linecap="round" />
+        <!-- Cocktail Umbrella (pink) -->
+        <path d="M17 6l8 4c-1-2-3-4-6-4.5z" fill="#EC4899" stroke="#BE185D" stroke-width="0.8" />
+        <!-- Hurricane Glass Body -->
+        <path d="M8 8h12c0 6-2 10-2 14 0 2 1 3.5 1 3.5H9s1-1.5 1-3.5c0-4-2-8-2-14z" fill="#E0F2FE" fill-opacity="0.5" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Vibrant Orange / Tropical Liquid Gradient Layers -->
+        <path d="M9 10h10c0 5-1.8 8-1.8 12 0 1.5 0.8 2.5 0.8 2.5h-8s0.8-1 0.8-2.5c0-4-1.8-7-1.8-12z" fill="#F97316" />
+        <path d="M9.8 17h8.4c0 3-1 5.5-1 7H10.8c0-1.5-1-4-1-7z" fill="#EF4444" />
+        <!-- Lemon Wedge Garnished on Rim -->
+        <circle cx="8" cy="8" r="3" fill="#FDE047" stroke="#CA8A04" stroke-width="0.8" />
+      </g>
+</svg>

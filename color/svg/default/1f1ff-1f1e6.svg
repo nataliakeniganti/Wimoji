@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-south-africa">
+<defs><clipPath id="wimoji-flag-za-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-za-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#E03C31" />
+        <rect x="2" y="16" width="28" height="10" fill="#001489" />
+        <path d="M2 5.4 L16 16 L2 26.6 M16 16 H30" fill="none" stroke="#FFFFFF" stroke-width="6.0" />
+        <path d="M2 5.4 L16 16 L2 26.6 M16 16 H30" fill="none" stroke="#007A4D" stroke-width="3.8" />
+        <polygon points="2,8.4 12.2,16 2,23.6" fill="#FFB81C" />
+        <polygon points="2,9.8 10.3,16 2,22.2" fill="#111827" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

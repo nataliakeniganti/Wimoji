@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ledger">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="8" y="4" width="19" height="24" rx="2" fill="#FDE047" stroke="#78350F" stroke-width="2" />
+        <!-- Binding rings -->
+        <path d="M5.5 9 H10.5 M5.5 14.5 H10.5 M5.5 20 H10.5 M5.5 25.5 H10.5" stroke="#CA8A04" stroke-width="2.8" />
+        <!-- Paper label and ruled lines -->
+        <rect x="14" y="8.5" width="9" height="6" fill="#FFFFFF" stroke="#78350F" stroke-width="1.4" />
+        <line x1="14" y1="19" x2="23" y2="19" stroke="#CA8A04" stroke-width="1.4" />
+        <line x1="14" y1="23" x2="20" y2="23" stroke="#CA8A04" stroke-width="1.4" />
+      </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="khanda-symbol">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Chakkar quoit ring -->
+        <circle cx="16" cy="13.5" r="5.6" fill="#D97706" />
+        <circle cx="16" cy="13.5" r="3.7" fill="#FFFFFF" />
+        <!-- Central double-edged blade -->
+        <path d="M16 2.5 L17.5 5.5 C18.3 9.5 18.2 15 17.8 19 H14.2 C13.8 15 13.7 9.5 14.5 5.5 Z" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+        <!-- Blade fuller / center ridge gleam -->
+        <line x1="16" y1="3.2" x2="16" y2="18.5" stroke="#FDE68A" stroke-width="0.9" />
+        <!-- Sword crossguard &amp; hilt -->
+        <rect x="12" y="19" width="8" height="2" rx="0.6" fill="#D97706" />
+        <rect x="15" y="21" width="2" height="5.5" rx="0.4" fill="#F59E0B" stroke="#D97706" stroke-width="0.6" />
+        <circle cx="16" cy="27.5" r="1.5" fill="#D97706" />
+        <circle cx="16" cy="27.5" r="0.6" fill="#FDE68A" />
+        <!-- Left curved kirpan -->
+        <path d="M14.5 28.2 C9.5 28.2 5.5 23.5 6.5 16 C7 11.8 9 7.2 10 6 C8.5 9.5 7.5 14 8 18 C8.5 21.5 11 25 14 26 L14.5 28.2 Z" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+        <!-- Right curved kirpan -->
+        <path d="M17.5 28.2 C22.5 28.2 26.5 23.5 25.5 16 C25 11.8 23 7.2 22 6 C23.5 9.5 24.5 14 24 18 C23.5 21.5 21 25 18 26 L17.5 28.2 Z" fill="#F59E0B" stroke="#D97706" stroke-width="0.8" />
+      </g>
+</svg>

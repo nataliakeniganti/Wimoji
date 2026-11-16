@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-blowing-a-kiss">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <path d="M8.6 13.8 C9.6 11.2 12.8 11.2 13.8 13.8" stroke="#37474F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <ellipse cx="20.6" cy="12.8" rx="1.7" ry="2.3" fill="#37474F" />
+        <circle cx="21.2" cy="12" r="0.6" fill="#FFFFFF" />
+        <path d="M13.2 18 C16.2 17.2 17.4 19.2 15.2 20.3 C17.6 21.3 16.4 23.8 13.2 22.6" stroke="#37474F" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M0 4 C-5.4 0.4 -5.2 -4.6 -2.4 -4.4 C-1 -4.3 0 -3.4 0 -2.4 C0 -3.4 1 -4.3 2.4 -4.4 C5.2 -4.6 5.4 0.4 0 4 Z" transform="translate(24.2 18.4) rotate(14)" fill="#EF4444" stroke="#DC2626" stroke-width="0.5" />
+      </g>
+</svg>

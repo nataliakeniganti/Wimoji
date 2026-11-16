@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="open-file-folder">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Back folder wall -->
+        <path d="M4 8 C4 6.8 4.8 6 6 6 H13 L15 9 H26 C27.2 9 28 9.8 28 11 V22 H4 Z" fill="#D97706" stroke="#78350F" stroke-width="2" />
+        <!-- White document paper peeking out -->
+        <rect x="7" y="9" width="16" height="10" rx="1" fill="#FFFFFF" stroke="#78350F" stroke-width="1.2" />
+        <line x1="10" y1="12" x2="16" y2="12" stroke="#94A3B8" stroke-width="1.2" />
+        <line x1="10" y1="15" x2="20" y2="15" stroke="#94A3B8" stroke-width="1.2" />
+        <!-- Front cover opened in perspective -->
+        <path d="M2 17 L6 27 H27 L31 17 Z" fill="#FBBF24" stroke="#78350F" stroke-width="2" />
+      </g>
+</svg>

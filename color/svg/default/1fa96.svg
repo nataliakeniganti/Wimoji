@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="military-helmet">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Chin strap -->
+        <path d="M10 21 c1.5 4 4.5 6.5 6 6.5 s4.5 -2.5 6 -6.5" stroke="#1A2E05" stroke-width="2" fill="none" />
+        <rect x="14.5" y="26.5" width="3" height="1.8" rx="0.5" fill="#713F12" />
+        <!-- Helmet dome -->
+        <path d="M5 21 c0-6.5 5-11.5 11-11.5 s11 5 11 11.5 H5z" fill="#4D7C0F" />
+        <!-- Curved brim -->
+        <path d="M3 21 h26" stroke="#365314" stroke-width="3" stroke-linecap="round" />
+        <!-- Camouflage / helmet net band -->
+        <path d="M5.5 17 c4 -1.5 17 -1.5 21 0" stroke="#1A2E05" stroke-width="1.68" fill="none" />
+        <!-- Subtle tactical highlight curve -->
+        <path d="M9 13.5 c2 -2 5 -3 8 -3" stroke="#65A30D" stroke-width="1.2" fill="none" opacity="0.75" />
+      </g>
+</svg>

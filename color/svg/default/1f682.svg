@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="steam-locomotive">
+<g>
+        <!-- Steam Puffs -->
+        <circle cx="7" cy="3" r="1.8" fill="#CBD5E1" opacity="0.7" />
+        <circle cx="10" cy="2" r="1.5" fill="#CBD5E1" opacity="0.5" />
+        <!-- Smokestack Funnel -->
+        <polygon points="5.5,11 5,6 9.5,6 9,11" fill="#EF4444" stroke="#991B1B" stroke-width="0.8" />
+        <!-- Main Horizontal Boiler Barrel -->
+        <rect x="3" y="11" width="16" height="10" rx="2" fill="#1E293B" stroke="#0F172A" stroke-width="1.2" />
+        <!-- Cowcatcher Pilot Grill on Front -->
+        <polygon points="3,21 0.5,24 3,24" fill="#64748B" />
+        <!-- Cab Driver Chamber -->
+        <rect x="18" y="7" width="10.5" height="14" rx="1.5" fill="#EF4444" stroke="#991B1B" stroke-width="1.2" />
+        <rect x="20" y="9" width="6" height="4.5" rx="0.5" fill="#38BDF8" />
+        <!-- Drive Wheels -->
+        <circle cx="7" cy="24" r="3.2" fill="#0F172A" stroke="#FBBF24" stroke-width="1" />
+        <circle cx="14" cy="24" r="3.2" fill="#0F172A" stroke="#FBBF24" stroke-width="1" />
+        <circle cx="23" cy="24" r="3.5" fill="#0F172A" stroke="#FBBF24" stroke-width="1.2" />
+        <line x1="7" y1="24" x2="23" y2="24" stroke="#94A3B8" stroke-width="1.2" />
+      </g>
+</svg>

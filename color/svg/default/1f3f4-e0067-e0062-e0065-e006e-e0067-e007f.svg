@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-england">
+<defs><clipPath id="wimoji-flag-eng-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-eng-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#FFFFFF" />
+        <rect x="14.1" y="6" width="3.8" height="20" fill="#CE1124" />
+        <rect x="2" y="14.1" width="28" height="3.8" fill="#CE1124" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

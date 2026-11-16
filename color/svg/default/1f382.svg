@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="birthday-cake">
+<g>
+        <!-- Cake Base Sponge -->
+        <rect x="5" y="16" width="22" height="11.5" rx="2" fill="#FDE68A" stroke="#B45309" stroke-width="1" />
+        <!-- Pink Strawberry Frosting Top Layer -->
+        <path d="M5 16h22v3.5c-2 1.5-4 0-6 1.5s-4 0-6 1.5-4 0-6 1.5-2.5-0.5-4-1V16z" fill="#F472B6" />
+        <ellipse cx="16" cy="16" rx="11" ry="1.5" fill="#FBCFE8" />
+        <!-- 3 Lit Candles (blue/white stripes) -->
+        <rect x="9.2" y="10" width="1.6" height="6" rx="0.5" fill="#38BDF8" />
+        <rect x="15.2" y="10" width="1.6" height="6" rx="0.5" fill="#38BDF8" />
+        <rect x="21.2" y="10" width="1.6" height="6" rx="0.5" fill="#38BDF8" />
+        <!-- Candle Flames -->
+        <path d="M10 5.5c-1 1-1.5 2-1 3s1.8 1.5 2 0-0.2-2-1-3z" fill="#F59E0B" />
+        <path d="M16 5.5c-1 1-1.5 2-1 3s1.8 1.5 2 0-0.2-2-1-3z" fill="#F59E0B" />
+        <path d="M22 5.5c-1 1-1.5 2-1 3s1.8 1.5 2 0-0.2-2-1-3z" fill="#F59E0B" />
+        <circle cx="10" cy="8" r="0.6" fill="#FEF08A" />
+        <circle cx="16" cy="8" r="0.6" fill="#FEF08A" />
+        <circle cx="22" cy="8" r="0.6" fill="#FEF08A" />
+      </g>
+</svg>

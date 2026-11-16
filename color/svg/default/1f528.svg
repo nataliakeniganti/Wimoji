@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hammer">
+<g transform="rotate(45 16 16) translate(16 16) scale(0.86) translate(-16 -16)"><g stroke="#78350F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+        <!-- Handle -->
+        <rect x="14" y="9" width="4" height="19" rx="1.8" fill="#D97706" />
+        <!-- Claw hammer head -->
+        <path d="M22.5 3.5 H12 C9 3.5 6.5 5 5 8 C7.5 8 9.5 9 12 10.5 H22.5 Z" fill="#94A3B8" />
+        <!-- Striking face -->
+        <path d="M22.5 3.5 H25 V10.5 H22.5 Z" fill="#64748B" />
+      </g></g>
+</svg>

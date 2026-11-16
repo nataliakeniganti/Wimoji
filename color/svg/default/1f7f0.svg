@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="heavy-equals-sign">
+<g>
+        <!-- Top bar -->
+        <rect x="4" y="8" width="24" height="6" rx="3" fill="#4F46E5" />
+        <rect x="6.5" y="9.2" width="19" height="1.6" rx="0.8" fill="#FFFFFF" opacity="0.3" />
+        <!-- Bottom bar -->
+        <rect x="4" y="18" width="24" height="6" rx="3" fill="#4F46E5" />
+        <rect x="6.5" y="19.2" width="19" height="1.6" rx="0.8" fill="#FFFFFF" opacity="0.3" />
+      </g>
+</svg>

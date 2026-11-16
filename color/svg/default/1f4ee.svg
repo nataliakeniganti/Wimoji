@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="postbox">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Postbox body pillar -->
+        <rect x="8" y="10" width="16" height="18" rx="2" fill="#EF4444" stroke="#7F1D1D" stroke-width="2" />
+        <!-- Domed red roof cap -->
+        <path d="M6 10 C6 5.5 10.5 4 16 4 C21.5 4 26 5.5 26 10 Z" fill="#B91C1C" stroke="#7F1D1D" stroke-width="2" />
+        <!-- Dark mail insertion slot -->
+        <rect x="11" y="12" width="10" height="3" rx="1" fill="#1E293B" stroke="#7F1D1D" stroke-width="1.4" />
+        <!-- Japanese postal emblem 〒 in crisp white -->
+        <g stroke="#FFFFFF" stroke-width="2" fill="none">
+          <path d="M12 18 H20" />
+          <path d="M12 21 H20" />
+          <path d="M16 21 V26" />
+        </g>
+      </g>
+</svg>

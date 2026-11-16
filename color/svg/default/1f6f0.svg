@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="satellite">
+<g>
+        <g transform="rotate(-35 16 16)">
+          <!-- Solar Array Wings (Deep Blue with Grid Lines) -->
+          <rect x="2.5" y="12.5" width="8.5" height="7" rx="0.5" fill="#2563EB" stroke="#1E3A8A" stroke-width="0.8" />
+          <line x1="6.8" y1="12.5" x2="6.8" y2="19.5" stroke="#93C5FD" stroke-width="0.6" />
+          <line x1="2.5" y1="16" x2="11" y2="16" stroke="#93C5FD" stroke-width="0.6" />
+          <rect x="21" y="12.5" width="8.5" height="7" rx="0.5" fill="#2563EB" stroke="#1E3A8A" stroke-width="0.8" />
+          <line x1="25.2" y1="12.5" x2="25.2" y2="19.5" stroke="#93C5FD" stroke-width="0.6" />
+          <line x1="21" y1="16" x2="29.5" y2="16" stroke="#93C5FD" stroke-width="0.6" />
+          <!-- Central Satellite Chassis (Gold / Metallic) -->
+          <rect x="12.5" y="10.5" width="7" height="11" rx="1.5" fill="#FBBF24" stroke="#D97706" stroke-width="1" />
+          <!-- Communications Dish &amp; Feeder Horn -->
+          <line x1="16" y1="10.5" x2="16" y2="5" stroke="#64748B" stroke-width="1.2" />
+          <circle cx="16" cy="4.5" r="1.8" fill="#EF4444" />
+        </g>
+      </g>
+</svg>

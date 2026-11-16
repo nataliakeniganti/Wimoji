@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-turkmenistan">
+<defs><clipPath id="wimoji-flag-tm-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-tm-clip)">
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#00843D" />
+        <rect x="5.2" y="6" width="4.0" height="20" fill="#D22630" />
+        <rect x="6.2" y="7.299999999999999" width="2.0" height="1.8" rx="0.5" fill="#FACC15" /><rect x="6.2" y="11.2" width="2.0" height="1.8" rx="0.5" fill="#FACC15" /><rect x="6.2" y="15.1" width="2.0" height="1.8" rx="0.5" fill="#FACC15" /><rect x="6.2" y="19" width="2.0" height="1.8" rx="0.5" fill="#FACC15" /><rect x="6.2" y="22.900000000000002" width="2.0" height="1.8" rx="0.5" fill="#FACC15" />
+        <path d="M21.2 9.3 A2.7 2.7 0 1 1 17.4 13.9 A2.1 2.1 0 1 0 21.2 9.3 Z" fill="#FFFFFF" />
+        <polygon points="13.40,8.85 13.59,9.34 14.11,9.37 13.70,9.70 13.84,10.21 13.40,9.92 12.96,10.21 13.10,9.70 12.69,9.37 13.21,9.34" fill="#FFFFFF" /><polygon points="15.60,7.85 15.79,8.34 16.31,8.37 15.90,8.70 16.04,9.21 15.60,8.92 15.16,9.21 15.30,8.70 14.89,8.37 15.41,8.34" fill="#FFFFFF" /><polygon points="12.20,10.75 12.39,11.24 12.91,11.27 12.50,11.60 12.64,12.11 12.20,11.82 11.76,12.11 11.90,11.60 11.49,11.27 12.01,11.24" fill="#FFFFFF" /><polygon points="14.40,10.75 14.59,11.24 15.11,11.27 14.70,11.60 14.84,12.11 14.40,11.82 13.96,12.11 14.10,11.60 13.69,11.27 14.21,11.24" fill="#FFFFFF" /><polygon points="16.60,9.85 16.79,10.34 17.31,10.37 16.90,10.70 17.04,11.21 16.60,10.92 16.16,11.21 16.30,10.70 15.89,10.37 16.41,10.34" fill="#FFFFFF" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-st-vincent-grenadines">
+<defs><clipPath id="wimoji-flag-vc-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-vc-clip)">
+        <rect x="2" y="6" width="7" height="20" fill="#0072C6" />
+        <rect x="9" y="6" width="14" height="20" fill="#FCD116" />
+        <rect x="23" y="6" width="7" height="20" fill="#009E60" />
+        <polygon points="13.2,11.8 14.5,14.2 13.2,16.6 11.9,14.2" fill="#009E60" />
+        <polygon points="18.8,11.8 20.1,14.2 18.8,16.6 17.5,14.2" fill="#009E60" />
+        <polygon points="16.0,15.6 17.3,18.0 16.0,20.4 14.7,18.0" fill="#009E60" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

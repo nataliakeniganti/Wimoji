@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ear-of-corn">
+<g transform="rotate(-30 16 16)">
+        <!-- Golden Corn Cob -->
+        <rect x="12" y="4" width="8" height="20" rx="4" fill="#FBBF24" stroke="#D97706" stroke-width="1" />
+        <!-- Kernel Grid Lines -->
+        <path d="M16 4v20M12 9h8M12 14h8M12 19h8" stroke="#D97706" stroke-width="1" />
+        <!-- Husk Leaves -->
+        <path d="M9 24c-2-7 1-13 4-16 0 7 2 13 5 17z" fill="#16A34A" stroke="#15803D" stroke-width="0.8" />
+        <path d="M23 24c2-7-1-13-4-16 0 7-2 13-5 17z" fill="#22C55E" stroke="#15803D" stroke-width="0.8" />
+      </g>
+</svg>

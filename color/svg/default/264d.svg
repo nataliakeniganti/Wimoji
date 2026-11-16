@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="virgo">
+<rect x="4" y="4" width="24" height="24" rx="6" fill="#84CC16" /><g stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" fill="none">
+        <path d="M8 9v13" />
+        <path d="M8 12c1.5-3 5-3 5 0v10" />
+        <path d="M13 12c1.5-3 5-3 5 0v10" />
+        <path d="M18 16c2-1 4-1 4 2 0 4-3 6-5 6" />
+      </g>
+</svg>

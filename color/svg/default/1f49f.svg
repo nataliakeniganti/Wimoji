@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="heart-decoration">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Vibrant Purple Rounded Squircle Tile -->
+        <rect x="3" y="3" width="26" height="26" rx="5" fill="#A855F7" stroke="#7E22CE" stroke-width="0.8" />
+        <rect x="4.5" y="4.5" width="23" height="23" rx="4" fill="none" stroke="#C084FC" stroke-width="0.8" opacity="0.4" />
+        <!-- Crisp White Centered Heart based on red-heart SVG -->
+        <g transform="translate(16 16.5) scale(0.68) translate(-16 -17)">
+          <path d="M16 27s-10-6.5-10-14a5.5 5.5 0 0 1 10-3 5.5 5.5 0 0 1 10 3c0 7.5-10 14-10 14z" fill="#FFFFFF" />
+        </g>
+      </g>
+</svg>

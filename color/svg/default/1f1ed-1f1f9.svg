@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-haiti">
+<defs><clipPath id="wimoji-flag-ht-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+      <g clip-path="url(#wimoji-flag-ht-clip)">
+        <rect x="2" y="6" width="28" height="10" fill="#00209F" />
+        <rect x="2" y="16" width="28" height="10" fill="#D21034" />
+        <rect x="12.0" y="12.4" width="8.0" height="7.2" rx="0.5" fill="#FFFFFF" />
+        <path d="M12.6 18.8 Q16 16.8 19.4 18.8 Z" fill="#16A34A" />
+        <line x1="16" y1="18.2" x2="16" y2="14.1" stroke="#92400E" stroke-width="0.8" />
+        <path d="M14.0 14.5 Q16 13.0 18.0 14.5" fill="none" stroke="#16A34A" stroke-width="1.0" stroke-linecap="round" />
+        <path d="M13.5 17.4 L15.2 15.2 M18.5 17.4 L16.8 15.2" stroke="#D21034" stroke-width="0.8" stroke-linecap="round" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#94A3B8" stroke-width="0.8" opacity="0.55" />
+</svg>

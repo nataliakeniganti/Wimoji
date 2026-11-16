@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="white-chess-pawn">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="16" cy="9" r="4" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+        <path d="M13 14l-2 9h10l-2-9z" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+        <rect x="9" y="24" width="14" height="3.5" rx="1" fill="#FFFFFF" stroke="#0F172A" stroke-width="1.4" />
+      </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="folding-hand-fan">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Main red fan leaf -->
+        <path d="M4 19 C7 10 12 6 16 6 C20 6 25 10 28 19 L16 26 Z" fill="#EF4444" stroke="#B91C1C" stroke-width="1.4" />
+        <!-- Radiating bamboo ribs -->
+        <g stroke="#F59E0B" stroke-width="1.2">
+          <line x1="16" y1="26" x2="4" y2="19" />
+          <line x1="16" y1="26" x2="8.5" y2="13.5" />
+          <line x1="16" y1="26" x2="12" y2="9" />
+          <line x1="16" y1="26" x2="16" y2="7" />
+          <line x1="16" y1="26" x2="20" y2="9" />
+          <line x1="16" y1="26" x2="23.5" y2="13.5" />
+          <line x1="16" y1="26" x2="28" y2="19" />
+        </g>
+        <!-- Pivot rivet &amp; golden tassel -->
+        <circle cx="16" cy="26" r="1.8" fill="#F59E0B" stroke="#B91C1C" stroke-width="0.9799999999999999" />
+        <path d="M16 28 v3 M15 31 h2" stroke="#F59E0B" stroke-width="1.2" />
+      </g>
+</svg>

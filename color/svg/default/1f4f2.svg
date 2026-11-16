@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mobile-phone-with-arrow">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="6" y="4" width="15" height="24" rx="3" fill="#1E293B" stroke="#0F172A" stroke-width="1.2" />
+        <rect x="8" y="8" width="11" height="14" rx="1" fill="#38BDF8" opacity="0.3" />
+        <path d="M26 12l-5 4 5 4 M21 16h6" stroke="#10B981" stroke-width="2.2" fill="none" />
+      </g>
+</svg>

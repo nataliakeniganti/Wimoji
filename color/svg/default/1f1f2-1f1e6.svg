@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-morocco">
+<g>
+        <rect x="2" y="6" width="28" height="20" rx="3" fill="#C1272D" />
+        <polygon points="16,11.1 18.9,20.0 11.4,14.5 20.6,14.5 13.1,20.0" fill="none" stroke="#006233" stroke-width="1.15" stroke-linejoin="round" />
+      </g>
+      <rect x="2" y="6" width="28" height="20" rx="3" fill="none" stroke="#475569" stroke-width="0.8" opacity="0.5" />
+</svg>

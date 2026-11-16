@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="cinema">
+<g>
+        <!-- Purple Square Badge Sign -->
+        <rect x="4" y="4" width="24" height="24" rx="4.5" fill="#A855F7" stroke="#7E22CE" stroke-width="1.2" />
+        <!-- White Projector/Camera Silhouette Symbol -->
+        <circle cx="10" cy="10.5" r="2.2" fill="#FFFFFF" />
+        <circle cx="15" cy="10.5" r="2.2" fill="#FFFFFF" />
+        <rect x="8" y="13" width="9" height="7.5" rx="1" fill="#FFFFFF" />
+        <polygon points="17,14.5 24,11.5 24,19 17,16" fill="#FFFFFF" />
+      </g>
+</svg>

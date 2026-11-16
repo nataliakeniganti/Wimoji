@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-without-mouth">
+<g>
+        <ellipse cx="16" cy="16" rx="12.5" ry="12.5" id="Ellipse" fill="#FFCA28" stroke="#FFA000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-width="0.8" />
+        <ellipse cx="16" cy="15" rx="11" ry="11" id="Ellipse 1" opacity="0.3" fill="#FFE082" />
+        <ellipse cx="11.5" cy="14" rx="1.6" ry="2.2" fill="#37474F" />
+        <ellipse cx="20.5" cy="14" rx="1.6" ry="2.2" fill="#37474F" />
+        <circle cx="12" cy="13.2" r="0.6" fill="#FFFFFF" />
+        <circle cx="21" cy="13.2" r="0.6" fill="#FFFFFF" />
+      </g>
+</svg>

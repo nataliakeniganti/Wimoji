@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="stop-sign">
+<g>
+        <!-- Red Octagon -->
+        <polygon points="10,3 22,3 29,10 29,22 22,29 10,29 3,22 3,10" fill="#DC2626" stroke="#991B1B" stroke-width="1.2" />
+        <!-- White Inner Octagonal Border -->
+        <polygon points="10.8,5.2 21.2,5.2 27,11 27,21 21.2,26.8 10.8,26.8 5,21 5,11" fill="none" stroke="#F8FAFC" stroke-width="1.2" />
+        <!-- STOP Lettering -->
+        <g stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- S -->
+          <path d="M10.5 13.5h-2c-0.6 0-1 0.4-1 1v0.5c0 0.5 0.4 1 1 1h1c0.6 0 1 0.5 1 1V19c0 0.6-0.4 1-1 1h-2" />
+          <!-- T -->
+          <line x1="12" y1="13.5" x2="16" y2="13.5" />
+          <line x1="14" y1="13.5" x2="14" y2="20" />
+          <!-- O -->
+          <rect x="17.5" y="13.5" width="3" height="6.5" rx="1" />
+          <!-- P -->
+          <path d="M22 20v-6.5h2.5c0.8 0 1.5 0.7 1.5 1.5s-0.7 1.5-1.5 1.5H22" />
+        </g>
+      </g>
+</svg>
