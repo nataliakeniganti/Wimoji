@@ -35,7 +35,7 @@ jobs:
         run: bun run generate:svgs
 
       - name: Download Unicode 18.0.0 emoji sequences
-        run: 
+        run: |
           mkdir -p generated-svgs/unicode
           curl --fail --location --retry 3 \
             https://unicode.org/Public/18.0.0/emoji/emoji-sequences.txt \
