@@ -159,28 +159,99 @@ export const sportsRacingIcons: WimojiIconDef[] = [
     category: 'sports-travel',
     tags: ['chequered flag', 'racing', 'finish line', 'race', 'flag', 'formula 1', 'grand prix', 'winner', 'finish', '🏁'],
     renderContent: (opts) => {
-      const c = resolveColors(opts, { fillPrimary: '#0F172A', fillSecondary: '#F8FAFC', stroke: '#64748B' });
+      const c = resolveColors(opts, { fillPrimary: '#0F172A', fillSecondary: '#F8FAFC', stroke: '#475569' });
       const badge = getBadgeMarkup(opts);
+      const sw = opts.strokeWidth ?? 2;
+
+      // 4x3 waving checkerboard grid (x: 5.5..26.5, y: 5.4..19.2, wave amplitude ±1.4)
+      const xs = [5.5, 10.75, 16, 21.25, 26.5];
+      const dys = [0, -1.4, 0, 1.4, 0];
+      const ys = [5.4, 10, 14.6, 19.2];
+
+      const waveSeg = (col: number, yBase: number, reverse = false): string => {
+        const xA = xs[col];
+        const xB = xs[col + 1];
+        const yA = yBase + dys[col];
+        const yB = yBase + dys[col + 1];
+        const dx = (xB - xA) / 3;
+        const c1y = col === 0 ? yA - 0.77 : col === 1 ? yA : col === 2 ? yA + 0.77 : yA;
+        const c2y = col === 0 ? yB : col === 1 ? yB - 0.77 : col === 2 ? yB : yB + 0.77;
+        if (!reverse) {
+          return `C${(xA + dx).toFixed(2)} ${c1y.toFixed(2)} ${(xB - dx).toFixed(2)} ${c2y.toFixed(2)} ${xB.toFixed(2)} ${yB.toFixed(2)}`;
+        }
+        return `C${(xB - dx).toFixed(2)} ${c2y.toFixed(2)} ${(xA + dx).toFixed(2)} ${c1y.toFixed(2)} ${xA.toFixed(2)} ${yA.toFixed(2)}`;
+      };
+
+      const fullWaveCurve = (yBase: number, reverse = false): string =>
+        reverse
+          ? [3, 2, 1, 0].map((col) => waveSeg(col, yBase, true)).join(' ')
+          : [0, 1, 2, 3].map((col) => waveSeg(col, yBase, false)).join(' ');
+
+      const flagOutlinePath = `M${xs[0]} ${ys[0]} ${fullWaveCurve(ys[0])} V${ys[3]} ${fullWaveCurve(ys[3], true)} Z`;
+
+      const cellPath = (row: number, col: number): string => {
+        const yTop = ys[row];
+        const yBot = ys[row + 1];
+        return `M${xs[col]} ${(yTop + dys[col]).toFixed(2)} ${waveSeg(col, yTop)} V${(yBot + dys[col + 1]).toFixed(2)} ${waveSeg(col, yBot, true)} Z`;
+      };
+
       if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="round" stroke-linejoin="round" fill="none">
-          <line x1="5" y1="4" x2="5" y2="29" />
-          <path d="M5 5c6-2 14 2 22 0v14c-8 2-16-2-22 0z" />
-          <line x1="12" y1="4" x2="12" y2="20" />
-          <line x1="19" y1="6" x2="19" y2="20" />
-          <line x1="5" y1="12" x2="27" y2="12" />
+        const gridStroke = Math.max(0.85, sw * 0.55);
+        return `${badge}<g stroke="${c.stroke}" stroke-width="${sw}" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <line x1="5.5" y1="4.5" x2="5.5" y2="28.5" />
+          <circle cx="5.5" cy="4.2" r="1.3" />
+          <path d="${flagOutlinePath}" />
+          <g stroke-width="${gridStroke}">
+            <path d="M${xs[0]} ${ys[1]} ${fullWaveCurve(ys[1])}" />
+            <path d="M${xs[0]} ${ys[2]} ${fullWaveCurve(ys[2])}" />
+            <line x1="${xs[1]}" y1="${(ys[0] + dys[1]).toFixed(2)}" x2="${xs[1]}" y2="${(ys[3] + dys[1]).toFixed(2)}" />
+            <line x1="${xs[2]}" y1="${(ys[0] + dys[2]).toFixed(2)}" x2="${xs[2]}" y2="${(ys[3] + dys[2]).toFixed(2)}" />
+            <line x1="${xs[3]}" y1="${(ys[0] + dys[3]).toFixed(2)}" x2="${xs[3]}" y2="${(ys[3] + dys[3]).toFixed(2)}" />
+          </g>
         </g>`;
       }
-      return `${badge}<g>
+
+      if (opts.style === 'silhouette') {
+        const cutouts: string[] = [];
+        for (let r = 0; r < 3; r++) {
+          for (let col = 0; col < 4; col++) {
+            if ((r + col) % 2 === 1) {
+              cutouts.push(`<path d="${cellPath(r, col)}" fill="#FFFFFF" />`);
+            }
+          }
+        }
+        return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5.5" y1="4.5" x2="5.5" y2="28.5" stroke="${c.primary}" stroke-width="2.4" />
+          <circle cx="5.5" cy="4.2" r="1.5" fill="${c.primary}" />
+          <path d="${flagOutlinePath}" fill="${c.primary}" />
+          ${cutouts.join('')}
+          <path d="${flagOutlinePath}" fill="none" stroke="${c.primary}" stroke-width="1" />
+        </g>`;
+      }
+
+      const darkCells: string[] = [];
+      for (let r = 0; r < 3; r++) {
+        for (let col = 0; col < 4; col++) {
+          if ((r + col) % 2 === 0) {
+            darkCells.push(`<path d="${cellPath(r, col)}" fill="${c.primary}" />`);
+          }
+        }
+      }
+
+      const poleColor = opts.style === 'duotone' ? c.stroke : '#94A3B8';
+      const finialColor = opts.style === 'duotone' ? c.primary : '#FBBF24';
+      const borderColor = opts.style === 'duotone' ? c.stroke : '#0F172A';
+
+      return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
         <!-- Flagpole on Left -->
-        <line x1="5" y1="4" x2="5" y2="29" stroke="#94A3B8" stroke-width="2.2" stroke-linecap="round" />
-        <circle cx="5" cy="4" r="1.5" fill="#FBBF24" />
-        <!-- Waving Flag Canvas Base (White) -->
-        <path d="M5 5c6-2 14 2 22 0v14c-8 2-16-2-22 0V5z" fill="${c.secondary}" stroke="#0F172A" stroke-width="0.8" />
-        <!-- Black Checkerboard Patches -->
-        <path d="M5 5c3-1 7 0 10.5 0v7c-3.5 0-7.5-1-10.5 0V5z" fill="${c.primary}" />
-        <path d="M21 6c2-0.5 4 0 6-1v7c-2 0.5-4 0-6 0.5V6z" fill="${c.primary}" />
-        <path d="M10.5 12c3.5 0 7 1 10.5 0v7c-3.5 1-7 0-10.5 0v-7z" fill="${c.primary}" />
-        <path d="M5 12c2.5 0 4 0.5 5.5 0.5v6.5c-2 0.5-3.5 0-5.5 0V12z" fill="${c.secondary}" />
+        <line x1="5.5" y1="4.5" x2="5.5" y2="28.5" stroke="${poleColor}" stroke-width="2.2" />
+        <circle cx="5.5" cy="4.2" r="1.5" fill="${finialColor}" />
+        <!-- Waving Flag Canvas Base -->
+        <path d="${flagOutlinePath}" fill="${c.secondary}" />
+        <!-- 4x3 Waving Checkerboard Patches -->
+        ${darkCells.join('')}
+        <!-- Crisp Outer Flag Border -->
+        <path d="${flagOutlinePath}" fill="none" stroke="${borderColor}" stroke-width="0.9" />
       </g>`;
     },
   },

@@ -302,13 +302,13 @@ export const toolIcons: WimojiIconDef[] = [
       const c = resolveColors(opts, { fillPrimary: '#64748B', fillSecondary: '#EF4444', stroke: '#334155' });
       const badge = getBadgeMarkup(opts);
       if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
+        return `${badge}<g transform="translate(0 32) scale(1 -1) rotate(-90 16 16)" stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
           <circle cx="8" cy="10" r="3.5" />
           <circle cx="8" cy="22" r="3.5" />
           <path d="M11 11.5L25 24M11 20.5L25 8" />
         </g>`;
       }
-      return `${badge}<g>
+      return `${badge}<g transform="translate(0 32) scale(1 -1) rotate(-90 16 16)">
         <circle cx="8" cy="9.5" r="3.5" stroke="${c.secondary}" stroke-width="${opts.strokeWidth + 0.5}" fill="none" />
         <circle cx="8" cy="22.5" r="3.5" stroke="${c.secondary}" stroke-width="${opts.strokeWidth + 0.5}" fill="none" />
         <path d="M11 11L25 23" stroke="${c.primary}" stroke-width="${opts.strokeWidth + 0.5}" stroke-linecap="round" />
@@ -325,33 +325,64 @@ export const toolIcons: WimojiIconDef[] = [
     category: 'tools',
     tags: ['pencil', 'write', 'draw', 'edit', 'stationery', 'sketch'],
     renderContent: (opts) => {
-      const c = resolveColors(opts, { fillPrimary: '#F59E0B', fillSecondary: '#EF4444', fillAccent: '#94A3B8', stroke: '#1E293B' });
+      const c = resolveColors(opts, {
+        fillPrimary: '#FBBF24',
+        fillSecondary: '#FB7185',
+        fillAccent: '#CBD5E1',
+        stroke: '#1E293B',
+      });
       const badge = getBadgeMarkup(opts);
-      if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
-          <!-- Eraser and Ferrule at top-right -->
-          <path d="M22 10l2-2a2 2 0 0 1 2.8 0l1.2 1.2a2 2 0 0 1 0 2.8l-2 2" />
-          <line x1="20" y1="8" x2="24" y2="12" />
-          <!-- Hexagonal pencil body with center facet stripe -->
-          <path d="M7 21L19 9l4 4-12 12z" />
-          <line x1="9" y1="23" x2="21" y2="11" />
-          <!-- Sharpened wood collar and graphite lead tip (unmistakable pencil, not arrow) -->
-          <path d="M7 21l-3 6 6-3" />
-          <polygon points="4,27 6.2,24.8 5.2,23.8" fill="${c.stroke}" />
+      const sw = opts.strokeWidth ?? 1.5;
+      const thin = Math.max(1, sw * 0.7);
+
+      if (opts.style === 'silhouette') {
+        return `${badge}<g fill="${c.primary}">
+          <!-- Graphite tip -->
+          <polygon points="4.5,27.5 5.8,24.5 7.5,26.2" />
+          <!-- Sharpened wood collar -->
+          <polygon points="6.1,23.7 8.1,19.1 12.9,23.9 8.3,25.9" />
+          <!-- Hexagonal pencil body -->
+          <polygon points="8.8,18.4 18.6,8.6 23.4,13.4 13.6,23.2" />
+          <!-- Metal ferrule -->
+          <polygon points="19.3,7.9 21.1,6.1 25.9,10.9 24.1,12.7" />
+          <!-- Rounded eraser -->
+          <path d="M21.8,5.4 L23.1,4.1 A3.4,3.4 0 0 1 27.9,8.9 L26.6,10.2 Z" />
         </g>`;
       }
+
+      if (opts.style === 'outline') {
+        return `${badge}<g stroke="${c.stroke}" stroke-width="${sw}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
+          <!-- Eraser and ferrule -->
+          <path d="M21.6,5.6 L23.1,4.1 A3.4,3.4 0 0 1 27.9,8.9 L26.4,10.4" />
+          <path d="M19.1,8.1 L21.6,5.6 L26.4,10.4 L23.9,12.9" />
+          <!-- Pencil body with center facet -->
+          <path d="M8.1,19.1 L19.1,8.1 L23.9,12.9 L12.9,23.9 Z" />
+          <line x1="10.5" y1="21.5" x2="21.5" y2="10.5" stroke-width="${thin}" />
+          <!-- Sharpened wood cone and graphite tip -->
+          <path d="M8.1,19.1 L4.5,27.5 L12.9,23.9" />
+          <polygon points="4.5,27.5 5.7,24.7 7.3,26.3" fill="${c.stroke}" stroke="none" />
+        </g>`;
+      }
+
+      const isDuotone = opts.style === 'duotone';
+      const bodyOpacity = isDuotone ? ` fill-opacity="${c.duotoneOpacity}"` : '';
+      const woodFill = isDuotone ? c.secondary : '#FED7AA';
+      const woodOpacity = isDuotone ? ` fill-opacity="0.2"` : '';
+      const facetStroke = isDuotone ? c.stroke : '#FDE68A';
+      const leadFill = isDuotone ? c.stroke : '#1E293B';
+
       return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Yellow Pencil Body -->
-        <path d="M7 21L19 9l4 4-12 12z" fill="${c.primary}" stroke="${c.stroke}" stroke-width="1" />
-        <line x1="9" y1="23" x2="21" y2="11" stroke="#FDE68A" stroke-width="1.2" />
+        <!-- Pencil Body -->
+        <polygon points="8.1,19.1 19.1,8.1 23.9,12.9 12.9,23.9" fill="${c.primary}"${bodyOpacity} stroke="${c.stroke}" stroke-width="${sw}" />
+        <line x1="10.5" y1="21.5" x2="21.5" y2="10.5" stroke="${facetStroke}" stroke-width="${thin}" />
         <!-- Pink Eraser -->
-        <path d="M22 10l2-2a2 2 0 0 1 2.8 0l1.2 1.2a2 2 0 0 1 0 2.8l-2 2z" fill="${c.secondary}" stroke="${c.stroke}" stroke-width="1" />
-        <!-- Metal Silver Ferrule -->
-        <line x1="20" y1="8" x2="24" y2="12" stroke="${c.accent}" stroke-width="2" />
+        <path d="M21.6,5.6 L23.1,4.1 A3.4,3.4 0 0 1 27.9,8.9 L26.4,10.4 Z" fill="${c.secondary}"${bodyOpacity} stroke="${c.stroke}" stroke-width="${sw}" />
+        <!-- Metal Ferrule -->
+        <polygon points="19.1,8.1 21.6,5.6 26.4,10.4 23.9,12.9" fill="${c.accent}"${bodyOpacity} stroke="${c.stroke}" stroke-width="${sw}" />
         <!-- Sharpened Wood Section -->
-        <polygon points="7,21 4,27 11,25" fill="#FED7AA" stroke="${c.stroke}" stroke-width="1" />
+        <polygon points="8.1,19.1 4.5,27.5 12.9,23.9" fill="${woodFill}"${woodOpacity} stroke="${c.stroke}" stroke-width="${sw}" />
         <!-- Graphite Lead Point -->
-        <polygon points="4,27 6.2,24.8 5.2,23.8" fill="#1E293B" />
+        <polygon points="4.5,27.5 5.7,24.7 7.3,26.3" fill="${leadFill}" />
       </g>`;
     },
   },
@@ -395,44 +426,78 @@ export const toolIcons: WimojiIconDef[] = [
     category: 'tools',
     tags: ['write', 'writing', 'pen', 'pencil', 'hand', 'author', 'signature', 'document', 'noto', '✍', '✍️'],
     renderContent: (opts) => {
-      const c = resolveColors(opts, { fillPrimary: '#FFCA28', fillSecondary: '#1E88E5', stroke: '#5D4037' });
+      const c = resolveColors(opts, {
+        fillPrimary: '#FBBF24',
+        fillSecondary: '#3B82F6',
+        fillAccent: '#E2E8F0',
+        stroke: '#78350F',
+      });
       const badge = getBadgeMarkup(opts);
-      if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
-          <!-- Written curve / surface line -->
-          <path d="M3.5 27.5c2 0 3-1 5 1" />
-          <!-- Pen barrel and nib -->
-          <path d="M12 16.5L23.5 5a1.8 1.8 0 0 1 2.5 0l.5.5a1.8 1.8 0 0 1 0 2.5L15 19.5" />
-          <path d="M12 16.5L5 23.5l-1 3.5 3.5-1 7-7" />
-          <!-- Hand contours -->
-          <path d="M28 16c-3-2-7.5-3-11.5-1.5-2.2.8-4.5 2.2-6.5 4.5l-1.5 2c-.6 1-.2 2.2.8 2.8.8.5 2 .2 2.7-.5l1.5-1.5 1 2.5c.5 1 1.6 1.6 2.8 1.4 1-.2 1.8-1 2-2l.5 1.5c.5 1 1.5 1.7 2.7 1.5 1.2-.2 2-1.2 2-2.4l1.2.8c1 .7 2.4.4 3-.6.6-1 .4-2.4-.4-3.2l.9-1c1-1.2 1.2-2.8.6-4.4z" />
-          <!-- Thumb grip -->
-          <path d="M16 19.5c-1.5-.8-3-.8-4.5-1.2-.8-.2-1.5.3-1.5 1.1s.5 1.4 1.2 1.7c1.5.6 3 1.1 4.8.6" />
+      const sw = opts.strokeWidth ?? 1.5;
+      const thin = Math.max(1, sw * 0.75);
+
+      if (opts.style === 'silhouette') {
+        return `${badge}<g fill="${c.primary}">
+          <!-- Pen upper barrel (separated from hand by clean gap) -->
+          <path d="M18.2,10.4 L23.3,5.3 A1.7,1.7 0 0 1 25.7,7.7 L23.0,10.4 Z" />
+          <!-- Hand holding pen -->
+          <path d="M28.0,16.0 C26.5,12.2 23.0,10.6 19.2,11.2 C16.4,11.6 14.2,13.0 12.2,15.6 C11.3,16.7 11.0,17.6 11.3,18.2 C10.6,18.8 10.8,20.1 12.2,20.5 C12.4,20.6 12.6,20.6 12.8,20.6 C12.5,22.0 12.6,23.2 13.8,23.9 C14.4,24.3 15.2,24.1 15.8,23.5 C15.8,24.9 16.3,25.9 17.5,26.0 C18.2,26.1 18.9,25.7 19.3,25.0 C20.2,26.2 22.2,26.0 23.2,24.8 C25.0,24.0 26.8,23.0 28.0,21.6 C28.8,19.8 28.8,17.8 28.0,16.0 Z" />
+          <!-- Pen lower tip (separated from hand by clean gap) -->
+          <polygon points="10.2,18.4 8.3,20.3 4.5,26.5 10.7,22.7 12.4,21.0" />
         </g>`;
       }
-      return `${badge}<g>
-        <!-- Drawn ink curve / baseline -->
-        <path d="M3.5 27.5c2 0 3-1 5 1" stroke="#90A4AE" stroke-width="1.8" stroke-linecap="round" fill="none" />
 
-        <!-- Pen upper barrel (Vibrant Stylus / Pen) -->
-        <path d="M12 16.5L23.5 5a1.8 1.8 0 0 1 2.5 0l.5.5a1.8 1.8 0 0 1 0 2.5L15 19.5z" fill="${c.secondary}" stroke="#1565C0" stroke-width="0.8" />
-        <!-- Pen barrel clip / shine -->
-        <path d="M22 6.5l3 3" stroke="#90CAF9" stroke-width="1.2" stroke-linecap="round" />
+      if (opts.style === 'outline') {
+        return `${badge}<g stroke="${c.stroke}" stroke-width="${sw}" stroke-linecap="${opts.strokeLinecap}" stroke-linejoin="${opts.strokeLinejoin}" fill="none">
+          <!-- Pen upper barrel emerging above index finger -->
+          <path d="M17.3,11.3 L23.3,5.3 A1.7,1.7 0 0 1 25.7,7.7 L22.2,11.2" />
+          <line x1="21.3" y1="7.3" x2="23.7" y2="9.7" stroke-width="${thin}" />
+          <!-- Pen lower shaft, collar, and nib emerging below grip -->
+          <path d="M11.0,17.6 L8.3,20.3 L4.5,26.5 L10.7,22.7 L13.2,20.2" />
+          <line x1="8.3" y1="20.3" x2="10.7" y2="22.7" stroke-width="${thin}" />
+          <polygon points="4.5,26.5 6.02,24.02 6.98,24.98" fill="${c.stroke}" stroke="none" />
+          <!-- Hand, index finger, and curled fingers -->
+          <path d="M28.0,16.0 C26.5,12.2 23.0,10.6 19.2,11.2 C16.4,11.6 14.2,13.0 12.2,15.6 C11.4,16.6 11.1,17.5 11.4,18.1" />
+          <path d="M12.8,20.6 C12.5,22.0 12.6,23.2 13.8,23.9 C14.4,24.3 15.2,24.1 15.8,23.5 C15.8,24.9 16.3,25.9 17.5,26.0 C18.2,26.1 18.9,25.7 19.3,25.0 C20.2,26.2 22.2,26.0 23.2,24.8 C25.0,24.0 26.8,23.0 28.0,21.6 C28.8,19.8 28.8,17.8 28.0,16.0" />
+          <!-- Curled finger creases -->
+          <path d="M15.8,23.5 L16.6,22.1" stroke-width="${thin}" />
+          <path d="M19.3,25.0 L20.2,23.6" stroke-width="${thin}" />
+          <!-- Thumb pinching pen -->
+          <path d="M19.5,18.5 C16.8,17.3 14.0,17.3 11.8,18.0 C10.6,18.4 10.8,20.0 12.2,20.4 C14.5,21.0 17.4,20.7 19.8,19.6" />
+        </g>`;
+      }
 
-        <!-- Hand body silhouette (Noto Yellow) -->
-        <path d="M28 16c-3-2-7.5-3-11.5-1.5-2.2.8-4.5 2.2-6.5 4.5l-1.5 2c-.6 1-.2 2.2.8 2.8.8.5 2 .2 2.7-.5l1.5-1.5 1 2.5c.5 1 1.6 1.6 2.8 1.4 1-.2 1.8-1 2-2l.5 1.5c.5 1 1.5 1.7 2.7 1.5 1.2-.2 2-1.2 2-2.4l1.2.8c1 .7 2.4.4 3-.6.6-1 .4-2.4-.4-3.2l.9-1c1-1.2 1.2-2.8.6-4.4z" fill="${c.primary}" stroke="#5D4037" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      const isDuotone = opts.style === 'duotone';
+      const handStroke = isDuotone ? c.stroke : '#78350F';
+      const creaseStroke = isDuotone ? c.stroke : '#B45309';
+      const penStroke = isDuotone ? c.stroke : '#1E293B';
+      const penSw = Math.max(1, sw * 0.75);
+      const nibFill = isDuotone ? c.stroke : '#1E293B';
+      const capBandStroke = isDuotone ? c.stroke : '#93C5FD';
+      const handOpacity = isDuotone ? ` fill-opacity="${c.duotoneOpacity}"` : '';
+      const penOpacity = isDuotone ? ` fill-opacity="0.45"` : '';
+      const coneOpacity = isDuotone ? ` fill-opacity="0.25"` : '';
 
-        <!-- Pen lower metal collar & nib -->
-        <polygon points="12,16.5 5,23.5 4,27 7.5,26 14.5,19" fill="#ECEFF1" stroke="#5D4037" stroke-width="1" />
-        <polygon points="5,23.5 4,27 6.5,26.2" fill="#263238" />
+      return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Pen Upper Barrel -->
+        <path d="M14.5,14.1 L23.3,5.3 A1.7,1.7 0 0 1 25.7,7.7 L16.9,16.5 Z" fill="${c.secondary}"${penOpacity} stroke="${penStroke}" stroke-width="${penSw}" />
+        <line x1="21.3" y1="7.3" x2="23.7" y2="9.7" stroke="${capBandStroke}" stroke-width="${thin}" />
 
-        <!-- Thumb curled grasping pen -->
-        <path d="M16 19.5c-1.5-.8-3-.8-4.5-1.2-.8-.2-1.5.3-1.5 1.1s.5 1.4 1.2 1.7c1.5.6 3 1.1 4.8.6z" fill="#FFE082" stroke="#5D4037" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+        <!-- Pen Lower Collar, Cone, and Nib -->
+        <polygon points="11.5,17.1 8.3,20.3 10.7,22.7 13.9,19.5" fill="${c.secondary}"${penOpacity} stroke="${penStroke}" stroke-width="${penSw}" />
+        <polygon points="8.3,20.3 4.5,26.5 10.7,22.7" fill="${c.accent}"${coneOpacity} stroke="${penStroke}" stroke-width="${penSw}" />
+        <polygon points="4.5,26.5 6.02,24.02 6.98,24.98" fill="${nibFill}" />
 
-        <!-- Natural finger creases (warm brown) -->
-        <path d="M10.5 21.2c.8.8 1.8 1.2 2.8 1.1" stroke="#8D6E63" stroke-width="1.2" stroke-linecap="round" fill="none" />
-        <path d="M13.5 23.8c.8.6 1.8.8 2.8.5" stroke="#8D6E63" stroke-width="1.2" stroke-linecap="round" fill="none" />
-        <path d="M16.5 25.5c.8.5 1.8.6 2.6.3" stroke="#8D6E63" stroke-width="1.2" stroke-linecap="round" fill="none" />
+        <!-- Unified Hand & Thumb Silhouette -->
+        <path d="M28.0,16.0 C26.5,12.2 23.0,10.6 19.2,11.2 C16.4,11.6 14.2,13.0 12.2,15.6 C11.4,16.6 11.1,17.5 11.5,18.1 C10.7,18.7 10.8,20.0 12.2,20.4 C12.4,20.5 12.6,20.6 12.8,20.6 C12.5,22.0 12.6,23.2 13.8,23.9 C14.4,24.3 15.2,24.1 15.8,23.5 C15.8,24.9 16.3,25.9 17.5,26.0 C18.2,26.1 18.9,25.7 19.3,25.0 C20.2,26.2 22.2,26.0 23.2,24.8 C25.0,24.0 26.8,23.0 28.0,21.6 C28.8,19.8 28.8,17.8 28.0,16.0 Z" fill="${c.primary}"${handOpacity} stroke="${handStroke}" stroke-width="${sw}" />
+
+        <!-- Inner Thumb Grip Contours -->
+        <path d="M19.5,18.5 C16.8,17.3 14.0,17.3 11.5,18.1" stroke="${handStroke}" stroke-width="${sw}" fill="none" />
+        <path d="M12.2,20.4 C14.5,21.0 17.4,20.7 19.8,19.6" stroke="${handStroke}" stroke-width="${thin}" fill="none" />
+
+        <!-- Curled Finger Creases -->
+        <path d="M15.8,23.5 L16.6,22.1" stroke="${creaseStroke}" stroke-width="${thin}" fill="none" />
+        <path d="M19.3,25.0 L20.2,23.6" stroke="${creaseStroke}" stroke-width="${thin}" fill="none" />
       </g>`;
     },
   },
