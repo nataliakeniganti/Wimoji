@@ -75,6 +75,15 @@ Generated SVGs are written to `color/svg/`. The **Generate SVGs** GitHub Actions
 
 The **Generate PNGs** workflow runs after successful SVG generation, when SVG assets are pushed directly, or by manual dispatch. It writes PNGs into `color/png/64x64/`, `color/png/128x128/`, `color/png/256x256/`, and `color/png/512x512/`, then commits changes to `main`.
 
+## Website deployment
+
+The **Deploy website** GitHub Actions workflow builds the Vite app and publishes
+the `dist/` output to GitHub Pages whenever `main` is updated or the workflow is
+manually dispatched. In the repository's **Settings → Pages**, set the build
+and deployment source to **GitHub Actions**; publishing the repository root
+with the legacy Jekyll source will serve uncompiled TypeScript and leave the
+app blank.
+
 ## License
 
 Unless otherwise noted, Wimoji's original code and artwork are licensed under
