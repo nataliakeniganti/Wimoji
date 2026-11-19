@@ -4,6 +4,7 @@ dist/
 dist-cli/
 coverage/
 color/svg/
+outline/svg/
 .unicode-sequences/
 .DS_Store
 *.log

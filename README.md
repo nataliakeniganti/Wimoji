@@ -58,7 +58,7 @@ Useful scripts:
 
 ## Generated assets
 
-The SVG generator reads Unicode 18.0.0 emoji sequence files from `.unicode-sequences/`. To run it locally:
+The SVG generator reads Unicode 18.0.0 emoji sequence files from `.unicode-sequences/`. It writes full-color SVGs to `color/svg/` and monochrome black outline SVGs to `outline/svg/`. To run it locally:
 
 ```sh
 mkdir -p .unicode-sequences
@@ -71,9 +71,9 @@ curl --fail --location --retry 3 \
 bun run generate:svgs
 ```
 
-Generated SVGs are written to `color/svg/`. The **Generate SVGs** GitHub Actions workflow runs for relevant changes on `main` or by manual dispatch, then commits updated SVGs to `main`.
+The **Generate SVGs** GitHub Actions workflow runs for relevant changes on `main` or by manual dispatch, then commits updated SVGs to both `color/svg/` and `outline/svg/`.
 
-The **Generate PNGs** workflow runs after successful SVG generation, when SVG assets are pushed directly, or by manual dispatch. It writes PNGs into `color/png/64x64/`, `color/png/128x128/`, `color/png/256x256/`, and `color/png/512x512/`, then commits changes to `main`.
+The **Generate PNGs** workflow runs after successful SVG generation, when SVG assets are pushed directly, or by manual dispatch. It writes color PNGs into `color/png/` and black outline PNGs into `outline/png/`, each with `64x64/`, `128x128/`, `256x256/`, and `512x512/` size directories, then commits changes to `main`.
 
 ## Website deployment
 

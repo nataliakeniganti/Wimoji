@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'color/svg/**'
+      - 'outline/svg/**'
   workflow_run:
     workflows:
       - Generate SVGs
@@ -41,27 +42,29 @@ jobs:
         run: |
           set -euo pipefail
 
-          for size in 64 128 256 512; do
-            output_dir="color/png/${size}x${size}"
-            mkdir -p "$output_dir"
-            find "$output_dir" -type f -name '*.png' -delete
+          for style in color outline; do
+            for size in 64 128 256 512; do
+              output_dir="${style}/png/${size}x${size}"
+              mkdir -p "$output_dir"
+              find "$output_dir" -type f -name '*.png' -delete
 
-            find color/svg -maxdepth 1 -type f -name '*.svg' -print0 |
-              xargs -0 -r -P "$(nproc)" -I '{}' sh -c '
-                input="$1"
-                output_dir="$2"
-                size="$3"
-                filename="${input##*/}"
-                output="$output_dir/${filename%.svg}.png"
-                rsvg-convert --width "$size" --height "$size" --output "$output" "$input"
-              ' _ '{}' "$output_dir" "$size"
+              find "${style}/svg" -maxdepth 1 -type f -name '*.svg' -print0 |
+                xargs -0 -r -P "$(nproc)" -I '{}' sh -c '
+                  input="$1"
+                  output_dir="$2"
+                  size="$3"
+                  filename="${input##*/}"
+                  output="$output_dir/${filename%.svg}.png"
+                  rsvg-convert --width "$size" --height "$size" --output "$output" "$input"
+                ' _ '{}' "$output_dir" "$size"
+            done
           done
 
       - name: Commit and push generated PNGs
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add -f color/png/
+          git add -f color/png/ outline/png/
           if git diff --cached --quiet; then
             echo "No generated PNG changes to commit"
             exit 0

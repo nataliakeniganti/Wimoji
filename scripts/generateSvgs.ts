@@ -12,7 +12,10 @@ import {
 import type { WimojiIconDef, WimojiSkinTone } from '../src/types/wimoji';
 
 const projectRoot = join(dirname(fileURLToPath(import.meta.url)), '..');
-const outputRoot = join(projectRoot, 'color/svg');
+const outputRoots = {
+  color: join(projectRoot, 'color/svg'),
+  outline: join(projectRoot, 'outline/svg'),
+} as const;
 const sequenceRoot = join(projectRoot, '.unicode-sequences');
 const sequenceFiles = [
   join(sequenceRoot, 'emoji-sequences.txt'),
@@ -24,8 +27,11 @@ const skinToneByCodePoint = new Map<string, WimojiSkinTone>(
     tone.id,
   ])
 );
-const outputPaths = new Set<string>();
-let generatedCount = 0;
+const outputPaths = {
+  color: new Set<string>(),
+  outline: new Set<string>(),
+};
+const generatedCounts = { color: 0, outline: 0 };
 let matchedSequenceCount = 0;
 let unmatchedSequenceCount = 0;
 let unsupportedSequenceCount = 0;
@@ -92,25 +98,63 @@ async function writeIconSvg(
   skinTone: WimojiSkinTone,
   rightSkinTone?: WimojiSkinTone
 ): Promise<void> {
-  if (outputPaths.has(relativePath)) {
-    throw new Error(`Duplicate generated SVG path: ${relativePath}`);
-  }
-  outputPaths.add(relativePath);
+  for (const style of ['color', 'outline'] as const) {
+    if (outputPaths[style].has(relativePath)) {
+      throw new Error(`Duplicate generated ${style} SVG path: ${relativePath}`);
+    }
+    outputPaths[style].add(relativePath);
 
-  const outputPath = join(outputRoot, relativePath);
-  await mkdir(dirname(outputPath), { recursive: true });
-  await writeFile(
-    outputPath,
-    makeSvgXmlWellFormed(
-      generateSvgString(icon, {
-        ...DEFAULT_STYLE_OPTIONS,
-        skinTone,
-        ...(rightSkinTone ? { rightSkinTone } : {}),
-      })
-    ),
-    'utf8'
-  );
-  generatedCount += 1;
+    const outputPath = join(outputRoots[style], relativePath);
+    await mkdir(dirname(outputPath), { recursive: true });
+    const svg = generateSvgString(icon, {
+      ...DEFAULT_STYLE_OPTIONS,
+      style,
+      ...(style === 'outline'
+        ? {
+            primaryColor: '#000000',
+            secondaryColor: '#000000',
+            accentColor: '#000000',
+            strokeColor: '#000000',
+            badgeBg: '#000000',
+          }
+        : {}),
+      skinTone,
+      ...(rightSkinTone ? { rightSkinTone } : {}),
+    });
+    const normalizedSvg = makeSvgXmlWellFormed(svg);
+    await writeFile(
+      outputPath,
+      style === 'outline' ? recolorSvgToBlack(normalizedSvg) : normalizedSvg,
+      'utf8'
+    );
+    generatedCounts[style] += 1;
+  }
+}
+
+function recolorSvgToBlack(svg: string): string {
+  const paintAttributes = /(\s)(fill|stroke|stop-color|flood-color|lighting-color)="([^"]*)"/g;
+  const paintStyleAttribute = /\bstyle="([^"]*)"/g;
+  const paintStyle = /(^|;)(\s*(?:fill|stroke|stop-color|flood-color|lighting-color)\s*:\s*)([^;]*)/g;
+  const recolor = (paint: string) =>
+    /^(?:none|transparent|url\()/i.test(paint.trim()) ? paint : '#000000';
+  const masks: string[] = [];
+  const withoutMasks = svg.replace(/<mask\b[\s\S]*?<\/mask>/g, (mask) => {
+    const index = masks.push(mask) - 1;
+    return `WIMOJI_MASK_BLOCK_${index}`;
+  });
+
+  return withoutMasks
+    .replace(paintAttributes, (_match, whitespace: string, attribute: string, paint: string) =>
+      `${whitespace}${attribute}="${recolor(paint)}"`
+    )
+    .replace(paintStyleAttribute, (_match, style: string) =>
+      `style="${style.replace(
+        paintStyle,
+        (_styleMatch, separator: string, property: string, paint: string) =>
+          `${separator}${property}${recolor(paint)}`
+      )}"`
+    )
+    .replace(/WIMOJI_MASK_BLOCK_(\d+)/g, (_match, index: string) => masks[Number(index)]!);
 }
 
 async function generateSkinToneSequences(): Promise<void> {
@@ -172,8 +216,10 @@ async function generateSkinToneSequences(): Promise<void> {
   }
 }
 
-await rm(outputRoot, { recursive: true, force: true });
-await mkdir(outputRoot, { recursive: true });
+for (const outputRoot of Object.values(outputRoots)) {
+  await rm(outputRoot, { recursive: true, force: true });
+  await mkdir(outputRoot, { recursive: true });
+}
 
 for (const icon of ALL_WIMOJI_ICONS) {
   const filename = getUnicodeHexFilename(icon);
@@ -183,5 +229,5 @@ for (const icon of ALL_WIMOJI_ICONS) {
 await generateSkinToneSequences();
 
 console.log(
-  `Generated ${generatedCount} SVG files (${matchedSequenceCount} Unicode skin-tone sequences matched, ${unmatchedSequenceCount} unmatched, ${unsupportedSequenceCount} with more than two modifiers unsupported) in ${outputRoot}`
+  `Generated ${generatedCounts.color} color SVGs in ${outputRoots.color} and ${generatedCounts.outline} black outline SVGs in ${outputRoots.outline} (${matchedSequenceCount} Unicode skin-tone sequences matched, ${unmatchedSequenceCount} unmatched, ${unsupportedSequenceCount} with more than two modifiers unsupported)`
 );
