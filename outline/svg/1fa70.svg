@@ -23,11 +23,11 @@
         <!-- Heel throat showing the cream lining -->
         <path d="M20 4.8 C21.2 3.4 24.4 3.2 26.2 4.6 C25 6.2 22.2 6.8 20 6 Z" fill="none" stroke="#000000" stroke-width="0.66" />
         <!-- Gathered pleats around the toe tip -->
-        <ellipse cx="23.6" cy="27" rx="3.4" ry="2.8" fill="none" opacity="1" stroke="#000000" stroke-width="0.77" />
-        <path d="M23.6 29.6 L20.8 25.2 M23.6 29.6 L22.4 24.4 M23.6 29.6 L24.8 24.4 M23.6 29.6 L26.4 25.2" fill="none" stroke="#000000" stroke-width="0.77" opacity="0.8" />
-        <path d="M19.4 21.4 C21 23 26 23.2 27 21.6" fill="none" stroke="#000000" stroke-width="0.77" opacity="0.6" />
+        <ellipse cx="23.6" cy="27" rx="3.4" ry="2.8" fill="none" stroke="#000000" stroke-width="0.77" />
+        <path d="M23.6 29.6 L20.8 25.2 M23.6 29.6 L22.4 24.4 M23.6 29.6 L24.8 24.4 M23.6 29.6 L26.4 25.2" fill="none" stroke="#000000" stroke-width="0.77" />
+        <path d="M19.4 21.4 C21 23 26 23.2 27 21.6" fill="none" stroke="#000000" stroke-width="0.77" />
         <!-- Satin sheen -->
-        <path d="M19.6 8.6 C19 12.4 19.2 16.2 20 19.4" fill="none" stroke="none" stroke-width="1.32" opacity="0.45" />
+        <path d="M19.6 8.6 C19 12.4 19.2 16.2 20 19.4" fill="none" stroke="none" stroke-width="1.32" />
         <!-- Off-white leather outer sole with arched shank -->
         <path d="M26.5 6.4 C26.7 10.8 23.3 13.8 23.3 18 C23.3 21.4 25.5 23.6 24.9 26.6 M29.5 6.4 C29.7 10.8 26.3 13.8 26.3 18 C26.3 21.4 28.5 23.6 27.9 26.6" fill="none" stroke="#000000" stroke-width="1.1" />
       </g>

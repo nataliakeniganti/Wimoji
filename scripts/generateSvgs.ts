@@ -124,7 +124,9 @@ async function writeIconSvg(
     const normalizedSvg = makeSvgXmlWellFormed(svg);
     await writeFile(
       outputPath,
-      style === 'outline' ? recolorSvgToBlack(normalizedSvg) : normalizedSvg,
+      style === 'outline'
+        ? removeSvgOpacity(recolorSvgToBlack(normalizedSvg))
+        : normalizedSvg,
       'utf8'
     );
     generatedCounts[style] += 1;
@@ -155,6 +157,22 @@ function recolorSvgToBlack(svg: string): string {
       )}"`
     )
     .replace(/WIMOJI_MASK_BLOCK_(\d+)/g, (_match, index: string) => masks[Number(index)]!);
+}
+
+function removeSvgOpacity(svg: string): string {
+  const opacityAttributes = /\s(?:opacity|fill-opacity|stroke-opacity|stop-opacity|flood-opacity)="[^"]*"/g;
+  const opacityStyle = /(^|;)\s*(?:opacity|fill-opacity|stroke-opacity|stop-opacity|flood-opacity)\s*:\s*[^;]*/g;
+  const styleAttributes = /\sstyle="([^"]*)"/g;
+
+  return svg
+    .replace(opacityAttributes, '')
+    .replace(styleAttributes, (_match, style: string) => {
+      const remaining = style
+        .replace(opacityStyle, '$1')
+        .replace(/^\s*;+|;+\s*$/g, '')
+        .trim();
+      return remaining ? ` style="${remaining}"` : '';
+    });
 }
 
 async function generateSkinToneSequences(): Promise<void> {

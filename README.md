@@ -58,7 +58,7 @@ Useful scripts:
 
 ## Generated assets
 
-The SVG generator reads Unicode 18.0.0 emoji sequence files from `.unicode-sequences/`. It writes full-color SVGs to `color/svg/` and monochrome black outline SVGs to `outline/svg/`. To run it locally:
+The SVG generator reads Unicode 18.0.0 emoji sequence files from `.unicode-sequences/`. It writes full-color SVGs to `color/svg/` and monochrome black outline SVGs without opacity attributes to `outline/svg/`. To run it locally:
 
 ```sh
 mkdir -p .unicode-sequences
