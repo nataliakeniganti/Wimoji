@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pen">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top clicker button at top-right -->
+          <path d="M24.5 7.5l2-2a1 1 0 0 1 1.4 1.4l-2 2" />
+          <!-- Pen clip extending along upper barrel -->
+          <path d="M22 6l-1.5-1.5c-.8-.8-2 0-2 1v5l2 2" />
+          <!-- Pen Barrel cylinder -->
+          <path d="M10 22L22 10l3 3L13 25z" />
+          <!-- Barrel grip rings -->
+          <line x1="12" y1="20" x2="15" y2="23" />
+          <line x1="13.5" y1="18.5" x2="16.5" y2="21.5" />
+          <!-- Tapered pen tip cone &amp; ballpoint writing tip (clearly a pen, not arrow) -->
+          <path d="M10 22L5 27l5-2" />
+          <circle cx="5" cy="27" r="0.6" fill="#000000" />
+          <!-- Small ink dot / writing curve -->
+          <path d="M3.5 28.5c1 0 2-.5 3 .5" />
+        </g>
+</svg>

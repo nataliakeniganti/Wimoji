@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="face-with-head-bandage">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <ellipse cx="16" cy="16" rx="12.5" ry="12.5" />
+          <!-- Diagonal head bandage -->
+          <path d="M4 11 C8 6 24 6 28 11 L26.5 15 C23 11 9 11 5.5 15 Z" />
+          <path d="M10 13 C12 14.5 13.5 14.5 14 14 M18 14 C18.5 14.5 20 14.5 22 13" />
+          <ellipse cx="11.5" cy="16" rx="1.5" ry="1.5" fill="#000000" />
+          <ellipse cx="20.5" cy="16" rx="1.5" ry="1.5" fill="#000000" />
+          <path d="M13 22 C15 20.5 17 20.5 19 22" />
+        </g>
+</svg>

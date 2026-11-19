@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-timor-leste">
+<defs><clipPath id="wimoji-flag-tl-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-tl-out-clip)">
+            <path d="M2 6 L16.2 16 L2 26 M2 6 L11.8 16 L2 26" stroke-width="0.88" />
+          </g>
+          <polygon points="5.80,13.80 6.34,15.26 7.89,15.32 6.67,16.28 7.09,17.78 5.80,16.92 4.51,17.78 4.93,16.28 3.71,15.32 5.26,15.26" stroke-width="0.75" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

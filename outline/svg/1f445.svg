@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tongue">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Upper mouth arch -->
+          <path d="M8 10 C12 8 20 8 24 10" />
+          <!-- Extended tongue silhouette -->
+          <path d="M9 10 C9 15 10 24 16 26 C22 24 23 15 23 10 Z" />
+          <!-- Center groove -->
+          <path d="M16 12 V22" />
+        </g>
+</svg>

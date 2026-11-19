@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shortcake">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M4 25L28 25L28 17L4 21Z" />
+          <path d="M4 21L16 11L28 17" />
+          <path d="M4 23L28 19" />
+          <circle cx="16" cy="9" r="2.5" />
+          <path d="M16 6.5l-1-2M16 6.5l1-2" />
+        </g>
+</svg>

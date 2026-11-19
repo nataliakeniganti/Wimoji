@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lipstick">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Black/Gold Base tube -->
+          <rect x="11" y="18" width="10" height="11" rx="1.5" />
+          <!-- Inner gold elevator sleeve -->
+          <rect x="12" y="13" width="8" height="5" />
+          <!-- Angled red lipstick bullet -->
+          <path d="M12 13 V8 L18 4 V13 Z" />
+          <line x1="11" y1="21" x2="21" y2="21" />
+        </g>
+</svg>

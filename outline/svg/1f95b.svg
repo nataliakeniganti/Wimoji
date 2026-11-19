@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="glass-of-milk">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Tumbler Glass -->
+          <ellipse cx="16" cy="6" rx="7" ry="1.8" />
+          <path d="M9 6 L10.5 25.5 C10.8 27.2 12 28 14 28 H18 C20 28 21.2 27.2 21.5 25.5 L23 6" />
+          <!-- Milk Level Surface -->
+          <ellipse cx="16" cy="11.5" rx="5.8" ry="1.4" />
+        </g>
+</svg>

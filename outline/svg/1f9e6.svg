@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="socks">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Back sock -->
+          <path d="M7 6 H12 V16 C12 18 13 21 15 22 L20 24 C22 25 22 27 20 28 C18 29 16 28 14 26 L10 22 C8 20 7 18 7 16 Z" />
+          <!-- Front sock -->
+          <path d="M12 5 H17 V15 C17 17 18 20 20 21 L25 23 C27 24 27 26 25 27 C23 28 21 27 19 25 L15 21 C13 19 12 17 12 15 Z" />
+        </g>
+</svg>

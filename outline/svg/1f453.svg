@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="glasses">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="13" width="9.5" height="8" rx="2.5" />
+          <rect x="18.5" y="13" width="9.5" height="8" rx="2.5" />
+          <line x1="13.5" y1="16" x2="18.5" y2="16" />
+          <line x1="4" y1="14" x2="1" y2="12" />
+          <line x1="28" y1="14" x2="31" y2="12" />
+        </g>
+</svg>

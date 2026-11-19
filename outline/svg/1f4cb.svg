@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="clipboard">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="5" y="5" width="22" height="24" rx="2" />
+          <rect x="10" y="2" width="12" height="5" rx="1.5" />
+          <circle cx="16" cy="4.5" r="1" />
+          <!-- Attached sheet -->
+          <rect x="8" y="8" width="16" height="18" rx="1" />
+          <!-- Checklist items -->
+          <path d="M10 13 L12 15 L15 12" />
+          <line x1="17" y1="14" x2="22" y2="14" />
+          <path d="M10 19 L12 21 L15 18" />
+          <line x1="17" y1="20" x2="22" y2="20" />
+        </g>
+</svg>

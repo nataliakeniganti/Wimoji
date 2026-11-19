@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="curling-stone">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Granite Stone Body -->
+          <ellipse cx="16" cy="17.5" rx="10" ry="3.5" />
+          <path d="M6 17.5 C6 21 9.5 24 16 24 C22.5 24 26 21 26 17.5" />
+          <ellipse cx="16" cy="24" rx="7" ry="1.8" />
+          <!-- Handle -->
+          <path d="M12 17.5 V11 C12 9.5 13.5 8.5 15.5 8.5 H19 C20.5 8.5 21.5 9.5 21.5 11 V14" />
+          <rect x="13.5" y="7.5" width="7" height="3" rx="1.2" />
+        </g>
+</svg>

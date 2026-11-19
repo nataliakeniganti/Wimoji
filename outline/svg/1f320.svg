@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shooting-star">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <!-- Streaking light trails -->
+          <path d="M4 28l13-13M8 29l10-10M3 24l12-12" fill="none" />
+          <circle cx="8" cy="22" r="1.2" fill="#000000" stroke="none" />
+          <circle cx="13" cy="17" r="1.4" fill="#000000" stroke="none" />
+          <!-- Radiant Star Head (solid filled in outline mode so no more blank) -->
+          <polygon points="21,4.5 22.8,9.5 28,10.2 24.2,14 25.2,19 21,16.2 16.8,19 17.8,14 14,10.2 19,9.5" fill="#000000" />
+        </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="gem-stone">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Diamond silhouette -->
+          <polygon points="9,9 23,9 28,15 16,27 4,15" />
+          <!-- Crown &amp; Pavilion Facets -->
+          <line x1="4" y1="15" x2="28" y2="15" />
+          <line x1="9" y1="9" x2="12" y2="15" />
+          <line x1="23" y1="9" x2="20" y2="15" />
+          <line x1="16" y1="9" x2="12" y2="15" />
+          <line x1="16" y1="9" x2="20" y2="15" />
+          <line x1="12" y1="15" x2="16" y2="27" />
+          <line x1="20" y1="15" x2="16" y2="27" />
+        </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="khanda-symbol">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Central double-edged khanda sword -->
+          <path d="M16 2.5 L17.5 5 C18.5 9 18.5 15 18 19 H14 C13.5 15 13.5 9 14.5 5 Z" />
+          <line x1="16" y1="3" x2="16" y2="19" />
+          <rect x="12" y="19" width="8" height="2" rx="0.5" />
+          <line x1="16" y1="21" x2="16" y2="26.5" />
+          <circle cx="16" cy="27.5" r="1.5" />
+          <!-- Chakkar (circular quoit ring) -->
+          <circle cx="16" cy="13.5" r="5.5" />
+          <circle cx="16" cy="13.5" r="3.6" />
+          <!-- Left curved kirpan dagger -->
+          <path d="M14.5 28 C9.5 28 5.5 23.5 6.5 16 C7 12 9 7.5 10 6 C8.5 9.5 7.5 14 8 18 C8.5 21 11 24.5 14 25.5" />
+          <!-- Right curved kirpan dagger -->
+          <path d="M17.5 28 C22.5 28 26.5 23.5 25.5 16 C25 12 23 7.5 22 6 C23.5 9.5 24.5 14 24 18 C23.5 21 21 24.5 18 25.5" />
+        </g>
+</svg>

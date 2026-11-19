@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="sweet-potato">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Whole cut sweet potato contour -->
+          <path d="M5 25c-3-4-1-12 5-17 6-4 13-4 17-2 2 3 2 8-1 12-4 5-13 10-21 7z" />
+          <!-- Cut cross-section exposing inside -->
+          <ellipse cx="21" cy="11" rx="5" ry="4" transform="rotate(-35 21 11)" />
+          <ellipse cx="21" cy="11" rx="3.5" ry="2.7" transform="rotate(-35 21 11)" />
+          <!-- Steam wisps -->
+          <path d="M22 4c0-1.5 1-2 0-3" />
+          <path d="M26 6c0-1.5 1-2 0-3" />
+        </g>
+</svg>

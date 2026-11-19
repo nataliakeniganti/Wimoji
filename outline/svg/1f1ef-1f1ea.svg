@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-jersey">
+<defs><clipPath id="wimoji-flag-je-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-je-out-clip)">
+            <path d="M2 6 L30 26 M30 6 L2 26" stroke-width="1.04" />
+          </g>
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <path d="M14.3 9.2 H17.7 V11.4 C17.7 12.6 16 13.4 16 13.4 C16 13.4 14.3 12.6 14.3 11.4 Z" fill="#000000" stroke="#000000" stroke-width="0.85" />
+        </g>
+</svg>

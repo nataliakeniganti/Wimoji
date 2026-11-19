@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-canada">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <line x1="9.0" y1="6" x2="9.0" y2="26" stroke-width="1.1" />
+          <line x1="23.0" y1="6" x2="23.0" y2="26" stroke-width="1.1" />
+          <path d="M16.0 9.6 L16.8 11.4 L18.2 11.0 L17.6 13.6 L19.2 12.6 L19.6 13.6 L21.2 13.4 L20.6 14.8 L21.4 15.4 L18.6 17.6 L19.0 18.6 L16.4 18.3 L16.5 22.0 H15.5 L15.6 18.3 L13.0 18.6 L13.4 17.6 L10.6 15.4 L11.4 14.8 L10.8 13.4 L12.4 13.6 L12.8 12.6 L14.4 13.6 L13.8 11.0 L15.2 11.4 Z" stroke-width="0.9" />
+        </g>
+</svg>

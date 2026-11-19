@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="seat">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Backrest -->
+          <path d="M10 5 C10 3.5 12 3 16 3 C20 3 22 3.5 22 5 V19 C22 21 20 22 16 22 C12 22 10 21 10 19 Z" />
+          <!-- Seat cushion -->
+          <path d="M7 19 H25 C26 19 27 20 27 21 C27 23 25 24 23 24 H9 C7 24 5 23 5 21 C5 20 6 19 7 19 Z" />
+          <!-- Seat base support -->
+          <path d="M11 24 V29 M21 24 V29 M9 29 H23" />
+        </g>
+</svg>

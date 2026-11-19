@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pouring-liquid">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Tilted Glass Tumbler -->
+          <ellipse cx="11" cy="9" rx="4" ry="2" transform="rotate(-35 11 9)" />
+          <path d="M8 8L3 16c-.5 1 0 2 1 2.5l5 3c1 .5 2 0 2.5-1L14 11" />
+          <!-- Pouring Liquid Stream -->
+          <path d="M13 10c2 4 5 10 5 17" />
+          <path d="M10 12c1 5 4 10 8 15" />
+          <!-- Droplets -->
+          <circle cx="23" cy="22" r="1" />
+          <circle cx="20" cy="28" r="1.2" />
+        </g>
+</svg>

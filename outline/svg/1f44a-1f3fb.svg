@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="oncoming-fist-light">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Four clenched knuckles facing forward -->
+        <path d="M6 14 C6 11 8.5 11 9 13.5 C9.5 11 12 11 12.5 13.5 C13 11 15.5 11 16 13.5 C16.5 11 19 11 19.5 13.5 C20 15 20 18 19 20 C18 23 15 25 12 25 C8 25 6 22 6 18 Z" />
+        <!-- Thumb folded across the bottom/front -->
+        <path d="M8 19 C10 20.5 14 20.5 17 19 C18 20 18 22 16 23 C14 24 10 24 8 22 Z" />
+        <!-- Finger segment crease dividers -->
+        <line x1="9.5" y1="13.5" x2="9.5" y2="18.5" fill="none" />
+        <line x1="13" y1="13.5" x2="13" y2="18.5" fill="none" />
+        <line x1="16.5" y1="13.5" x2="16.5" y2="18.5" fill="none" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="left-facing-fist-medium-light">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Four clenched knuckles facing left with wrist extending right -->
+        <path d="M28 12.5 H20 C16 10 12 10.5 8 11.5 C6.5 12.2 6.5 14.5 8 15.2 C6.2 15.8 5.8 18 7.5 19 C6 19.8 6 22 7.8 23 C6.5 24 7.5 26 10 26 H20 C23.5 26 25.5 25 28 23 Z" />
+        <!-- Thumb folded over the front/top knuckles -->
+        <path d="M16 10.8 C13.5 11.2 11.8 13 12 15 C12.2 17.2 14.2 18.5 16.5 18.5 C18.2 18.5 19.5 17.2 19.5 15.5 C19.5 13.2 18.2 11.2 16 10.8 Z" fill="none" />
+        <!-- Knuckle separation dividers -->
+        <path d="M8 15.2 L12 15.2 M7.5 19 L12.5 19 M7.8 23 L13 23" fill="none" stroke-width="1.5" />
+      </g>
+</svg>

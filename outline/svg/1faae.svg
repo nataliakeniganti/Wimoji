@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hair-pick">
+<g stroke="#000000" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Sculpted handle with circular medallion and flared bridge -->
+          <path d="M 16 1.8 C 17.5 1.8 18.7 3 18.7 4.5 C 18.7 5.7 18 6.7 17.3 7.2 C 16.9 7.5 17 8.2 17.1 9 C 17.2 9.8 17.3 10.5 17.5 11 C 18.2 13 26 14.2 26 16.8 H 6 C 6 14.2 13.8 13 14.5 11 C 14.7 10.5 14.8 9.8 14.9 9 C 15 8.2 15.1 7.5 14.7 7.2 C 14 6.7 13.3 5.7 13.3 4.5 C 13.3 3 14.5 1.8 16 1.8 Z" stroke-width="2" />
+          <!-- Inner medallion ring -->
+          <circle cx="16" cy="4.5" r="1.6" stroke-width="1.4" />
+          <!-- Bridge reinforcement line -->
+          <line x1="7.5" y1="15.2" x2="24.5" y2="15.2" stroke-width="1.4" />
+          <!-- 7 crisp, long detangling tines -->
+          <g stroke-width="1.3">
+            <line x1="7.5" y1="16.8" x2="7.5" y2="29.2" />
+            <line x1="10.33" y1="16.8" x2="10.33" y2="29.2" />
+            <line x1="13.17" y1="16.8" x2="13.17" y2="29.2" />
+            <line x1="16.0" y1="16.8" x2="16.0" y2="29.2" />
+            <line x1="18.83" y1="16.8" x2="18.83" y2="29.2" />
+            <line x1="21.67" y1="16.8" x2="21.67" y2="29.2" />
+            <line x1="24.5" y1="16.8" x2="24.5" y2="29.2" />
+          </g>
+        </g>
+</svg>

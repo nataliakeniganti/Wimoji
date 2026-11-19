@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hammer-and-wrench">
+
+      <g transform="rotate(-45 16 16)"><g stroke="#000000" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round">
+        <!-- Handle -->
+        <rect x="13.5" y="11" width="5" height="17" rx="2.5" fill="none" />
+        <!-- Open-jaw head -->
+        <path d="M13.5 2 V6.5 H18.5 V2 A6.5 6.5 0 1 1 13.5 2 Z" fill="none" />
+        <!-- Hanging hole -->
+        <circle cx="16" cy="24.5" r="1" fill="none" stroke="none" />
+      </g></g>
+      <g transform="rotate(45 16 16) translate(16 16) scale(0.86) translate(-16 -16)"><g stroke="#000000" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round">
+        <!-- Handle -->
+        <rect x="14" y="9" width="4" height="19" rx="1.8" fill="none" />
+        <!-- Claw hammer head -->
+        <path d="M22.5 3.5 H12 C9 3.5 6.5 5 5 8 C7.5 8 9.5 9 12 10.5 H22.5 Z" fill="none" />
+        <!-- Striking face -->
+        <path d="M22.5 3.5 H25 V10.5 H22.5 Z" fill="none" />
+      </g></g>
+</svg>

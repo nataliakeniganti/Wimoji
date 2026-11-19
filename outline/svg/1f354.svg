@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hamburger">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top bun -->
+          <path d="M5 14c0-6 5-9 11-9s11 3 11 9H5z" />
+          <!-- Sesame seeds -->
+          <circle cx="11" cy="9" r="0.7" />
+          <circle cx="16" cy="7" r="0.7" />
+          <circle cx="21" cy="9" r="0.7" />
+          <!-- Cheese &amp; Patty -->
+          <path d="M4 14l12 3 12-3" />
+          <rect x="4" y="17" width="24" height="4" rx="2" />
+          <!-- Lettuce wave -->
+          <path d="M3 21c2 2 4 0 6 1s4 0 6 1 4 0 6 1 4 0 5-1" />
+          <!-- Bottom bun -->
+          <rect x="5" y="23" width="22" height="4" rx="2" />
+        </g>
+</svg>

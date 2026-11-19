@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ewe">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <rect x="11.5" y="21" width="2" height="6.5" rx="1" fill="none" stroke="#000000" stroke-width="1.5" /><rect x="14.5" y="21" width="2" height="6.5" rx="1" fill="none" stroke="#000000" stroke-width="1.5" /><rect x="21" y="21" width="2" height="6.5" rx="1" fill="none" stroke="#000000" stroke-width="1.5" /><rect x="24" y="21" width="2" height="6.5" rx="1" fill="none" stroke="#000000" stroke-width="1.5" />
+        <path d="M10 18.5 C7.5 16 9.5 11.5 13.5 11 C15 8.2 20.5 8 22.5 10.8 C26.5 10.6 29 14.5 27.5 18 C28.5 21.5 25 24.5 21.5 23.8 C19 25.5 14 25 12.5 22.5 C10 22.5 8.5 20.5 10 18.5 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Head -->
+        <path d="M10.5 11.5 C8 10 5 11 4.5 14 C4 16 4.5 18.5 6 20 C7.5 21.2 9.5 20 10.2 18.2 C11 16 11.2 13 10.5 11.5 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <ellipse cx="9.8" cy="11.8" rx="2.4" ry="1.2" transform="rotate(30 9.8 11.8)" fill="none" stroke="#000000" stroke-width="1.5" />
+        <ellipse cx="9" cy="9.4" rx="3.3" ry="2.1" fill="none" stroke="#000000" stroke-width="1.5" />
+        <circle cx="7" cy="14.2" r="0.85" fill="#000000" />
+        <circle cx="5.3" cy="17.6" r="0.7" fill="#000000" />
+      </g>
+</svg>

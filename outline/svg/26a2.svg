@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="doubled-female-sign">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- First Venus -->
+        <circle cx="11" cy="11" r="5" />
+        <line x1="11" y1="16" x2="11" y2="26" />
+        <line x1="7" y1="21" x2="15" y2="21" />
+        <!-- Second Venus -->
+        <circle cx="21" cy="11" r="5" />
+        <line x1="21" y1="16" x2="21" y2="26" />
+        <line x1="17" y1="21" x2="25" y2="21" />
+      </g>
+</svg>

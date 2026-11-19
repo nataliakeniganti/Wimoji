@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="gloves">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Left glove -->
+          <path d="M4.5 22 V14 C4.5 14 3 13 3 11 C3 9.5 4.5 9.5 5 11 L6 13 V7.5 C6 6.5 7.5 6.5 7.5 7.5 V12 M7.5 11 V5.5 C7.5 4.5 9 4.5 9 5.5 V11 M9 11 V6.5 C9 5.5 10.5 5.5 10.5 6.5 V12 M10.5 12 V8.5 C10.5 7.5 12 7.5 12 8.5 V16 C12 18 11.5 22 11.5 22" />
+          <rect x="4.5" y="22" width="7" height="4.5" rx="1" stroke-width="1.4" />
+          <!-- Right glove -->
+          <path d="M27.5 22 V14 C27.5 14 29 13 29 11 C29 9.5 27.5 9.5 27 11 L26 13 V7.5 C26 6.5 24.5 6.5 24.5 7.5 V12 M24.5 11 V5.5 C24.5 4.5 23 4.5 23 5.5 V11 M23 11 V6.5 C23 5.5 21.5 5.5 21.5 6.5 V12 M21.5 12 V8.5 C21.5 7.5 20 7.5 20 8.5 V16 C20 18 20.5 22 20.5 22" />
+          <rect x="20.5" y="22" width="7" height="4.5" rx="1" stroke-width="1.4" />
+        </g>
+</svg>

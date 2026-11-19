@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-central-african-republic">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <line x1="2" y1="11" x2="14" y2="11" stroke-width="0.9" />
+          <line x1="18" y1="11" x2="30" y2="11" stroke-width="0.9" />
+          <line x1="2" y1="16" x2="14" y2="16" stroke-width="0.9" />
+          <line x1="18" y1="16" x2="30" y2="16" stroke-width="0.9" />
+          <line x1="2" y1="21" x2="14" y2="21" stroke-width="0.9" />
+          <line x1="18" y1="21" x2="30" y2="21" stroke-width="0.9" />
+          <line x1="14" y1="6" x2="14" y2="26" stroke-width="1" />
+          <line x1="18" y1="6" x2="18" y2="26" stroke-width="1" />
+          <circle cx="6.4" cy="8.5" r="0.9" fill="#000000" stroke="none" />
+        </g>
+</svg>

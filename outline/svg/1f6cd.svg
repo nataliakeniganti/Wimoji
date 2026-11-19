@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shopping-bags">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Back Bag -->
+          <path d="M15 10c0-3 2-5 5-5s5 2 5 5" />
+          <polygon points="15,10 26,10 28,26 13,26" />
+          <!-- Front Bag -->
+          <path d="M8 12c0-3 2.5-5 5.5-5s5.5 2 5.5 5" />
+          <polygon points="6,12 20,12 22,27 4,27" />
+        </g>
+</svg>

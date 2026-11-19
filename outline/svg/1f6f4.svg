@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="kick-scooter">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="7" cy="25" r="3" />
+          <circle cx="25" cy="25" r="3" />
+          <line x1="7" y1="25" x2="23" y2="25" />
+          <line x1="23" y1="25" x2="21" y2="7" />
+          <line x1="17" y1="7" x2="25" y2="7" />
+        </g>
+</svg>

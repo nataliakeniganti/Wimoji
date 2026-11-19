@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="three-speech-bubbles">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Bubble 1 Top Left -->
+          <path d="M4 5h9a2.5 2.5 0 0 1 2.5 2.5v4a2.5 2.5 0 0 1-2.5 2.5h-2l-3 2.5v-2.5H4A2.5 2.5 0 0 1 1.5 11.5v-4A2.5 2.5 0 0 1 4 5z" />
+          <!-- Bubble 2 Top Right -->
+          <path d="M18 6h9a2.5 2.5 0 0 1 2.5 2.5v4a2.5 2.5 0 0 1-2.5 2.5h-4l-3 2.5V15h-2a2.5 2.5 0 0 1-2.5-2.5v-4A2.5 2.5 0 0 1 18 6z" />
+          <!-- Bubble 3 Bottom Center -->
+          <path d="M10 16h11a2.5 2.5 0 0 1 2.5 2.5v4a2.5 2.5 0 0 1-2.5 2.5h-2l-3 2.5V25H10a2.5 2.5 0 0 1-2.5-2.5v-4A2.5 2.5 0 0 1 10 16z" />
+        </g>
+</svg>

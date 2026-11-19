@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pencil">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Eraser and ferrule -->
+          <path d="M21.6,5.6 L23.1,4.1 A3.4,3.4 0 0 1 27.9,8.9 L26.4,10.4" />
+          <path d="M19.1,8.1 L21.6,5.6 L26.4,10.4 L23.9,12.9" />
+          <!-- Pencil body with center facet -->
+          <path d="M8.1,19.1 L19.1,8.1 L23.9,12.9 L12.9,23.9 Z" />
+          <line x1="10.5" y1="21.5" x2="21.5" y2="10.5" stroke-width="1.4" />
+          <!-- Sharpened wood cone and graphite tip -->
+          <path d="M8.1,19.1 L4.5,27.5 L12.9,23.9" />
+          <polygon points="4.5,27.5 5.7,24.7 7.3,26.3" fill="#000000" stroke="none" />
+        </g>
+</svg>

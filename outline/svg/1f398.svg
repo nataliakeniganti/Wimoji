@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="keyboard-jacks">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="9" width="24" height="15" rx="2" />
+          <!-- White keys -->
+          <line x1="8.8" y1="15" x2="8.8" y2="24" />
+          <line x1="13.6" y1="15" x2="13.6" y2="24" />
+          <line x1="18.4" y1="15" x2="18.4" y2="24" />
+          <line x1="23.2" y1="15" x2="23.2" y2="24" />
+          <!-- Black keys -->
+          <rect x="7" y="15" width="2" height="5" />
+          <rect x="12" y="15" width="2" height="5" />
+          <rect x="18" y="15" width="2" height="5" />
+          <rect x="22" y="15" width="2" height="5" />
+          <!-- Jacks on back -->
+          <circle cx="8" cy="6" r="1.5" />
+          <circle cx="14" cy="6" r="1.5" />
+          <circle cx="20" cy="6" r="1.5" />
+        </g>
+</svg>

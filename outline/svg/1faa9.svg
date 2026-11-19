@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mirror-ball">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M16 3.5 V7" />
+          <circle cx="16" cy="17.2" r="10.2" />
+          <path d="M6.4 14 H25.6 M6.4 20.4 H25.6 M16 7 V27.4" />
+          <ellipse cx="16" cy="17.2" rx="5" ry="10.2" />
+        </g>
+</svg>

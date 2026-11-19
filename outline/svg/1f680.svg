@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="rocket">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="rotate(-45 16 16)">
+          <!-- Fuselage -->
+          <path d="M16 3c-4 5-5 13-5 18h10c0-5-1-13-5-18z" />
+          <circle cx="16" cy="12" r="2.5" />
+          <!-- Fins -->
+          <path d="M11 16l-5 4v3l5-2" />
+          <path d="M21 16l5 4v3l-5-2" />
+          <!-- Flame exhaust -->
+          <path d="M13 23l3 6 3-6" />
+        </g>
+</svg>

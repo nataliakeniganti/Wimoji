@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-uruguay">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="11.2" height="11.11" stroke-width="0.8" />
+          <polygon points="7.60,8.85 8.02,10.27 9.19,9.37 8.69,10.76 10.17,10.72 8.95,11.55 10.17,12.38 8.69,12.34 9.19,13.73 8.02,12.83 7.60,14.25 7.18,12.83 6.01,13.73 6.51,12.34 5.03,12.38 6.25,11.55 5.03,10.72 6.51,10.76 6.01,9.37 7.18,10.27" stroke-width="0.75" />
+          <line x1="13.2" y1="8.22" x2="30" y2="8.22" stroke-width="0.75" /><line x1="13.2" y1="12.67" x2="30" y2="12.67" stroke-width="0.75" /><line x1="2" y1="17.11" x2="30" y2="17.11" stroke-width="0.75" /><line x1="2" y1="21.56" x2="30" y2="21.56" stroke-width="0.75" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

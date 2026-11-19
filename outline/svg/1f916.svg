@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="robot">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Antenna -->
+          <line x1="16" y1="2" x2="16" y2="7" />
+          <circle cx="16" cy="2" r="1.5" />
+          <!-- Head box -->
+          <rect x="6" y="7" width="20" height="18" rx="3" />
+          <!-- Ears -->
+          <rect x="3" y="12" width="3" height="8" rx="1" />
+          <rect x="26" y="12" width="3" height="8" rx="1" />
+          <!-- Eyes -->
+          <circle cx="11" cy="13" r="2.5" />
+          <circle cx="21" cy="13" r="2.5" />
+          <!-- Grill mouth -->
+          <rect x="10" y="18" width="12" height="4" rx="1" />
+          <line x1="13" y1="18" x2="13" y2="22" />
+          <line x1="16" y1="18" x2="16" y2="22" />
+          <line x1="19" y1="18" x2="19" y2="22" />
+        </g>
+</svg>

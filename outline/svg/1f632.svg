@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="astonished-face">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <ellipse cx="16" cy="16" rx="12.5" ry="12.5" />
+          <path d="M8.2 9.8 C9.6 7.4 12.8 7.4 14.2 9.4" stroke-width="2" />
+          <path d="M 23.8 9.8 C 22.4 7.4 19.2 7.4 17.8 9.4" stroke-width="2" />
+          <ellipse cx="11.5" cy="13.4" rx="1.5" ry="2.2" fill="#000000" />
+          <ellipse cx="20.5" cy="13.4" rx="1.5" ry="2.2" fill="#000000" />
+          <path d="M16 17.8 C18.6 17.8 19.8 20.2 19.8 22.6 C19.8 25 18.2 26.4 16 26.4 C13.8 26.4 12.2 25 12.2 22.6 C12.2 20.2 13.4 17.8 16 17.8 Z" stroke-width="1.6" />
+          <path d="M13.2 20.4 C13.8 18.8 18.2 18.8 18.8 20.4 L18.6 21.8 H13.4 Z" stroke-width="1.2" />
+        </g>
+</svg>

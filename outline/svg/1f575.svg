@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="detective">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Trench coat bust with popped collar -->
+        <path d="M8 28 C8 21 11 16 16 16 C21 16 24 21 24 28 Z" fill="none" />
+        <!-- Coat lapels -->
+        <path d="M12 16 L14 21 L16 17 L18 21 L20 16" fill="none" stroke-width="1.4" />
+        <line x1="16" y1="18" x2="16" y2="28" stroke-width="1.4" />
+        <!-- Face partially in shadow -->
+        <circle cx="16" cy="11.5" r="4.2" fill="none" stroke-width="1.4" />
+        <!-- Shaded mystery eyes -->
+        <rect x="13.5" y="11" width="5" height="1.6" rx="0.8" fill="#000000" stroke="none" />
+        <!-- Classic fedora hat with wide curled brim -->
+        <path d="M6 10 C8 8.5 16 8 26 10" fill="none" stroke-width="2.4" />
+        <path d="M10.5 9 C11 4.5 13 3 16 3 C19 3 21 4.5 21.5 9 Z" fill="none" />
+        <!-- Hat band -->
+        <path d="M10.8 8 H21.2" stroke="#000000" stroke-width="1.4" />
+        <!-- Magnifying glass inspecting clues -->
+        <circle cx="23" cy="19" r="4" fill="none" opacity="1" stroke-width="2" />
+        <line x1="26" y1="22" x2="29" y2="26" stroke-width="2.6" />
+        <line x1="21.5" y1="17.5" x2="23" y2="17.5" stroke="#000000" stroke-width="1.2" stroke-linecap="round" />
+      </g>
+</svg>

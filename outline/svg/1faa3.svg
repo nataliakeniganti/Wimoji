@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bucket">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M7.6 12.2 C7.6 5.6 24.4 5.6 24.4 12.2" />
+          <ellipse cx="16" cy="12.2" rx="8.4" ry="2.6" />
+          <path d="M7.6 12.2 L9.8 25.4 C10 26.6 12.6 27.4 16 27.4 C19.4 27.4 22 26.6 22.2 25.4 L24.4 12.2" />
+        </g>
+</svg>

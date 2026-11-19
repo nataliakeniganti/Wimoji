@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="portable-stereo">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top Carry Handle -->
+          <path d="M9 9V5h14v4" />
+          <!-- Boombox Main Unit -->
+          <rect x="2" y="9" width="28" height="18" rx="2.5" />
+          <!-- Left Speaker -->
+          <circle cx="8" cy="19" r="4.5" />
+          <circle cx="8" cy="19" r="1.8" />
+          <!-- Right Speaker -->
+          <circle cx="24" cy="19" r="4.5" />
+          <circle cx="24" cy="19" r="1.8" />
+          <!-- Center Cassette Tape Deck -->
+          <rect x="13.5" y="15" width="5" height="6.5" rx="0.8" />
+          <!-- Control Buttons Row -->
+          <line x1="13.5" y1="12" x2="18.5" y2="12" />
+        </g>
+</svg>

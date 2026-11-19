@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="carrot">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M7.5 24.5 C6 26.5 5 26 6.2 24.5 C8 20.5 15.5 11.5 19.5 8.5 C22 6.8 24.2 7.8 24.5 10.2 C24.5 13.8 17.5 20.5 7.5 24.5 Z" />
+          <path d="M21.5 8 C23 4.2 26 2.5 28 3 C27 5.5 25 7.5 23 8.5 M22.5 7 C24.5 4 27.5 4.8 26.8 7.2 M20.5 8 C19.5 4.5 21.5 2.5 23.5 3.8" stroke-width="1.6" />
+          <!-- Root horizontal ridges -->
+          <line x1="10" y1="20" x2="13" y2="22" stroke-width="1.4" />
+          <line x1="14" y1="15.5" x2="17.5" y2="18" stroke-width="1.4" />
+          <line x1="18" y1="11.5" x2="21.5" y2="14" stroke-width="1.4" />
+        </g>
+</svg>

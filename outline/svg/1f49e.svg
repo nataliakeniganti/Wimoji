@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="revolving-hearts">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top Left Heart -->
+          <g transform="translate(10 12) scale(0.55) translate(-16 -17)">
+            <path d="M16 27s-10-6.5-10-14a5.5 5.5 0 0 1 10-3 5.5 5.5 0 0 1 10 3c0 7.5-10 14-10 14z" />
+          </g>
+          <!-- Bottom Right Heart -->
+          <g transform="translate(22 20) scale(0.55) translate(-16 -17)">
+            <path d="M16 27s-10-6.5-10-14a5.5 5.5 0 0 1 10-3 5.5 5.5 0 0 1 10 3c0 7.5-10 14-10 14z" />
+          </g>
+          <!-- Orbit motion path arcs -->
+          <path d="M21 11 C18 7 13 7 11 9" />
+          <path d="M11 21 C14 25 19 25 21 23" />
+        </g>
+</svg>

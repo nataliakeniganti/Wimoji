@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="candy">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Left twisted wrapper fan -->
+          <path d="M10 14L3 9v14l7-5" />
+          <!-- Center oval candy piece -->
+          <ellipse cx="16" cy="16" rx="6.5" ry="5.5" />
+          <!-- Right twisted wrapper fan -->
+          <path d="M22 14l7-5v14l-7-5" />
+          <!-- Diagonal wrapper stripes -->
+          <path d="M13 11c1.5 3 1.5 7 0 10" />
+          <path d="M17 11c1.5 3 1.5 7 0 10" />
+        </g>
+</svg>

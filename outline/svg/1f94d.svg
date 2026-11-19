@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lacrosse">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Handle Shaft -->
+          <line x1="14" y1="15" x2="26" y2="27" stroke-width="2.2" />
+          <!-- Head Pocket -->
+          <path d="M14 15 C12 13 8 9.5 7 5.5 C6.5 3.5 8.5 3 10.5 3.5 C13 4.5 16 8 16.8 11.5 Z" />
+          <!-- Stringing Webbing -->
+          <path d="M9 5 L14 13 M11 4 L16 11 M8 8 L13 6" stroke-width="1.2" />
+          <!-- Lacrosse Ball -->
+          <circle cx="21" cy="9" r="3.2" />
+        </g>
+</svg>

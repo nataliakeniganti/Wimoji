@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="twisted-rightwards-arrows">
+<g stroke="#000000" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top to Bottom Crossing Arrow -->
+          <path d="M5 10 H9 C12 10 14 14 16 16 C18 18 20 22 23 22" />
+          <polyline points="20,19 24,22 20,25" />
+          <!-- Bottom to Top Crossing Arrow -->
+          <path d="M5 22 H9 C11.5 22 13 19 14.5 17" />
+          <path d="M17.5 15 C19 13 20.5 10 23 10" />
+          <polyline points="20,7 24,10 20,13" />
+        </g>
+</svg>

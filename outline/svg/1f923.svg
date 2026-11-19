@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="rolling-on-the-floor-laughing">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="rotate(-35 16 16)">
+          <ellipse cx="16" cy="16" rx="12.5" ry="12.5" />
+          <!-- Squeezed laughing eyes > < -->
+          <path d="M9 12 L13 13.5 L9 15 M23 12 L19 13.5 L23 15" />
+          <!-- Huge open laughing mouth -->
+          <path d="M10 17 L22 17 C22 22 19 24.5 16 24.5 C13 24.5 10 22 10 17 Z" />
+          <!-- Tears streaming -->
+          <path d="M6 14 C4 13 4 10 7 10 M26 14 C28 13 28 10 25 10" />
+        </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="old-personal-computer">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Screen Lid -->
+          <path d="M5.5 3 H26.5 C27.3 3 28 3.7 28 4.5 V15 H4 V4.5 C4 3.7 4.7 3 5.5 3 Z" />
+          <rect x="6.8" y="4.8" width="18.4" height="8.6" rx="0.8" />
+          <line x1="7.4" y1="6.2" x2="24.6" y2="6.2" stroke-width="1.1" />
+          <rect x="12" y="7.4" width="8" height="4.8" rx="0.4" stroke-width="1.1" />
+          <!-- Hinges -->
+          <rect x="6.8" y="14.5" width="3" height="1.8" />
+          <rect x="22.2" y="14.5" width="3" height="1.8" />
+          <!-- Base Chassis -->
+          <path d="M4 16 H28 L29 26.2 C29 27.2 28.2 28 27.2 28 H4.8 C3.8 28 3 27.2 3 26.2 Z" />
+          <!-- Keyboard Deck -->
+          <rect x="5.5" y="17.6" width="13.5" height="7.6" rx="0.6" stroke-width="1.32" />
+          <line x1="6.5" y1="20" x2="18" y2="20" stroke-width="1.1" />
+          <line x1="6.5" y1="22.2" x2="18" y2="22.2" stroke-width="1.1" />
+          <!-- Trackball -->
+          <circle cx="23.5" cy="20.8" r="3.2" stroke-width="1.32" />
+          <circle cx="23.5" cy="20.8" r="2.2" stroke-width="1.1" />
+          <!-- Front Carrying Handle -->
+          <path d="M11 28 V29.8 C11 30.5 11.5 31 12.2 31 H19.8 C20.5 31 21 30.5 21 29.8 V28" />
+        </g>
+</svg>

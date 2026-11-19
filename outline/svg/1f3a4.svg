@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="microphone">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="21" cy="11" r="5" transform="rotate(-45 21 11)" />
+          <polygon points="17,14 14,17 7,24 8,25 15,18 18,15" />
+          <path d="M7 24l-3 3" />
+        </g>
+</svg>

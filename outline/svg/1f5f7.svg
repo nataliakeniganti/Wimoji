@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ballot-box-with-bold-script-x">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="4" width="24" height="24" rx="4" />
+          <path d="M9 9c2 2 9 9 14 14" stroke-width="2.8" />
+          <path d="M23 9c-2 2-9 9-14 14" stroke-width="2.8" />
+        </g>
+</svg>

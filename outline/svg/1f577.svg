@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="spider">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <ellipse cx="16" cy="18" rx="4" ry="5.5" />
+          <circle cx="16" cy="10" r="2.5" />
+          <!-- Left 4 Legs -->
+          <path d="M13 11l-7-3v5M13 13l-9-1v5M13 15l-9 1v5M13 17l-7 4v5" />
+          <!-- Right 4 Legs -->
+          <path d="M19 11l7-3v5M19 13l9-1v5M19 15l9 1v5M19 17l7 4v5" />
+        </g>
+</svg>

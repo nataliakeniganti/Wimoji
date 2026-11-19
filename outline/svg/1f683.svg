@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="railway-car">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="3" y="9" width="26" height="14" rx="2" />
+          <rect x="6" y="12" width="4" height="4" rx="0.5" />
+          <rect x="14" y="12" width="4" height="4" rx="0.5" />
+          <rect x="22" y="12" width="4" height="4" rx="0.5" />
+          <!-- Wheels -->
+          <circle cx="8" cy="25" r="2.5" />
+          <circle cx="24" cy="25" r="2.5" />
+          <!-- Pantograph on top -->
+          <path d="M12 9l4-4 4 4" />
+        </g>
+</svg>

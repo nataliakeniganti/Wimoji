@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bowl-with-spoon">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Spoon -->
+          <path d="M13 18 L25 8 C26.2 7 27.5 7.5 28 8.5 C28.5 9.5 28 10.8 26.8 11.5 L17 19.5" />
+          <!-- Bowl -->
+          <ellipse cx="16" cy="16" rx="11" ry="3.8" />
+          <path d="M5 16 C5 24 9.5 27 16 27 C22.5 27 27 24 27 16" />
+        </g>
+</svg>

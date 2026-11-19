@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="skull">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Cranium dome &amp; cheekbones -->
+          <path d="M7 14 C7 7.5 11 5 16 5 C21 5 25 7.5 25 14 C25 18 22.5 19 21.5 21 V26 H10.5 V21 C9.5 19 7 18 7 14 Z" />
+          <!-- Big hollow eye sockets -->
+          <circle cx="12.5" cy="14" r="2.5" fill="#000000" />
+          <circle cx="19.5" cy="14" r="2.5" fill="#000000" />
+          <!-- Inverted heart nasal cavity -->
+          <polygon points="16,17.5 15,19.5 17,19.5" fill="#000000" />
+          <!-- Teeth separator lines -->
+          <line x1="10.5" y1="23.5" x2="21.5" y2="23.5" />
+          <line x1="13.5" y1="21" x2="13.5" y2="26" />
+          <line x1="16" y1="21" x2="16" y2="26" />
+          <line x1="18.5" y1="21" x2="18.5" y2="26" />
+        </g>
+</svg>

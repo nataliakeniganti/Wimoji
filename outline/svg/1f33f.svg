@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="herb">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M8 27c6-7 10-13 14-20" />
+          <path d="M22 7c-3-2-6 0-6 3s3 5 6 3z" />
+          <path d="M18 13c-4-2-7 0-6 4s4 4 6 2z" />
+          <path d="M19 14c3-2 6 0 6 3s-3 4-6 2z" />
+          <path d="M14 20c-4-2-6 1-5 4s4 3 6 1z" />
+          <path d="M15 21c3-2 6 0 5 4s-4 3-6 1z" />
+        </g>
+</svg>

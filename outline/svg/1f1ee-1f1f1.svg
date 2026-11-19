@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-israel">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <line x1="2" y1="9.2" x2="30" y2="9.2" stroke-width="0.88" />
+          <line x1="2" y1="22.8" x2="30" y2="22.8" stroke-width="0.88" />
+          <polygon points="16,12.1 19.38,17.95 12.62,17.95" stroke-width="0.88" />
+          <polygon points="16,19.9 19.38,14.05 12.62,14.05" stroke-width="0.88" />
+        </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tamale">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Wrapped Corn Husk Parcel -->
+          <path d="M4 22L20 6c2-2 5-1 7 1l1 1c2 2 3 5 1 7L12 27c-2 2-5 1-7-1l-1-1c-2-2-2-2 0-3z" />
+          <!-- Husk Grain Lines -->
+          <line x1="7" y1="21" x2="22" y2="7" />
+          <line x1="9" y1="24" x2="25" y2="10" />
+          <!-- Tie cords on ends -->
+          <path d="M8 20l2 2" stroke-width="2.8" />
+          <path d="M22 6l2 2" stroke-width="2.8" />
+          <!-- Savory filling peeking out -->
+          <ellipse cx="24" cy="8" rx="2" ry="3" transform="rotate(45 24 8)" />
+        </g>
+</svg>

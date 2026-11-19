@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="oil-drum">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M8 6.5V25.5C8 27.2 11.6 28.5 16 28.5S24 27.2 24 25.5V6.5" />
+          <ellipse cx="16" cy="6.5" rx="8" ry="2.8" />
+          <path d="M7.4 12.6c2.2 1.5 15 1.5 17.2 0" />
+          <path d="M7.4 19.6c2.2 1.5 15 1.5 17.2 0" />
+          <ellipse cx="13.2" cy="6.4" rx="1.2" ry="0.6" />
+        </g>
+</svg>

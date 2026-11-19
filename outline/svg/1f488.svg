@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="barber-pole">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top globe and finial -->
+          <circle cx="16" cy="4" r="2.5" />
+          <path d="M12 7 H20" />
+          <!-- Cylinder pole -->
+          <rect x="12" y="7" width="8" height="18" rx="1" />
+          <!-- Diagonal helix barber stripes -->
+          <line x1="12" y1="10" x2="20" y2="14" />
+          <line x1="12" y1="14" x2="20" y2="18" />
+          <line x1="12" y1="18" x2="20" y2="22" />
+          <!-- Bottom wall bracket &amp; cap -->
+          <path d="M11 25 H21 V28 H11 Z" />
+        </g>
+</svg>

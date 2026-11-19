@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="wilted-flower">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Drooping bent stem -->
+          <path d="M17 29 C18 22 16 17 12 14" />
+          <!-- Drooping wilted leaf -->
+          <path d="M16 22 C19 21 22 23 21 26 C18 26.5 16.5 24.5 16 22 Z" />
+          <!-- Drooping rose blossom -->
+          <path d="M12 14 C10 13 8 13.5 7 15 C5.5 14 5 12 6.5 10 C8 8 11 9 12 11" />
+          <path d="M6 14 C4.5 16 6 19 9 19 C11 19 12.5 17 12 14" />
+          <path d="M7 11 C8 12.5 10 13 11 12" />
+        </g>
+</svg>

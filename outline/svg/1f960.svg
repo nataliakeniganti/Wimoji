@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="fortune-cookie">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Paper Slip -->
+          <rect x="18" y="7.5" width="8" height="4" rx="0.6" transform="rotate(22 22 9.5)" />
+          <!-- Folded Cookie -->
+          <path d="M8 9 C12 6.5 20 6.5 24 9 C27 13 26 19 23 23 C20 27 18 24 16 21 C14 24 12 27 9 23 C6 19 5 13 8 9 Z" />
+          <!-- Center Pinch Crease -->
+          <path d="M16 11 V21" />
+        </g>
+</svg>

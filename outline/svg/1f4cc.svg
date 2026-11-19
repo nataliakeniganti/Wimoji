@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="pushpin">
+<g transform="rotate(40 16 16)" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <!-- Steel needle -->
+        <path d="M15 18 H17 L16 29 Z" fill="none" stroke="#000000" stroke-width="1.4" />
+        <!-- Flat base disc -->
+        <rect x="8.5" y="15" width="15" height="3.5" rx="1.75" fill="none" />
+        <!-- Tapered body -->
+        <path d="M12.5 7 H19.5 L21 15 H11 Z" fill="none" />
+        <!-- Thumb cap -->
+        <rect x="10.5" y="3" width="11" height="4.5" rx="2" fill="none" />
+        <!-- Gloss highlight -->
+        
+      </g>
+</svg>

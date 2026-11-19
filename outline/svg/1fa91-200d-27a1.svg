@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="1fa91-200d-27a1">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Tall backrest on the left continuing down to back leg -->
+        <line x1="6.5" y1="3.5" x2="6.5" y2="27.5" stroke="#000000" stroke-width="2.5" />
+        <!-- Seat surface curving across to the right and turning down into front leg -->
+        <path d="M6.5 19.5 C10 20.3 17 20.3 20.5 19.5 V27.5" fill="none" stroke="#000000" stroke-width="2.5" />
+      </g>
+</svg>

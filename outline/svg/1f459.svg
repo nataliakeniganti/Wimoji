@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bikini">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Top cups -->
+          <polygon points="8,7 13,14 6,14" />
+          <polygon points="24,7 26,14 19,14" />
+          <line x1="13" y1="13" x2="19" y2="13" />
+          <!-- Bottom briefs -->
+          <path d="M8 20 H24 L18 26 H14 Z" />
+        </g>
+</svg>

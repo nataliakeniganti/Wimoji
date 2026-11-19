@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="desert">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Blazing Sun -->
+          <circle cx="23" cy="9" r="4" />
+          <!-- Sand Dunes -->
+          <path d="M2 22c5-3 10-1 16-4s8 1 12-2" />
+          <path d="M2 28c8-3 14 0 20-3s6 1 8 0" />
+          <!-- Saguaro Cactus -->
+          <path d="M9 13v15" />
+          <path d="M6 17v-2h3" />
+          <path d="M12 19v-3h-3" />
+        </g>
+</svg>

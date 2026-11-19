@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="lollipop">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Stick -->
+          <line x1="16" y1="20" x2="16" y2="30" />
+          <!-- Candy Disc -->
+          <circle cx="16" cy="11.5" r="9.5" />
+          <!-- Spiral swirl -->
+          <path d="M16 11.5c1 0 1.8 0.8 1.8 1.8s-1.2 2.2-2.5 2.2-3.8-1.5-3.8-3.8 2-5 5-5 6.5 2.8 6.5 6.5" />
+        </g>
+</svg>

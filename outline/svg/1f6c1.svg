@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bathtub">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Bathtub Basin -->
+          <path d="M3 15h26v4c0 5-4 8-9 8H12c-5 0-9-3-9-8v-4z" />
+          <!-- Claw Feet -->
+          <line x1="8" y1="27" x2="6" y2="30" />
+          <line x1="24" y1="27" x2="26" y2="30" />
+          <!-- Mixer Tap &amp; Shower Head -->
+          <path d="M6 15V8c0-1.5 1.5-2.5 3-2.5h2" />
+          <line x1="11" y1="5.5" x2="13" y2="8" />
+        </g>
+</svg>

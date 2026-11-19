@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="khanda">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Central double-edged sword -->
+        <line x1="16" y1="3" x2="16" y2="29" stroke-width="2.5" />
+        <line x1="13" y1="26" x2="19" y2="26" />
+        <!-- Chakkar circle -->
+        <circle cx="16" cy="15" r="5" />
+        <!-- Curved kirpans -->
+        <path d="M8 8c-3 5-3 12 3 17" />
+        <path d="M24 8c3 5 3 12-3 17" />
+      </g>
+</svg>

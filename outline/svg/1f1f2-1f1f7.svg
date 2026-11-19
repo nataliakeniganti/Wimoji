@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-mauritania">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <line x1="2" y1="9.5" x2="30" y2="9.5" stroke-width="0.9" />
+          <line x1="2" y1="22.5" x2="30" y2="22.5" stroke-width="0.9" />
+          <path d="M12.2 15.6 A4.2 3.8 0 0 0 19.8 15.6 A3.8 2.7 0 0 1 12.2 15.6 Z" stroke-width="0.85" />
+          <polygon points="16.00,12.10 16.36,13.10 17.43,13.14 16.59,13.79 16.88,14.81 16.00,14.22 15.12,14.81 15.41,13.79 14.57,13.14 15.64,13.10" stroke-width="0.75" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

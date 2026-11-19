@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="oncoming-bus">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="6" y="5" width="20" height="20" rx="4" />
+          <rect x="8" y="8" width="16" height="8" rx="1" />
+          <circle cx="10" cy="20" r="1.5" />
+          <circle cx="22" cy="20" r="1.5" />
+          <circle cx="9" cy="26" r="1.5" />
+          <circle cx="23" cy="26" r="1.5" />
+        </g>
+</svg>

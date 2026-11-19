@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="treasure-chest">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Domed Lid -->
+          <path d="M4 14 C4 8 9 5 16 5 C23 5 28 8 28 14 Z" />
+          <!-- Base Box -->
+          <rect x="4" y="14" width="24" height="13" rx="1.5" />
+          <!-- Planks and Straps -->
+          <line x1="4" y1="19.5" x2="28" y2="19.5" stroke-width="1.4" />
+          <line x1="8.5" y1="5.6" x2="8.5" y2="27" stroke-width="1.4" />
+          <line x1="11.5" y1="5.6" x2="11.5" y2="27" stroke-width="1.4" />
+          <line x1="20.5" y1="5.6" x2="20.5" y2="27" stroke-width="1.4" />
+          <line x1="23.5" y1="5.6" x2="23.5" y2="27" stroke-width="1.4" />
+          <rect x="14" y="12" width="4" height="5.5" rx="0.8" stroke-width="1.4" />
+        </g>
+</svg>

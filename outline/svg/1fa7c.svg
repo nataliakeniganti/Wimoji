@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="crutch">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="rotate(-35 16 16)">
+          <rect x="10" y="3" width="12" height="3.4" rx="1.7" />
+          <line x1="12" y1="6" x2="15" y2="19" stroke-width="1.4" />
+          <line x1="20" y1="6" x2="17" y2="19" stroke-width="1.4" />
+          <rect x="12.2" y="12.5" width="7.6" height="2.8" rx="1.4" stroke-width="1.4" />
+          <line x1="16" y1="18.5" x2="16" y2="27" />
+          <rect x="14.5" y="26.5" width="3" height="3.5" rx="1.2" />
+        </g>
+</svg>

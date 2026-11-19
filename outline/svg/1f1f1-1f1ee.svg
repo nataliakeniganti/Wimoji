@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-liechtenstein">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <line x1="2" y1="16" x2="30" y2="16" stroke-width="0.9" />
+          <path d="M5.2 12.6 Q5.2 9.8 7.8 9.8 Q10.4 9.8 10.4 12.6 Z M7.8 8.6 V9.8 M7.1 9.1 H8.5" stroke-width="0.85" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

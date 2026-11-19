@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-namibia">
+<defs><clipPath id="wimoji-flag-na-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-na-out-clip)">
+            <path d="M2 23.5 L26.5 6 M5.5 26 L30 8.5" stroke-width="0.9" />
+          </g>
+          <circle cx="8" cy="11.2" r="2.1" stroke-width="0.96" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

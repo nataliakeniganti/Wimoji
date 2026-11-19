@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="card-index">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Stand base -->
+          <path d="M5 26 H27 M8 26 L12 21 H20 L24 26" />
+          <!-- Rotary wheel knobs -->
+          <circle cx="6" cy="19" r="3" />
+          <circle cx="26" cy="19" r="3" />
+          <!-- Index card -->
+          <rect x="9" y="8" width="14" height="13" rx="1.5" />
+          <!-- Tab -->
+          <path d="M9 11 H15 V8 H9 Z" />
+          <line x1="12" y1="14" x2="20" y2="14" />
+        </g>
+</svg>

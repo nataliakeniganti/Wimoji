@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ribbon">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="16" cy="15" r="2.8" />
+          <path d="M13.5 14C8 10 4 12 5 16s7 2 8.5-0.5" />
+          <path d="M18.5 14C24 10 28 12 27 16s-7 2-8.5-0.5" />
+          <path d="M14 17l-4 10 5-2 2 3-1-10" />
+          <path d="M18 17l4 10-5-2-2 3 1-10" />
+        </g>
+</svg>

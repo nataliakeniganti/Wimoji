@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="tear-off-calendar">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="6" width="24" height="22" rx="3" />
+          <line x1="4" y1="12" x2="28" y2="12" />
+          <!-- Perforations -->
+          <line x1="4" y1="12" x2="28" y2="12" stroke-dasharray="1 1.5" />
+          <line x1="9" y1="3" x2="9" y2="7" />
+          <line x1="23" y1="3" x2="23" y2="7" />
+          <!-- Big bold 17 -->
+          <path d="M11 17 L13 15 V25 M17 15 H22 L18 25" stroke-width="2.5" />
+        </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="performing-arts">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Comedy Mask (Left) -->
+          <path d="M4 14C4 7 14 7 14 14s-2 10-5 10-5-3-5-10z" />
+          <circle cx="7" cy="12" r="1" />
+          <circle cx="11" cy="12" r="1" />
+          <path d="M6.5 17c1.5 2 3.5 2 5 0" />
+          <!-- Tragedy Mask (Right) -->
+          <path d="M18 16c0-7 10-7 10 0s-2 10-5 10-5-3-5-10z" />
+          <circle cx="21" cy="14" r="1" />
+          <circle cx="25" cy="14" r="1" />
+          <path d="M21 20c1.5-2 3.5-2 5 0" />
+        </g>
+</svg>

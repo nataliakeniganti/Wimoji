@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="motor-boat">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Hull -->
+          <path d="M4 22l3 3h16l5-8H11l-7 5z" />
+          <!-- Windshield &amp; Cabin -->
+          <path d="M12 17l4-5h6v5" />
+          <!-- Water Wake -->
+          <path d="M2 28c3-1 6-1 9 0s6 1 9 0 6-1 9 0" />
+        </g>
+</svg>

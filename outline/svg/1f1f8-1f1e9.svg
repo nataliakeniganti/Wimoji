@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-sudan">
+<defs><clipPath id="wimoji-flag-sd-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-sd-out-clip)">
+            <path d="M2 6 L13.8 16 L2 26" stroke-width="0.9" />
+            <line x1="9.8" y1="12.67" x2="30" y2="12.67" stroke-width="0.88" />
+            <line x1="9.8" y1="19.33" x2="30" y2="19.33" stroke-width="0.88" />
+          </g>
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

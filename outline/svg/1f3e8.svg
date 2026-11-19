@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hotel">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="6" y="5" width="20" height="23" rx="1.5" />
+          <!-- H Sign -->
+          <line x1="13" y1="8" x2="13" y2="13" />
+          <line x1="19" y1="8" x2="19" y2="13" />
+          <line x1="13" y1="10.5" x2="19" y2="10.5" />
+          <!-- Windows &amp; Canopy -->
+          <rect x="9" y="16" width="3.5" height="3" />
+          <rect x="19.5" y="16" width="3.5" height="3" />
+          <rect x="12" y="22" width="8" height="6" />
+        </g>
+</svg>

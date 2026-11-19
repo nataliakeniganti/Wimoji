@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-kiribati">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <path d="M2 18 Q5.5 17.1 9 18 T16 18 T23 18 T30 18" stroke-width="0.8" />
+          <path d="M2 21.4 Q5.5 20.5 9 21.4 T16 21.4 T23 21.4 T30 21.4" stroke-width="0.8" />
+          <path d="M11.6 18.0 A4.4 4.4 0 0 1 20.4 18.0" stroke-width="0.8" />
+          <path d="M12.2 10.6 Q16 8.8 19.8 10.6 Q16 9.8 12.2 10.6" stroke-width="0.8" />
+        </g>
+</svg>

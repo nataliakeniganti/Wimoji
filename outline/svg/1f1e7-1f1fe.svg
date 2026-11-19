@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-belarus">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <line x1="7.6" y1="6" x2="7.6" y2="26" stroke-width="1.1" />
+          <line x1="7.6" y1="19.3" x2="30" y2="19.3" stroke-width="1.1" />
+          <path d="M4.8 7.5 L6.4 9.5 L4.8 11.5 L3.2 9.5 Z M4.8 13.0 L6.4 15.0 L4.8 17.0 L3.2 15.0 Z M4.8 18.5 L6.4 20.5 L4.8 22.5 L3.2 20.5 Z M4.8 23.4 L6.0 24.8 L4.8 26.0 L3.6 24.8 Z" stroke-width="0.76" />
+        </g>
+</svg>

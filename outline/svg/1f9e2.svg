@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="billed-cap">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Crown dome -->
+          <path d="M6 19 C6 11 11 8 17 8 C23 8 26 11 26 19 Z" />
+          <!-- Visor bill -->
+          <path d="M21 18 C24 18 28.5 19 31 20.5 C29 23 23 22.5 18 19.5" />
+          <!-- Button and seams -->
+          <circle cx="17" cy="8" r="1.2" stroke-width="1.4" />
+          <path d="M17 8 C14 12 11 15 8 19" stroke-width="1.4" />
+          <path d="M17 8 C19 12 22 15 24 19" stroke-width="1.4" />
+        </g>
+</svg>

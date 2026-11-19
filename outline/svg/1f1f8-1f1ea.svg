@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-sweden">
+<defs><clipPath id="wimoji-flag-se-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-se-out-clip)">
+            <path d="M9.6 6 V14.2 H2 M13.2 6 V14.2 H30 M2 17.8 H9.6 V26 M13.2 26 V17.8 H30" stroke-width="0.9" />
+          </g>
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="dizzy">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- 5-point star -->
+          <polygon points="20,5 21.5,9.5 26,10 22.5,13 23.5,17.5 19.5,15 15.5,17.5 16.5,13 13,10 17.5,9.5" />
+          <!-- Swirling orbit rings -->
+          <ellipse cx="16" cy="17" rx="11" ry="5.5" transform="rotate(-20 16 17)" stroke-dasharray="14 3" />
+        </g>
+</svg>

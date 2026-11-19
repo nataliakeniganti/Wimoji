@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="shower">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M6 28V8a4 4 0 0 1 4-4h10v3.5" />
+          <path d="M14 7.5h12l-2.2 3.5h-7.6z" />
+          <path d="M15 15.5l-.8 3M20 15.5v3M25 15.5l.8 3M17.5 21.5l-.8 3M22.5 21.5l.8 3M15 27l-.5 1.5M20 27v1.5M25 27l.5 1.5" />
+        </g>
+</svg>

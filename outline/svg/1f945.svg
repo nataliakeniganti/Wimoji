@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="goal-net">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Goal Frame -->
+          <path d="M4 25 V9 C4 7.5 5.5 6.5 7 6.5 H25 C26.5 6.5 28 7.5 28 9 V25" />
+          <path d="M7 6.5 L10 11 H22 L25 6.5" />
+          <path d="M10 11 V25 M22 11 V25" />
+          <!-- Net Lines -->
+          <line x1="7" y1="16" x2="25" y2="16" stroke-width="1.4" />
+          <line x1="8" y1="21" x2="24" y2="21" stroke-width="1.4" />
+          <line x1="14" y1="6.5" x2="14" y2="25" stroke-width="1.4" />
+          <line x1="18" y1="6.5" x2="18" y2="25" stroke-width="1.4" />
+        </g>
+</svg>

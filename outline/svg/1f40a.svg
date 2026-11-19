@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="crocodile">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Legs -->
+        <path d="M10.5 19 L8.5 24.5 L12.8 24.5 L13.5 19.5 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <path d="M21 19.5 L20 24.5 L24.4 24.5 L24 19 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Body, long snout and tapering tail -->
+        <path d="M1.8 16.2 L8 13.6 C8.8 11.6 11.4 11.5 12.2 13.2 L20 13 C25 13.4 28 15.4 30.5 18 C27 18.4 24.4 19.8 22 20.6 L11.5 20.6 C8 20.6 6 18.8 1.8 17.6 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Belly -->
+        <path d="M6 19 C10 21 20 21 24 19.6" fill="none" stroke="none" stroke-width="1.2" />
+        <!-- Mouth line with teeth -->
+        <path d="M2.2 16.9 L8.4 17.1" fill="none" stroke="#000000" stroke-width="1.2000000000000002" />
+        <path d="M3.4 16.9 L4.1 18.2 L4.8 17 M5.8 17 L6.5 18.2 L7.2 17.1" fill="none" stroke="#000000" stroke-width="0.5" />
+        <!-- Back scutes -->
+        <path d="M13.5 13 L14.5 11.6 L15.6 13 M16.8 13 L17.8 11.6 L18.9 13 M20.1 13.1 L21.2 11.8 L22.3 13.4" fill="none" stroke="#000000" stroke-width="0.6" />
+        <!-- Eye -->
+        <circle cx="10" cy="12.6" r="1" fill="#000000" />
+        <circle cx="10" cy="12.6" r="0.45" fill="#000000" />
+        <circle cx="3.2" cy="15.3" r="0.4" fill="#000000" />
+      </g>
+</svg>

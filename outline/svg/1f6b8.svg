@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="children-crossing">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Diamond Caution Sign -->
+          <polygon points="16,2 30,16 16,30 2,16" />
+          <!-- Adult Stick Figure -->
+          <circle cx="13" cy="10" r="1.5" />
+          <path d="M13 12v5l2 5" />
+          <path d="M13 17l-2 5" />
+          <path d="M13 14l4 2" />
+          <!-- Child Stick Figure -->
+          <circle cx="20" cy="14" r="1.2" />
+          <path d="M20 15.5v3.5l1.5 3" />
+          <path d="M20 19l-1.5 3" />
+        </g>
+</svg>

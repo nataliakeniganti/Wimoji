@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-malaysia">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="13.8" height="11.43" stroke-width="0.88" />
+          <path d="M8.5 9.2 A2.7 2.7 0 1 0 8.5 14.2 A2.1 2.1 0 1 1 8.5 9.2 Z" stroke-width="0.75" />
+          <polygon points="11.30,9.90 11.67,10.93 12.71,10.58 12.13,11.51 13.05,12.10 11.96,12.23 12.08,13.32 11.30,12.55 10.52,13.32 10.64,12.23 9.55,12.10 10.47,11.51 9.89,10.58 10.93,10.93" stroke-width="0.65" />
+          <line x1="15.8" y1="8.86" x2="30" y2="8.86" stroke-width="0.7" /><line x1="15.8" y1="11.71" x2="30" y2="11.71" stroke-width="0.7" /><line x1="15.8" y1="14.57" x2="30" y2="14.57" stroke-width="0.7" /><line x1="2" y1="17.43" x2="30" y2="17.43" stroke-width="0.7" /><line x1="2" y1="20.29" x2="30" y2="20.29" stroke-width="0.7" /><line x1="2" y1="23.14" x2="30" y2="23.14" stroke-width="0.7" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

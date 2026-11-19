@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="linked-paperclips">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Left clip -->
+          <path d="M18.2 22 V9 A2.2 2.2 0 0 0 13.8 9 V24 A4.4 4.4 0 0 0 22.6 24 V8 A6.6 6.6 0 0 0 9.4 8 V22" transform="translate(10.5 16) scale(0.8) rotate(-24) translate(-16 -16)" />
+          <!-- Right clip -->
+          <path d="M18.2 22 V9 A2.2 2.2 0 0 0 13.8 9 V24 A4.4 4.4 0 0 0 22.6 24 V8 A6.6 6.6 0 0 0 9.4 8 V22" transform="translate(21.5 16) scale(0.8) rotate(24) translate(-16 -16)" />
+        </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="giraffe">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Long Thin Legs -->
+        <path d="M14.4 21 V29 M17.2 21.6 V29 M22.6 21.6 V29 M25.2 21 V29" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Tail -->
+        <path d="M26 17.6 C28.2 18.6 28.6 21.8 27.4 24.4" fill="none" stroke="#000000" stroke-width="1.3" />
+        <!-- Body &amp; Very Long Neck -->
+        <path d="M11.8 6.4 L14.4 6.4 L17.6 16.6 L23.8 16.2 C25.8 16.2 26.8 17.6 26.6 19.8 C26.4 21.6 24.6 22.4 21.6 22.4 H15.6 C13.4 22.4 12.6 20.4 12.6 17.4 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Ossicones &amp; Ear -->
+        <path d="M12.4 5.2 L12.4 2.6 M14.2 5.4 L14.6 2.8" fill="none" stroke="#000000" stroke-width="1.2" />
+        <circle cx="12.4" cy="2.6" r="0.8" fill="#000000" />
+        <circle cx="14.6" cy="2.8" r="0.8" fill="#000000" />
+        <path d="M14.4 6 L16.8 5 L15.4 7.4 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Head -->
+        <path d="M14 5.6 C11.4 4.8 8.4 6.2 7.2 7.8 C6.4 8.8 7.2 10.2 8.8 10 C11 9.8 13.4 9.2 14.6 7.8 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Giraffe Spots -->
+        <circle cx="14.6" cy="11.6" r="1.2" fill="#000000" />
+        <circle cx="15.8" cy="15.2" r="1.3" fill="#000000" />
+        <circle cx="19.6" cy="19" r="1.5" fill="#000000" />
+        <circle cx="23.4" cy="18.8" r="1.3" fill="#000000" />
+        <circle cx="11.6" cy="6.8" r="0.75" fill="#000000" /><circle cx="11.862499999999999" cy="6.5375" r="0.28500000000000003" fill="none" />
+      </g>
+</svg>

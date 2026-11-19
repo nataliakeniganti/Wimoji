@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-marshall-islands">
+<defs><clipPath id="wimoji-flag-mh-out-clip"><rect x="2" y="6" width="28" height="20" rx="3" /></clipPath></defs>
+        <g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <g clip-path="url(#wimoji-flag-mh-out-clip)">
+            <path d="M2 24.8 L30 7.2 M2 25.8 L30 13.6" stroke-width="0.8" />
+          </g>
+          <polygon points="8.40,8.20 8.74,10.14 10.00,8.63 9.32,10.48 11.17,9.80 9.66,11.06 11.60,11.40 9.66,11.74 11.17,13.00 9.32,12.32 10.00,14.17 8.74,12.66 8.40,14.60 8.06,12.66 6.80,14.17 7.48,12.32 5.63,13.00 7.14,11.74 5.20,11.40 7.14,11.06 5.63,9.80 7.48,10.48 6.80,8.63 8.06,10.14" stroke-width="0.75" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-st-barthelemy">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <path d="M12.6 12.2 H19.4 V16.8 C19.4 19.2 16 20.8 16 20.8 C16 20.8 12.6 19.2 12.6 16.8 Z" stroke-width="1.1" />
+          <line x1="12.6" y1="14.8" x2="19.4" y2="14.8" stroke-width="0.9" />
+          <line x1="12.6" y1="17.2" x2="19.4" y2="17.2" stroke-width="0.9" />
+          <path d="M12.4 11.4 H19.6 M11.4 21.8 H20.6" stroke-width="0.9" />
+          <path d="M11.6 14.0 C10.4 15.2 10.6 17.8 12.2 19.0 M20.4 14.0 C21.6 15.2 21.4 17.8 19.8 19.0" stroke-width="0.9" />
+        </g>
+</svg>

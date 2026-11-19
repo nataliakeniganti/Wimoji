@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-guam">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <rect x="3.4" y="7.4" width="25.2" height="17.2" rx="2.0" stroke-width="0.84" />
+          <path d="M16 10.6 C19.0 13.0 19.0 19.0 16 21.4 C13.0 19.0 13.0 13.0 16 10.6 Z" stroke-width="1" />
+        </g>
+</svg>

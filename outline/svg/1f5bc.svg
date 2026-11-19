@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="framed-picture">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Picture frame -->
+          <rect x="3" y="5" width="26" height="22" rx="2" />
+          <rect x="6" y="8" width="20" height="16" rx="1" />
+          <!-- Sun in photo -->
+          <circle cx="10.5" cy="12.5" r="2" />
+          <!-- Mountain landscape -->
+          <path d="M6 21 L12 14 L17 19 L20 16 L26 22" />
+        </g>
+</svg>

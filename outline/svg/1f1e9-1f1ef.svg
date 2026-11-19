@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-djibouti">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+          <path d="M2 6 L15.2 16 L2 26" stroke-width="1.2" />
+          <line x1="15.2" y1="16" x2="30" y2="16" stroke-width="1.1" />
+          <polygon points="7.20,13.70 7.76,15.23 9.39,15.29 8.10,16.29 8.55,17.86 7.20,16.95 5.85,17.86 6.30,16.29 5.01,15.29 6.64,15.23" stroke-width="0.9" />
+        </g>
+</svg>

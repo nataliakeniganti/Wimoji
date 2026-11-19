@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="black-nib">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Collar Base at top right -->
+          <line x1="20" y1="8" x2="25" y2="13" stroke-width="2.8" />
+          <!-- Calligraphy curved flared wings (curved shoulders, not straight arrow) -->
+          <path d="M20 8c-3 3-5 3-8 8l-7 11 11-7c5-3 5-5 9-9z" />
+          <!-- Breather hole and ink slit -->
+          <circle cx="14" cy="18" r="1.3" />
+          <line x1="5" y1="27" x2="13" y2="19" />
+        </g>
+</svg>

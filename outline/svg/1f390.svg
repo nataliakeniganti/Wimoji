@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="wind-chime">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <line x1="16" y1="3" x2="16" y2="7" />
+          <path d="M8 15c0-5 3.5-8 8-8s8 3 8 8c-3-1-13-1-16 0z" />
+          <line x1="16" y1="15" x2="16" y2="21" />
+          <rect x="14" y="21" width="4" height="8" rx="0.5" />
+        </g>
+</svg>

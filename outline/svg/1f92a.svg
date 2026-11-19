@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="zany-face">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="rotate(-15 16 16)">
+          <ellipse cx="16" cy="16" rx="12.5" ry="12.5" />
+          <!-- Big wide crazy eye -->
+          <circle cx="11" cy="12" r="3.5" />
+          <circle cx="11" cy="12" r="1.5" fill="#000000" />
+          <!-- Small squinting crazy eye -->
+          <circle cx="21" cy="13" r="2" />
+          <circle cx="21" cy="13" r="1" fill="#000000" />
+          <!-- Goofy tilted open mouth with tongue -->
+          <path d="M10 18 C12 23 20 23 22 18 Z" />
+          <path d="M14 20 C14 24 18 24 18 20" />
+        </g>
+</svg>

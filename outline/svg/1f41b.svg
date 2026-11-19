@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="bug">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Antennae -->
+        <path d="M22 9.4 C21.4 7.2 20.4 6.4 19.2 6.2 M26 8.8 C26.6 6.6 27.8 5.8 29 5.8" fill="none" stroke="#000000" stroke-width="1.1" />
+        <circle cx="19.2" cy="6.2" r="0.9" fill="none" stroke="#000000" stroke-width="0.6" />
+        <circle cx="29" cy="5.8" r="0.9" fill="none" stroke="#000000" stroke-width="0.6" />
+        <path d="M4.4 24.8 V27 M6.2 24.8 V27" fill="none" stroke="#000000" stroke-width="1.2" /><path d="M8.6 22.500000000000004 V24.700000000000003 M10.4 22.500000000000004 V24.700000000000003" fill="none" stroke="#000000" stroke-width="1.2" /><path d="M13.6 21.200000000000003 V23.400000000000002 M15.4 21.200000000000003 V23.400000000000002" fill="none" stroke="#000000" stroke-width="1.2" /><path d="M18.8 21.6 V23.8 M20.6 21.6 V23.8" fill="none" stroke="#000000" stroke-width="1.2" /><path d="M23.599999999999998 23 V25.2 M25.4 23 V25.2" fill="none" stroke="#000000" stroke-width="1.2" />
+        <circle cx="5.2" cy="22.4" r="2.8" fill="none" stroke="#000000" stroke-width="1.5" /><circle cx="9.4" cy="19.6" r="3.3" fill="none" stroke="#000000" stroke-width="1.5" /><circle cx="14.4" cy="18" r="3.6" fill="none" stroke="#000000" stroke-width="1.5" /><circle cx="19.6" cy="18.2" r="3.8" fill="none" stroke="#000000" stroke-width="1.5" /><circle cx="24.4" cy="20" r="3.4" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Head -->
+        <circle cx="24.6" cy="14.2" r="5" fill="none" stroke="#000000" stroke-width="1.5" />
+        <circle cx="23" cy="13.4" r="0.9" fill="#000000" />
+        <circle cx="27" cy="13.4" r="0.9" fill="#000000" />
+        <path d="M23.2 16.2 C24.2 17.2 25.8 17.2 26.8 16.2" fill="none" stroke="#000000" stroke-width="0.8" />
+        <circle cx="22" cy="15.4" r="0.8" fill="none" stroke="none" />
+        <circle cx="28" cy="15.4" r="0.8" fill="none" stroke="none" />
+      </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="playground-slide">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <line x1="6" y1="28" x2="6" y2="7" />
+          <line x1="6" y1="12" x2="10" y2="12" />
+          <line x1="6" y1="17" x2="10" y2="17" />
+          <line x1="6" y1="22" x2="10" y2="22" />
+          <line x1="10" y1="28" x2="10" y2="7" />
+          <path d="M10 7h4c2 0 3 1.5 4 4l5 11c.8 1.8 2.2 2.5 4 2.5h2" />
+        </g>
+</svg>

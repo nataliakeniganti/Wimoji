@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="clapper-board">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="13" width="24" height="15" rx="2" />
+          <!-- Tilted clapper arm -->
+          <g transform="rotate(-15 4 13)">
+            <rect x="4" y="8" width="24" height="5" rx="1" />
+            <line x1="9" y1="8" x2="12" y2="13" />
+            <line x1="15" y1="8" x2="18" y2="13" />
+            <line x1="21" y1="8" x2="24" y2="13" />
+          </g>
+        </g>
+</svg>

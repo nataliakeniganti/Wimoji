@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="church">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M16 3v5M14 5h4" />
+          <path d="M12 9l4-3 4 3v18H12V9z" />
+          <path d="M6 17l6-3v13H6V17z" />
+          <path d="M26 17l-6-3v13h6V17z" />
+          <path d="M14 27v-5h4v5" />
+        </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="high-speed-train">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M29 20H3v-9c0-3 3-5 7-5h9c6 0 10 5 10 9v5z" />
+          <line x1="3" y1="14" x2="25" y2="14" />
+          <circle cx="9" cy="23" r="2" />
+          <circle cx="23" cy="23" r="2" />
+        </g>
+</svg>

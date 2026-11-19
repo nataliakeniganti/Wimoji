@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="ice-cream-bowl">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Footed glass cup -->
+          <path d="M6 18c0 4 4.5 5.5 10 5.5s10-1.5 10-5.5H6z" />
+          <path d="M14 23.5v3.5h-3v1h10v-1h-3v-3.5" />
+          <!-- Scoops -->
+          <circle cx="11.5" cy="15" r="4.5" />
+          <circle cx="20.5" cy="15" r="4.5" />
+          <circle cx="16" cy="12" r="4.5" />
+          <!-- Cherry on top -->
+          <circle cx="16" cy="6.5" r="2" />
+          <path d="M16 4.5c1-2 3-2.5 4-2" />
+        </g>
+</svg>

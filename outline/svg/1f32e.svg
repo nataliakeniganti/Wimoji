@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="taco">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Back shell rim -->
+          <path d="M4 23C4 13 9 6.5 16 6.5s12 6.5 12 16.5" />
+          <!-- Front shell -->
+          <path d="M2.5 24.5C2.5 20.5 7 17 16 17s13.5 3.5 13.5 7.5c0 1.4-.8 2-2 2H4.5c-1.2 0-2-.6-2-2z" />
+          <!-- Lettuce wave -->
+          <path d="M5 16c2-2 4-2 6 0s4 2 6 0 4-2 6 0 4 2 5 0" />
+          <!-- Tomato chunks -->
+          <rect x="9.5" y="11.5" width="2.8" height="2.8" rx="0.6" transform="rotate(15 10.9 12.9)" />
+          <rect x="15" y="10" width="2.8" height="2.8" rx="0.6" transform="rotate(-10 16.4 11.4)" />
+          <rect x="20.5" y="12" width="2.8" height="2.8" rx="0.6" transform="rotate(25 21.9 13.4)" />
+        </g>
+</svg>

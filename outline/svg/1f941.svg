@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="drum">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Drum Body Shell -->
+          <ellipse cx="16" cy="11.5" rx="10" ry="3.5" />
+          <path d="M6 11.5 V22.5 C6 24.5 10 26 16 26 C22 26 26 24.5 26 22.5 V11.5" />
+          <!-- Tension Cords Zig-Zag -->
+          <path d="M6 12 L11 25 L16 13 L21 25 L26 12" stroke-width="1.5" />
+          <!-- Crossed Drumsticks -->
+          <line x1="5" y1="4" x2="14" y2="11.5" />
+          <line x1="27" y1="4" x2="18" y2="11.5" />
+          <circle cx="14" cy="11.5" r="0.8" fill="#000000" />
+          <circle cx="18" cy="11.5" r="0.8" fill="#000000" />
+        </g>
+</svg>

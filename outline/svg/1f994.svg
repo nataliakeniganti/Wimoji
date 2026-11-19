@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="hedgehog">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Little Feet -->
+        <ellipse cx="10.4" cy="25.6" rx="2" ry="1.1" fill="none" stroke="#000000" stroke-width="1.5" />
+        <ellipse cx="19.6" cy="25.6" rx="2" ry="1.1" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Spiky Back Mantle -->
+        <path d="M11.8 12.2 L12.4 8.2 L15.4 10.2 L17.6 6.8 L19.8 9.8 L23 7.6 L23.8 11.2 L27.4 10.6 L26.4 14.2 L29.4 15.6 L27 18.6 L28.8 21.6 L25 22.8 L24.6 25.4 L11.4 25.4 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Tan Face &amp; Nose -->
+        <path d="M12.2 12.4 C9.6 13.4 6.8 16.4 4.2 19.6 C3.4 20.6 4.2 22.4 6.2 23.4 C8.8 24.6 12.6 24.8 14.8 23.6 C16 20.4 15.2 14.8 12.2 12.4 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Round Ear -->
+        <circle cx="12.2" cy="14.2" r="2" fill="none" stroke="#000000" stroke-width="1.5" />
+        <circle cx="4.4" cy="20.4" r="1.2" fill="#000000" />
+        <circle cx="9.2" cy="17.6" r="1.05" fill="#000000" /><circle cx="9.567499999999999" cy="17.2325" r="0.399" fill="none" />
+      </g>
+</svg>

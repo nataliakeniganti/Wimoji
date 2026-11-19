@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="baguette-bread">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M5 24 C3 22 4 19 6 17 L21 5 C24 2.5 27 3.5 28 6 C29 8.5 27.5 11 25 13 L10 25 C8 27 5.5 26 5 24 Z" />
+          <!-- Diagonal Baker's Slashes -->
+          <line x1="9" y1="17" x2="12" y2="19" stroke-width="1.5" />
+          <line x1="14" y1="12" x2="17" y2="14" stroke-width="1.5" />
+          <line x1="19" y1="7" x2="22" y2="9" stroke-width="1.5" />
+        </g>
+</svg>

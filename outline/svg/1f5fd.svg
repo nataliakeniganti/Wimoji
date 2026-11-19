@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="statue-of-liberty">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Torch &amp; Flame -->
+          <circle cx="25" cy="5" r="2" />
+          <line x1="25" y1="7" x2="25" y2="12" />
+          <!-- Spiked Crown 7 Rays -->
+          <path d="M10 10l2-4 2 3.5 2-4.5 2 4.5 2-3.5 2 4" />
+          <!-- Head Profile &amp; Neck -->
+          <circle cx="16" cy="13" r="3.5" />
+          <!-- Torso Robes -->
+          <path d="M9 28c0-7 3-11 7-11s7 4 7 11z" />
+          <path d="M13 17l6 11M19 17l-3 11" />
+        </g>
+</svg>

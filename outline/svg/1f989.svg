@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="owl">
+<g stroke-linecap="round" stroke-linejoin="round">
+        <!-- Claws -->
+        <path d="M12.8 26.8 L12 29 M12.8 26.8 L13.8 29 M19.2 26.8 L18.2 29 M19.2 26.8 L20 29" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Plump Body &amp; Ear Tufts -->
+        <path d="M8.8 5.4 L11.8 8 C14.4 7.4 17.6 7.4 20.2 8 L23.2 5.4 L22.6 10.6 C24.4 13.4 24.6 18.4 22.8 22.8 C21.2 26 18.8 27.2 16 27.2 C13.2 27.2 10.8 26 9.2 22.8 C7.4 18.4 7.6 13.4 9.4 10.6 Z" fill="none" stroke="#000000" stroke-width="1.5" />
+        <!-- Wings -->
+        <path d="M8.4 15.4 C7.2 18.4 8 22.4 10.4 24 C11 21 11 18 10.2 15.8 Z" fill="none" stroke="#000000" stroke-width="1.5" /><g transform="matrix(-1 0 0 1 32 0)"><path d="M8.4 15.4 C7.2 18.4 8 22.4 10.4 24 C11 21 11 18 10.2 15.8 Z" fill="none" stroke="#000000" stroke-width="1.5" /></g>
+        <!-- Cream Belly with Feathers -->
+        <ellipse cx="16" cy="21" rx="4.4" ry="4.6" fill="none" stroke="#000000" stroke-width="1.5" />
+        <path d="M14.2 19.8 C14.8 20.4 15.4 20.4 16 19.8 C16.6 20.4 17.2 20.4 17.8 19.8 M13.8 22.2 C14.6 22.8 15.4 22.8 16 22.2 C16.6 22.8 17.4 22.8 18.2 22.2" fill="none" stroke="#000000" stroke-width="0.9" />
+        <!-- Large Facial Discs &amp; Eyes -->
+        <circle cx="12.6" cy="12.4" r="3" fill="none" stroke="#000000" stroke-width="1.5" />
+        <circle cx="12.6" cy="12.4" r="1.4" fill="#000000" />
+        <circle cx="13.1" cy="11.9" r="0.45" fill="none" /><g transform="matrix(-1 0 0 1 32 0)"><circle cx="12.6" cy="12.4" r="3" fill="none" stroke="#000000" stroke-width="1.5" />
+        <circle cx="12.6" cy="12.4" r="1.4" fill="#000000" />
+        <circle cx="13.1" cy="11.9" r="0.45" fill="none" /></g>
+        <!-- Orange Beak -->
+        <path d="M15 13.2 H17 L16 15.6 Z" fill="none" stroke="#000000" stroke-width="0.8" />
+      </g>
+</svg>

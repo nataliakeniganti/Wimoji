@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="night-with-stars">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="4" y="4" width="24" height="24" rx="4" />
+          <path d="M6 28v-9h5v9M11 28v-14h6v14M17 28v-8h5v8M22 28v-11h4v11" />
+          <circle cx="8" cy="8" r="0.8" fill="#000000" />
+          <circle cx="15" cy="7" r="0.8" fill="#000000" />
+          <circle cx="22" cy="9" r="0.8" fill="#000000" />
+        </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="flag-taiwan">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="2" y="6" width="13.8" height="10" stroke-width="0.9" />
+          <polygon points="8.90,8.00 9.29,9.55 10.40,8.40 9.96,9.94 11.50,9.50 10.35,10.61 11.90,11.00 10.35,11.39 11.50,12.50 9.96,12.06 10.40,13.60 9.29,12.45 8.90,14.00 8.51,12.45 7.40,13.60 7.84,12.06 6.30,12.50 7.45,11.39 5.90,11.00 7.45,10.61 6.30,9.50 7.84,9.94 7.40,8.40 8.51,9.55" stroke-width="0.75" />
+          <rect x="2" y="6" width="28" height="20" rx="3" />
+        </g>
+</svg>

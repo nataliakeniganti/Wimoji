@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="avocado">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M16 4 C11 4 8 9 7 15 C6 21.5 10 28 16 28 C22 28 26 21.5 25 15 C24 9 21 4 16 4 Z" />
+          <path d="M16 5.8 C12 5.8 9.5 10 8.8 15 C8 20.5 11.2 26.2 16 26.2 C20.8 26.2 24 20.5 23.2 15 C22.5 10 20 5.8 16 5.8 Z" stroke-width="1.5" />
+          <circle cx="16" cy="18.5" r="4.6" />
+        </g>
+</svg>

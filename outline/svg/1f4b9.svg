@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="chart-increasing-with-yen">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <rect x="3" y="3" width="26" height="26" rx="5" />
+          <!-- Upward surge line -->
+          <path d="M6 22 L12 17 L17 20 L25 10" stroke-width="2.5" />
+          <polyline points="21,10 25,10 25,14" stroke-width="2.5" />
+          <!-- Yen symbol -->
+          <path d="M8 8 L10.5 12 L13 8 M10.5 12 V15 M9 13.5 H12" />
+        </g>
+</svg>

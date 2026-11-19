@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="stadium">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Colosseum Bowl Outer Rim -->
+          <ellipse cx="16" cy="18" rx="13" ry="8" />
+          <ellipse cx="16" cy="17" rx="9" ry="5" />
+          <!-- Floodlight Towers -->
+          <line x1="5" y1="13" x2="5" y2="7" />
+          <rect x="3" y="6" width="4" height="2" />
+          <line x1="27" y1="13" x2="27" y2="7" />
+          <rect x="25" y="6" width="4" height="2" />
+          <!-- Arches on Outer Wall -->
+          <path d="M7 21v2M11 23v2M16 24v2M21 23v2M25 21v2" />
+        </g>
+</svg>

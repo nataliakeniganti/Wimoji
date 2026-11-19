@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mosque">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Main building &amp; portal -->
+          <rect x="10" y="15" width="12" height="12" />
+          <path d="M13.5 27 V20 C13.5 18.5 18.5 18.5 18.5 20 V27" />
+          <!-- Central onion dome -->
+          <path d="M10 15 C10 10 14 7 16 6 C18 7 22 10 22 15 Z" />
+          <path d="M16 6 V4" />
+          <!-- Left minaret -->
+          <rect x="4" y="9" width="4" height="18" />
+          <path d="M4 9 L6 5 L8 9 Z" />
+          <!-- Right minaret -->
+          <rect x="24" y="9" width="4" height="18" />
+          <path d="M24 9 L26 5 L28 9 Z" />
+        </g>
+</svg>

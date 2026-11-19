@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="alarm-clock">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="16" cy="17" r="9" />
+          <path d="M16 12v5l3 2" />
+          <path d="M7 6l3 3M25 6l-3 3" />
+          <path d="M9 25l-2 3M23 25l2 3" />
+        </g>
+</svg>

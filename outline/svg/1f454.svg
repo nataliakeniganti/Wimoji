@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="necktie">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M6 7 L12 11 L16 8 L20 11 L26 7 L23 17 H9 Z" />
+          <!-- Tie knot -->
+          <polygon points="14,10 18,10 17,14 15,14" />
+          <!-- Tie body -->
+          <polygon points="15,14 17,14 19,25 16,28 13,25" />
+        </g>
+</svg>

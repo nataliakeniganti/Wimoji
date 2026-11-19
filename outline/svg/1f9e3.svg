@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="scarf">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Neck wrap -->
+          <rect x="6" y="6" width="20" height="9" rx="4.5" />
+          <!-- Hanging tails -->
+          <path d="M10 14 V26 H15 V14" />
+          <path d="M15 14 V22 H19 V14" />
+          <!-- Fringe -->
+          <path d="M11 26 v2.5 M12.5 26 v2.5 M14 26 v2.5 M16 22 v2.5 M18 22 v2.5" stroke-width="1.4" />
+        </g>
+</svg>

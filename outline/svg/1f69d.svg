@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="monorail">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Monorail Beam -->
+          <line x1="2" y1="23" x2="30" y2="23" />
+          <line x1="16" y1="23" x2="16" y2="29" />
+          <!-- Monorail Cab Body -->
+          <path d="M4 22V12c0-3 3-5 7-5h9c5 0 8 3 8 7v8c0 1-1 1-2 1h-2v-3H8v3H6c-1 0-2 0-2-1z" />
+          <!-- Windows -->
+          <rect x="7" y="10" width="4" height="4" rx="1" />
+          <rect x="13" y="10" width="4" height="4" rx="1" />
+          <path d="M19 10h4c2 0 3 1 3 3v1h-7v-4z" />
+          <!-- Headlight -->
+          <circle cx="26" cy="18" r="1" />
+        </g>
+</svg>

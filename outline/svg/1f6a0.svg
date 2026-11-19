@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="mountain-cableway">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Diagonal Main Cable -->
+          <line x1="2" y1="6" x2="30" y2="14" />
+          <!-- Trolley Wheel &amp; Hanger -->
+          <circle cx="16" cy="10" r="1.5" />
+          <path d="M16 10v6l-2 3" />
+          <!-- Gondola Cabin -->
+          <rect x="8" y="17" width="16" height="12" rx="3" />
+          <rect x="11" y="19" width="10" height="5" rx="1" />
+        </g>
+</svg>

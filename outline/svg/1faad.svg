@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="folding-hand-fan">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Fan leaf arc -->
+          <path d="M4 19 C7 10 12 6 16 6 C20 6 25 10 28 19 L16 26 Z" />
+          <!-- Ribs -->
+          <line x1="16" y1="26" x2="8" y2="14" stroke-width="1.4" />
+          <line x1="16" y1="26" x2="12" y2="9" stroke-width="1.4" />
+          <line x1="16" y1="26" x2="16" y2="7" stroke-width="1.4" />
+          <line x1="16" y1="26" x2="20" y2="9" stroke-width="1.4" />
+          <line x1="16" y1="26" x2="24" y2="14" stroke-width="1.4" />
+          <circle cx="16" cy="26" r="1.5" />
+        </g>
+</svg>

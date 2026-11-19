@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" data-vendor="wimoji" data-id="doughnut">
+<g stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Donut outer circle -->
+          <circle cx="16" cy="16" r="11.5" />
+          <!-- Inner hole circle -->
+          <circle cx="16" cy="16" r="4.2" />
+          <!-- Wavy frosting boundary -->
+          <path d="M6 16c0-4 3-7 7-8s7 0 9 3 2 7-1 9-6 3-9 2-6-3-6-6z" />
+          <!-- Sprinkles -->
+          <line x1="10" y1="11" x2="12" y2="12" />
+          <line x1="19" y1="10" x2="21" y2="11" />
+          <line x1="22" y1="16" x2="23" y2="18" />
+          <line x1="14" y1="8" x2="16" y2="8" />
+          <line x1="9" y1="19" x2="11" y2="20" />
+        </g>
+</svg>
