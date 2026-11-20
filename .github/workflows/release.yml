@@ -50,7 +50,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           TAG_NAME: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.ref_name }}
-        run: gh release create "$TAG_NAME" \
-          --title "Wimoji $TAG_NAME" \
-          --notes-file "$RUNNER_TEMP/release-notes.md" \
-          --target "$GITHUB_SHA"
+        run: |
+          gh release create "$TAG_NAME" \
+            --title "Wimoji $TAG_NAME" \
+            --notes-file "$RUNNER_TEMP/release-notes.md" \
+            --target "$GITHUB_SHA"
