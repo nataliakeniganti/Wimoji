@@ -700,18 +700,18 @@ export const HomeView: React.FC<HomeViewProps> = ({
         </div>
       </section>
 
-      {/* 5. Upcoming Release v1.0.1 & Export CTA */}
+      {/* 5. Wimoji v1.0.1 & Export CTA */}
       <section className="border-t border-neutral-900 bg-neutral-900/20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
           <div className="rounded-xl border border-neutral-800 bg-neutral-950 p-6 sm:p-8 flex flex-col lg:flex-row lg:items-center justify-between gap-8">
             <div className="space-y-3 max-w-2xl">
               <div className="text-xs font-medium text-neutral-400">
-                <span className="text-amber-400 font-mono tabular-nums">Upcoming v1.0.1</span>
+                <span className="text-amber-400 font-mono tabular-nums">Wimoji v1.0.1</span>
                 <span aria-hidden="true" className="mx-2 text-neutral-700">·</span>
-                <span>Scheduled for November 20, 2026</span>
+                <span>Released November 20, 2026</span>
               </div>
               <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-white text-balance">
-                {allIcons.length.toLocaleString()} vector emojis ready for the 1.0.1 release.
+                {allIcons.length.toLocaleString()} vector emojis in the 1.0.1 release.
               </h2>
               <p className="text-sm text-neutral-400 leading-relaxed">
                 Complete A–Z pole-free world flags, all 30 family unit symbols, facing-right motion ZWJs, 332 Fitzpatrick skin-tonable emojis plus 475 multi-tone duo pairs, and npm distribution via <code className="text-neutral-200 font-mono">npm install wimoji</code>.

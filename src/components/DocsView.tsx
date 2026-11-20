@@ -160,7 +160,7 @@ export function DashboardHeader() {
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
           <h2 className="text-lg font-bold text-white">Developer Integration</h2>
           <span className="font-mono text-xs text-amber-400 tabular-nums">
-            v1.0.1 · Upcoming Nov 20, 2026
+            v1.0.1 · Released Nov 20, 2026
           </span>
         </div>
 

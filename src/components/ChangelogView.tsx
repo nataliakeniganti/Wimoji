@@ -31,11 +31,11 @@ const CHANGELOG_DATA: ChangelogEntry[] = [
   {
     version: 'v1.0.1',
     date: 'November 20, 2026',
-    badge: 'Upcoming Release',
-    badgeColor: 'bg-amber-500/10 text-amber-400 border-amber-500/20',
+    badge: 'Released',
+    badgeColor: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20',
     title: 'Initial Public Release: 2,189 Vector Emojis, Multi-Style Engine, Full A–Z Flags & npm Package',
     summary:
-      'Upcoming v1.0.1 release on November 20, 2026, shipping all 2,189 vector emojis drafted on a strict 32×32 grid across 4 rendering modes (Color, Duotone, Outline, Silhouette), complete A–Z pole-free country and subdivision flags, all 30 Unicode family units (symbol tile system including unified 👪), 18 facing-right person ZWJs, 20 gendered gesture ZWJs, 332 Fitzpatrick skin-tonable base emojis × 6 tones, 475 multi-tone duo pairs, interactive Emoji Picker, Style Playground, and npm distribution via wimoji.',
+      'Released on November 20, 2026, Wimoji 1.0.1 ships all 2,189 vector emojis drafted on a strict 32×32 grid across 4 rendering modes (Color, Duotone, Outline, Silhouette), complete A–Z pole-free country and subdivision flags, all 30 Unicode family units (symbol tile system including unified 👪), 18 facing-right person ZWJs, 20 gendered gesture ZWJs, 332 Fitzpatrick skin-tonable base emojis × 6 tones, 475 multi-tone duo pairs, interactive Emoji Picker, Style Playground, and npm distribution via wimoji.',
     emojis: [
       '😀', '🥹', '🫡', '🫨', '🫪', '😮‍💨', '😶‍🌫️', '😵‍💫', '🙂‍↔️', '🙂‍↕️', '❤️‍🔥', '❤️‍🩹', '🫶', '🫰', '🤝',
       '👪', '🧑‍🧑‍🧒', '🧑‍🧑‍🧒‍🧒', '🧑‍🧒', '🧑‍🧒‍🧒', '👨‍👩‍👦', '👨‍👩‍👧', '👨‍👩‍👧‍👦', '👨‍👨‍👧', '👩‍👩‍👦', '👨‍👧', '👩‍👦',
@@ -179,13 +179,13 @@ export const ChangelogView: React.FC<ChangelogViewProps> = ({
         <div>
           <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full text-xs font-semibold bg-amber-500/10 text-amber-400 border border-amber-500/20 mb-3">
             <Sparkles className="h-3 w-3" />
-            <span>Upcoming 1.0.1 Launch Roadmap</span>
+            <span>Wimoji 1.0.1 Release</span>
           </div>
           <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
             Wimoji Changelog
           </h1>
           <p className="mt-2 text-sm text-neutral-400 max-w-2xl text-balance">
-            Release notes and launch manifest for Wimoji 1.0.1, scheduled for November 20, 2026 across all 4 vector styles and npm distribution.
+            Release notes for Wimoji 1.0.1, released November 20, 2026 across all 4 vector styles and npm distribution.
           </p>
         </div>
 
@@ -291,7 +291,7 @@ export const ChangelogView: React.FC<ChangelogViewProps> = ({
               </div>
               <div className="flex items-center gap-2 text-xs text-neutral-400">
                 <Calendar className="h-3.5 w-3.5" />
-                <span>Upcoming · {entry.date}</span>
+                <span>Released · {entry.date}</span>
               </div>
             </div>
 
