@@ -5,7 +5,7 @@ import sys
 import xml.etree.ElementTree as ET
 
 
-MAX_LAYERS_PER_FONT = 10_000
+MAX_PATHS_PER_FONT = 20_000
 
 
 def count_paths(svg_path: Path) -> int:
@@ -19,35 +19,35 @@ def main() -> int:
     )
     parser.add_argument("source_dir", type=Path)
     parser.add_argument("manifest", type=Path)
-    parser.add_argument("--max-layers", type=int, default=MAX_LAYERS_PER_FONT)
+    parser.add_argument("--max-paths", type=int, default=MAX_PATHS_PER_FONT)
     args = parser.parse_args()
-    if args.max_layers < 1:
-        parser.error("--max-layers must be at least one")
+    if args.max_paths < 1:
+        parser.error("--max-paths must be at least one")
 
     sources = sorted(args.source_dir.glob("*.svg"))
     if not sources:
         parser.error(f"No SVG files found in {args.source_dir}")
 
     shards: list[list[Path]] = [[]]
-    shard_layers = 0
+    shard_paths = 0
     for source in sources:
         try:
             path_count = count_paths(source)
         except (ET.ParseError, OSError) as error:
             print(f"Could not inspect {source}: {error}", file=sys.stderr)
             return 1
-        if path_count > args.max_layers:
+        if path_count > args.max_paths:
             print(
                 f"{source} has {path_count} paths, exceeding the per-font "
-                f"limit of {args.max_layers}",
+                f"limit of {args.max_paths}",
                 file=sys.stderr,
             )
             return 1
-        if shard_layers and shard_layers + path_count > args.max_layers:
+        if shard_paths and shard_paths + path_count > args.max_paths:
             shards.append([])
-            shard_layers = 0
+            shard_paths = 0
         shards[-1].append(source)
-        shard_layers += path_count
+        shard_paths += path_count
 
     args.manifest.parent.mkdir(parents=True, exist_ok=True)
     with args.manifest.open("w", encoding="utf-8") as manifest:
@@ -57,7 +57,7 @@ def main() -> int:
 
     print(
         f"Planned {len(sources)} SVGs across {len(shards)} COLR0 font shards "
-        f"(maximum {args.max_layers} paths per shard)"
+        f"(maximum {args.max_paths} paths per shard)"
     )
     return 0
 

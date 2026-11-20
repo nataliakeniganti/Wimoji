@@ -75,7 +75,7 @@ The **Generate SVGs** GitHub Actions workflow runs for relevant changes on `main
 
 The **Generate PNGs** workflow runs after successful SVG generation, when SVG assets are pushed directly, or by manual dispatch. It writes color PNGs into `color/png/` and black outline PNGs into `outline/png/`, each with `64x64/`, `128x128/`, `256x256/`, and `512x512/` size directories, then commits changes to `main`.
 
-The **Generate Fonts** workflow runs after PNG generation or by manual dispatch. It writes validated OpenType fonts into `font/`: outline glyf, CBDT, COLR0+SVG, COLR1+SVG, glyf COLR0, glyf COLR1, picosvgz, sbix, and untouchedsvgz. The two COLR0 variants are split into separately installable font shards to stay below the OpenType 16-bit layer-index limit. Unsupported SVG elements are normalized out for vector fonts; any SVGs that cannot be normalized are reported and skipped. Bitmap fonts rasterize the SVG sources at 128 pixels; CBDT and sbix builds share the rendered bitmap cache.
+The **Generate Fonts** workflow runs after PNG generation or by manual dispatch. It writes validated OpenType fonts into `font/`: outline glyf, CBDT, COLR0+SVG, COLR1+SVG, glyf COLR0, glyf COLR1, picosvgz, sbix, and untouchedsvgz. The two COLR0 variants are split into separately installable font shards to stay below the OpenType 16-bit layer-index limit. Unsupported SVG elements are normalized out for vector fonts; any SVGs that cannot be normalized are reported and skipped. CBDT and sbix rasterize the SVG sources at 128 pixels and share the rendered bitmap cache.
 
 ## Website deployment
 
