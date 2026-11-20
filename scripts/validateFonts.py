@@ -17,6 +17,14 @@ FONT_SPECS = {
     "Wimoji-color-sbix": (("sbix",), None, "bitmap"),
     "Wimoji-color-untouchedsvgz": (("SVG ",), None, "raw-color"),
 }
+SHARDED_FONTS = {"Wimoji-color-colr0_svg", "Wimoji-color-glyf_colr_0"}
+
+
+def font_paths(font_root: Path, name: str) -> list[Path]:
+    font_dir = font_root / name
+    if name in SHARDED_FONTS:
+        return sorted(font_dir.glob(f"{name}-*.ttf"))
+    return [font_dir / f"{name}.ttf"]
 
 
 def main() -> int:
@@ -35,44 +43,54 @@ def main() -> int:
 
     errors = []
     for name, (required_tables, colr_version, count_kind) in FONT_SPECS.items():
-        font_path = args.font_root / name / f"{name}.ttf"
-        if not font_path.is_file() or font_path.stat().st_size == 0:
-            errors.append(f"{font_path} is missing or empty")
+        paths = font_paths(args.font_root, name)
+        if not paths or any(
+            not path.is_file() or path.stat().st_size == 0 for path in paths
+        ):
+            errors.append(
+                f"{args.font_root / name} is missing font files or contains an empty font"
+            )
             continue
 
         font_errors = []
-        font = TTFont(font_path)
-        try:
-            missing_tables = [table for table in required_tables if table not in font]
-            if missing_tables:
+        total_glyphs = 0
+        for font_path in paths:
+            try:
+                font = TTFont(font_path)
+                try:
+                    missing_tables = [
+                        table for table in required_tables if table not in font
+                    ]
+                    if missing_tables:
+                        font_errors.append(
+                            f"{font_path} is missing tables: {', '.join(missing_tables)}"
+                        )
+                    elif colr_version is not None and font["COLR"].version != colr_version:
+                        font_errors.append(
+                            f"{font_path} has COLR version {font['COLR'].version}, "
+                            f"expected {colr_version}"
+                        )
+                    if not font.getBestCmap():
+                        font_errors.append(f"{font_path} has no Unicode character map")
+                    total_glyphs += len(font.getGlyphOrder())
+                finally:
+                    font.close()
+            except Exception as error:
                 font_errors.append(
-                    f"{font_path} is missing tables: {', '.join(missing_tables)}"
+                    f"Could not validate {font_path}: {type(error).__name__}: {error}"
                 )
-            else:
-                if colr_version is not None and font["COLR"].version != colr_version:
-                    font_errors.append(
-                        f"{font_path} has COLR version {font['COLR'].version}, "
-                        f"expected {colr_version}"
-                    )
-                minimum_glyphs = expected_counts[count_kind] + 2
-                if len(font.getGlyphOrder()) < minimum_glyphs:
-                    font_errors.append(
-                        f"{font_path} has {len(font.getGlyphOrder())} glyphs; "
-                        f"expected at least {minimum_glyphs}"
-                    )
-                if not font.getBestCmap():
-                    font_errors.append(f"{font_path} has no Unicode character map")
-        except Exception as error:
+        minimum_glyphs = expected_counts[count_kind] + 2
+        if total_glyphs < minimum_glyphs:
             font_errors.append(
-                f"Could not validate {font_path}: {type(error).__name__}: {error}"
+                f"{args.font_root / name} has {total_glyphs} total glyphs across "
+                f"{len(paths)} fonts; expected at least {minimum_glyphs}"
             )
-        finally:
-            font.close()
-
         if font_errors:
             errors.extend(font_errors)
         else:
-            print(f"Validated {font_path}")
+            print(
+                f"Validated {args.font_root / name} ({len(paths)} font(s))"
+            )
 
     if errors:
         print("\n".join(errors), file=sys.stderr)
