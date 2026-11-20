@@ -6,6 +6,8 @@ cd "$repo_root"
 
 font_root=${FONT_ROOT:-font}
 work_dir=${FONT_WORK_DIR:-"${RUNNER_TEMP:-/tmp}/wimoji-fonts"}
+font_root=$(realpath -m "$font_root")
+work_dir=$(realpath -m "$work_dir")
 color_svg_dir="$work_dir/color"
 outline_svg_dir="$work_dir/outline"
 bitmap_build_dir="$work_dir/build-color-bitmaps"
