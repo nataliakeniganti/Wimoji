@@ -86,6 +86,13 @@ and deployment source to **GitHub Actions**; publishing the repository root
 with the legacy Jekyll source will serve uncompiled TypeScript and leave the
 app blank.
 
+## Releases
+
+The **Create release** GitHub Actions workflow creates a GitHub Release when a
+`v*` tag is pushed. The tag must match the version in `package.json`, and the
+release notes are taken from the matching section in [`CHANGELOG.md`](CHANGELOG.md).
+See [`HISTORY.md`](HISTORY.md) for a brief project timeline.
+
 ## License
 
 Unless otherwise noted, Wimoji's original code and artwork are licensed under
