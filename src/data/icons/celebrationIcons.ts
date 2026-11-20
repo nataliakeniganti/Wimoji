@@ -207,44 +207,95 @@ export const celebrationIcons: WimojiIconDef[] = [
     name: 'Santa Claus',
     unicodeHex: 'U+1F385',
     category: 'faces-hands',
-    tags: ['santa', 'claus', 'father christmas', 'christmas', 'beard', 'hat', 'holiday', 'winter', 'yellow', '🎅'],
+    tags: ['santa', 'claus', 'father christmas', 'christmas', 'beard', 'hat', 'holiday', 'winter', '🎅'],
     renderContent: (opts) => {
-      const c = resolveColors(opts, { fillPrimary: '#EF4444', fillSecondary: '#FFFFFF', fillAccent: '#FFCA28', stroke: '#DC2626' });
+      const c = resolveColors(opts, { fillPrimary: '#EF4444', fillSecondary: '#FFFFFF', stroke: '#DC2626' });
       const badge = getBadgeMarkup(opts);
-      if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="round" stroke-linejoin="round" fill="none">
-          <!-- Hat -->
-          <path d="M8 11c1-6 5-8 9-8 4 0 9 2 9 6l-1 2H8z" />
-          <rect x="7" y="10" width="18" height="3" rx="1.5" />
-          <circle cx="26" cy="12" r="2.2" />
-          <!-- Face with Yellow Skin outline -->
-          <ellipse cx="16" cy="14.5" rx="5.5" ry="4.5" />
-          <circle cx="13.5" cy="13.5" r="0.8" fill="${c.stroke}" />
-          <circle cx="18.5" cy="13.5" r="0.8" fill="${c.stroke}" />
+      const sw = opts.strokeWidth ?? 2;
+      const o = opts.style === 'outline';
+      const d = opts.style === 'duotone';
+      const s = opts.style === 'silhouette';
+
+      const shouldersPath = 'M7.2 32 C7.2 25.8 11 23.6 16 23.6 C21 23.6 24.8 25.8 24.8 32 Z';
+      const beardPath = 'M9.5 15.2 C8.4 20.0 9.6 26.0 13.0 27.8 C14.5 28.6 17.5 28.6 19.0 27.8 C22.4 26.0 23.6 20.0 22.5 15.2 C21.8 17.4 20.2 18.4 18.4 18.6 C17.4 19.6 14.6 19.6 13.6 18.6 C11.8 18.4 10.2 17.4 9.5 15.2 Z';
+      const moustachePath = 'M16 17.0 C14.4 16.4 12.0 16.8 11.2 18.2 C12.6 19.0 14.6 18.8 16 17.9 C17.4 18.8 19.4 19.0 20.8 18.2 C20.0 16.8 17.6 16.4 16 17.0 Z';
+      const hatPath = 'M9 9.4 C10 3.8 13.6 2.2 17.2 2.4 C21 2.6 25 4.8 25.2 8.8 L24 9.8 H9 Z';
+      const brimPath = 'M8.2 10.2 A1.6 1.6 0 0 1 9.8 8.6 H22.2 A1.6 1.6 0 0 1 23.8 10.2 A1.6 1.6 0 0 1 22.2 11.8 H9.8 A1.6 1.6 0 0 1 8.2 10.2 Z';
+
+      if (o) {
+        const thin = Math.max(1.1, sw * 0.65);
+        return `${badge}<g stroke="${c.stroke}" stroke-width="${sw}" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Shoulders -->
+          <path d="${shouldersPath}" />
+          <!-- Ears & Face -->
+          <path d="M9.8 14.4 C8.4 14.4 8.4 17.0 9.6 17.2" stroke-width="${thin}" />
+          <path d="M22.2 14.4 C23.6 14.4 23.6 17.0 22.4 17.2" stroke-width="${thin}" />
+          <path d="M10.1 11.8 C9.8 13.2 9.8 14.4 9.9 15.6" stroke-width="${thin}" />
+          <path d="M21.9 11.8 C22.2 13.2 22.2 14.4 22.1 15.6" stroke-width="${thin}" />
           <!-- Fluffy Beard & Moustache -->
-          <path d="M16 15.5c-2 0-3.5 1-4.5 0s2-1.5 4.5-1c2.5-.5 5.5 0 4.5 1s-2.5 0-4.5 0z" />
-          <path d="M9 14c-2 3-2 10 1 13 3 3 11 3 14 0 3-3 3-10 1-13" />
+          <path d="${beardPath}" />
+          <path d="${moustachePath}" stroke-width="${thin}" />
+          <!-- Brows & Eyes -->
+          <path d="M11.6 12.8 Q13.4 12.0 14.8 12.8 M17.2 12.8 Q18.6 12.0 20.4 12.8" stroke-width="${thin}" />
+          <circle cx="13.5" cy="14.6" r="0.85" fill="${c.stroke}" stroke="none" />
+          <circle cx="18.5" cy="14.6" r="0.85" fill="${c.stroke}" stroke="none" />
+          <!-- Hat, Brim & Pompom -->
+          <path d="${hatPath}" />
+          <rect x="8.2" y="8.6" width="15.6" height="3.2" rx="1.6" />
+          <circle cx="25.6" cy="9.8" r="2.1" />
         </g>`;
       }
+
+      if (s) {
+        return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
+          <path d="${shouldersPath}" fill="${c.primary}" />
+          <ellipse cx="9.4" cy="15.8" rx="1.2" ry="1.7" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <ellipse cx="22.6" cy="15.8" rx="1.2" ry="1.7" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <ellipse cx="16" cy="15.0" rx="6.2" ry="5.4" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <path d="${beardPath}" fill="${c.primary}" stroke="#FFFFFF" stroke-width="1.0" />
+          <path d="${moustachePath}" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <circle cx="13.5" cy="14.6" r="0.9" fill="#FFFFFF" />
+          <circle cx="18.5" cy="14.6" r="0.9" fill="#FFFFFF" />
+          <path d="${hatPath}" fill="${c.primary}" />
+          <path d="${brimPath}" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <circle cx="25.6" cy="9.8" r="2.1" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+        </g>`;
+      }
+
+      const suitRed = c.primary;
+      const trimWhite = d ? c.secondary : '#FFFFFF';
+      const trimStroke = d ? c.stroke : '#CBD5E1';
+      const hatStroke = d ? c.stroke : '#B91C1C';
+      const skinFill = d ? c.secondary : '#FFCA28';
+      const skinStroke = d ? c.stroke : '#FFA000';
+
       return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Fluffy White Beard (bottom) -->
-        <path d="M9 14c-2 3-2 10 1 13 3 3 11 3 14 0 3-3 3-10 1-13-2 2-4 3-8 3s-6-1-8-3z" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.8" />
-        <!-- Cheerful Face with Classic Yellow Skin -->
-        <ellipse cx="16" cy="14" rx="5.5" ry="4.5" fill="${c.accent}" />
-        <circle cx="13.5" cy="13" r="0.9" fill="#1E293B" />
-        <circle cx="18.5" cy="13" r="0.9" fill="#1E293B" />
+        <!-- Red Santa Suit Shoulders -->
+        <path d="${shouldersPath}" fill="${suitRed}" stroke="${hatStroke}" stroke-width="0.8" />
+        <!-- Ears -->
+        <ellipse cx="9.4" cy="15.8" rx="1.2" ry="1.7" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.75" />
+        <ellipse cx="22.6" cy="15.8" rx="1.2" ry="1.7" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.75" />
+        <!-- Face -->
+        <ellipse cx="16" cy="15.0" rx="6.2" ry="5.4" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.8" />
+        <!-- Fluffy White Beard -->
+        <path d="${beardPath}" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.75" />
         <!-- Rosy Cheeks & Button Nose -->
-        <circle cx="11.5" cy="14.5" r="1.3" fill="#F472B6" opacity="0.6" />
-        <circle cx="20.5" cy="14.5" r="1.3" fill="#F472B6" opacity="0.6" />
-        <circle cx="16" cy="14" r="1.2" fill="#F87171" />
+        ${d ? '' : '<ellipse cx="11.6" cy="16.2" rx="1.2" ry="0.8" fill="#F472B6" opacity="0.55" /><ellipse cx="20.4" cy="16.2" rx="1.2" ry="0.8" fill="#F472B6" opacity="0.55" /><ellipse cx="16" cy="16.0" rx="1.25" ry="0.95" fill="#F87171" />'}
+        <!-- Bushy White Eyebrows -->
+        <path d="M11.6 12.8 Q13.4 11.9 14.9 12.7 M17.1 12.7 Q18.6 11.9 20.4 12.8" fill="none" stroke="${trimWhite}" stroke-width="1.45" />
+        <!-- Cheerful Eyes -->
+        <circle cx="13.5" cy="14.6" r="0.9" fill="#37474F" />
+        <circle cx="18.5" cy="14.6" r="0.9" fill="#37474F" />
+        <!-- Warm Smile Peeking Below Moustache -->
+        <path d="M14.5 19.6 C15.3 20.5 16.7 20.5 17.5 19.6" fill="none" stroke="${d ? c.stroke : '#E11D48'}" stroke-width="1.2" />
         <!-- White Moustache -->
-        <path d="M16 15c-2 0-4 1.5-5 0.5s2-2 5-1c3-1 6 0 5 1s-3-0.5-5-0.5z" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.6" />
+        <path d="${moustachePath}" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.65" />
         <!-- Red Santa Hat -->
-        <path d="M8 11c1-6 5-8 9-8 4 0 9 2 9 6l-1 2H8z" fill="${c.primary}" stroke="#B91C1C" stroke-width="0.8" />
-        <!-- Hat Fluffy Trim -->
-        <rect x="7" y="10" width="18" height="3" rx="1.5" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.6" />
+        <path d="${hatPath}" fill="${suitRed}" stroke="${hatStroke}" stroke-width="0.8" />
+        <!-- Fluffy White Hat Brim -->
+        <rect x="8.2" y="8.6" width="15.6" height="3.2" rx="1.6" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.7" />
         <!-- Hat Pompom Ball -->
-        <circle cx="26" cy="12" r="2.2" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.6" />
+        <circle cx="25.6" cy="9.8" r="2.1" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.7" />
       </g>`;
     },
   },
@@ -254,42 +305,102 @@ export const celebrationIcons: WimojiIconDef[] = [
     name: 'Mx Claus',
     unicodeHex: 'U+1F9D1 U+200D U+1F384',
     category: 'faces-hands',
-    tags: ['mx claus', 'christmas', 'santa', 'santa hat', 'smiley', 'smile', 'holiday', 'winter', 'claus', '🧑🎄', '🧑‍🎄'],
+    tags: ['mx claus', 'christmas', 'santa', 'santa hat', 'older person', 'silver hair', 'grey hair', 'gender neutral', 'holiday', 'winter', 'claus', '🧑🎄', '🧑‍🎄'],
     renderContent: (opts) => {
-      const c = resolveColors(opts, { fillPrimary: '#EF4444', fillSecondary: '#FFFFFF', fillAccent: '#FFCA28', stroke: '#DC2626' });
+      const c = resolveColors(opts, { fillPrimary: '#EF4444', fillSecondary: '#FFFFFF', stroke: '#DC2626' });
       const badge = getBadgeMarkup(opts);
-      if (opts.style === 'outline') {
-        return `${badge}<g stroke="${c.stroke}" stroke-width="${opts.strokeWidth}" stroke-linecap="round" stroke-linejoin="round" fill="none">
-          <!-- Santa Hat on Top -->
-          <path d="M7 11.5c1-6.5 5-8.5 9-8.5 4.5 0 9.5 2.5 9.5 7l-1 2H7z" />
-          <rect x="6" y="10" width="20" height="3.5" rx="1.75" />
-          <circle cx="26" cy="11.5" r="2.2" />
-          <!-- Classic Smiling Face Circle -->
-          <circle cx="16" cy="18" r="9" />
-          <ellipse cx="12.5" cy="16.5" rx="1.3" ry="1.8" fill="${c.stroke}" />
-          <ellipse cx="19.5" cy="16.5" rx="1.3" ry="1.8" fill="${c.stroke}" />
-          <path d="M12 20.5c1.2 2 2.5 2.5 4 2.5s2.8-.5 4-2.5" />
+      const sw = opts.strokeWidth ?? 2;
+      const o = opts.style === 'outline';
+      const d = opts.style === 'duotone';
+      const s = opts.style === 'silhouette';
+
+      const hatPath = 'M9 9.2 C10 3.6 13.6 2.2 17.2 2.4 C21 2.6 25 4.8 25.2 8.8 L24 9.6 H9 Z';
+      const brimPath = 'M8.2 10.2 A1.6 1.6 0 0 1 9.8 8.6 H22.2 A1.6 1.6 0 0 1 23.8 10.2 A1.6 1.6 0 0 1 22.2 11.8 H9.8 A1.6 1.6 0 0 1 8.2 10.2 Z';
+      const shouldersPath = 'M7.2 32 C7.2 25.4 11 23.4 16 23.4 C21 23.4 24.8 25.4 24.8 32 Z';
+      const collarPath = 'M11.8 23.5 C13 25.8 14.5 26.8 16 26.8 C17.5 26.8 19 25.8 20.2 23.5 C18.8 24.1 17.4 24.3 16 24.3 C14.6 24.3 13.2 24.1 11.8 23.5 Z';
+      const hairPath = 'M9.5 15.6 C9.1 12.6 10.2 10.6 12.2 10.2 H19.8 C21.8 10.6 22.9 12.6 22.5 15.6 C21.8 13.8 20.6 12.6 18.8 11.8 C17 13.2 13.8 13.8 10.6 13.8 C10 14.3 9.7 15 9.5 15.6 Z';
+
+      if (o) {
+        const thin = Math.max(1.1, sw * 0.65);
+        return `${badge}<g stroke="${c.stroke}" stroke-width="${sw}" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <!-- Shoulders & Fur Collar -->
+          <path d="${shouldersPath}" />
+          <path d="${collarPath}" stroke-width="${thin}" />
+          <!-- Neck & Ears -->
+          <path d="M13.8 21.8 V23.8 M18.2 21.8 V23.8" stroke-width="${thin}" />
+          <path d="M9.8 15.2 C8.3 15.2 8.3 18.4 9.8 18.4" stroke-width="${thin}" />
+          <path d="M22.2 15.2 C23.7 15.2 23.7 18.4 22.2 18.4" stroke-width="${thin}" />
+          <!-- Head & Older Swept Hair Fringe -->
+          <ellipse cx="16" cy="16.2" rx="6.3" ry="6.3" />
+          <path d="M10.2 14 C13.5 14 16.8 13.4 18.8 11.8 C20.4 12.6 21.5 13.5 22.1 14.6" stroke-width="${thin}" />
+          <!-- Older-Person Brows, Crow's Feet & Eyes -->
+          <path d="M11.6 15.0 C12.5 14.3 14.1 14.3 14.8 15.0 M17.2 15.0 C17.9 14.3 19.5 14.3 20.4 15.0" stroke-width="${thin}" />
+          <path d="M10.9 16.4 L11.7 16.7 M10.9 17.6 L11.7 17.4 M21.1 16.4 L20.3 16.7 M21.1 17.6 L20.3 17.4" stroke-width="${Math.max(0.8, thin * 0.65)}" />
+          <circle cx="13.5" cy="16.7" r="0.85" fill="${c.stroke}" stroke="none" />
+          <circle cx="18.5" cy="16.7" r="0.85" fill="${c.stroke}" stroke="none" />
+          <path d="M14.1 19.8 C15.1 20.8 16.9 20.8 17.9 19.8" stroke-width="${thin}" />
+          <!-- Santa Hat, Brim & Pompom -->
+          <path d="${hatPath}" />
+          <rect x="8.2" y="8.6" width="15.6" height="3.2" rx="1.6" />
+          <circle cx="25.6" cy="9.8" r="2.1" />
         </g>`;
       }
+
+      if (s) {
+        return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
+          <path d="${shouldersPath}" fill="${c.primary}" />
+          <path d="M11.8 23.6 C13.2 25.4 14.6 26.2 16 26.2 C17.4 26.2 18.8 25.4 20.2 23.6" fill="none" stroke="#FFFFFF" stroke-width="1.1" />
+          <ellipse cx="9.6" cy="16.8" rx="1.2" ry="1.8" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <ellipse cx="22.4" cy="16.8" rx="1.2" ry="1.8" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <ellipse cx="16" cy="16.2" rx="6.3" ry="6.3" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <path d="${hatPath}" fill="${c.primary}" />
+          <path d="${brimPath}" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <circle cx="25.6" cy="9.8" r="2.1" fill="${c.primary}" stroke="#FFFFFF" stroke-width="0.9" />
+          <path d="M11.6 15.0 C12.5 14.3 14.1 14.3 14.8 15.0 M17.2 15.0 C17.9 14.3 19.5 14.3 20.4 15.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" />
+          <circle cx="13.5" cy="16.7" r="0.95" fill="#FFFFFF" />
+          <circle cx="18.5" cy="16.7" r="0.95" fill="#FFFFFF" />
+          <path d="M14.1 19.8 C15.1 20.8 16.9 20.8 17.9 19.8" fill="none" stroke="#FFFFFF" stroke-width="1.2" />
+        </g>`;
+      }
+
+      const suitRed = c.primary;
+      const trimWhite = d ? c.secondary : '#FFFFFF';
+      const trimStroke = d ? c.stroke : '#CBD5E1';
+      const hatStroke = d ? c.stroke : '#B91C1C';
+      const skinFill = d ? c.secondary : '#FFCA28';
+      const skinStroke = d ? c.stroke : '#FFA000';
+      const hairColor = d ? c.secondary : '#CFD8DC';
+      const browGrey = d ? c.stroke : '#90A4AE';
+
       return `${badge}<g stroke-linecap="round" stroke-linejoin="round">
-        <!-- Classic Yellow Smiley Face Base -->
-        <circle cx="16" cy="18" r="9.5" fill="${c.accent}" stroke="#FFA000" stroke-width="0.8" />
-        <!-- Cheerful Smiling Eyes -->
-        <ellipse cx="12.5" cy="16.5" rx="1.4" ry="1.9" fill="#1E293B" />
-        <ellipse cx="19.5" cy="16.5" rx="1.4" ry="1.9" fill="#1E293B" />
-        <circle cx="13" cy="15.8" r="0.5" fill="#FFFFFF" />
-        <circle cx="20" cy="15.8" r="0.5" fill="#FFFFFF" />
-        <!-- Rosy Cheeks -->
-        <circle cx="10" cy="18.5" r="1.4" fill="#F472B6" opacity="0.6" />
-        <circle cx="22" cy="18.5" r="1.4" fill="#F472B6" opacity="0.6" />
-        <!-- Kind Smiley Mouth (using 🙂 form) -->
-        <path d="M12 20.5c1.2 2 2.5 2.6 4 2.6s2.8-.6 4-2.6" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round" fill="none" />
-        <!-- Red Santa Stocking Cap -->
-        <path d="M7 11.5c1-6.5 5-8.5 9-8.5 4.5 0 9.5 2.5 9.5 7l-1 2H7z" fill="${c.primary}" stroke="#B91C1C" stroke-width="0.8" />
+        <!-- Holiday Suit Shoulders & White Collar Trim -->
+        <path d="${shouldersPath}" fill="${suitRed}" stroke="${hatStroke}" stroke-width="0.8" />
+        <path d="${collarPath}" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.6" />
+        <!-- Neck -->
+        <path d="M13.8 20.4 H18.2 V24.2 H13.8 Z" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.7" />
+        <!-- Ears -->
+        <ellipse cx="9.6" cy="16.8" rx="1.2" ry="1.8" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.75" />
+        <ellipse cx="22.4" cy="16.8" rx="1.2" ry="1.8" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.75" />
+        <!-- Older Person Head -->
+        <ellipse cx="16" cy="16.2" rx="6.3" ry="6.3" fill="${skinFill}" stroke="${skinStroke}" stroke-width="0.8" />
+        <!-- Silver-Grey Swept Hair Under Hat -->
+        <path d="${hairPath}" fill="${hairColor}" stroke="${browGrey}" stroke-width="0.5" />
+        <!-- Subtle Forehead & Crow's-Feet Age Lines -->
+        <path d="M12.6 13.6 C14.5 13.1 17.5 13.1 19.4 13.6" fill="none" stroke="${skinStroke}" stroke-width="0.65" opacity="0.75" />
+        <path d="M10.8 16.3 L11.7 16.6 M10.8 17.6 L11.7 17.3 M21.2 16.3 L20.3 16.6 M21.2 17.6 L20.3 17.3" fill="none" stroke="${skinStroke}" stroke-width="0.65" opacity="0.75" />
+        <!-- Soft Rosy Cheeks -->
+        ${d ? '' : '<ellipse cx="11.6" cy="18.6" rx="1.2" ry="0.8" fill="#F472B6" opacity="0.5" /><ellipse cx="20.4" cy="18.6" rx="1.2" ry="0.8" fill="#F472B6" opacity="0.5" />'}
+        <!-- Silver-Grey Eyebrows, Eyes & Friendly Smile -->
+        <path d="M11.6 15.1 C12.5 14.3 14.1 14.3 14.9 15.1 M17.1 15.1 C17.9 14.3 19.5 14.3 20.4 15.1" fill="none" stroke="${browGrey}" stroke-width="1.25" />
+        <circle cx="13.5" cy="16.7" r="0.95" fill="#37474F" />
+        <circle cx="18.5" cy="16.7" r="0.95" fill="#37474F" />
+        <path d="M14.1 19.8 C15.1 20.8 16.9 20.8 17.9 19.8" fill="none" stroke="#37474F" stroke-width="1.2" />
+        <!-- Red Santa Hat -->
+        <path d="${hatPath}" fill="${suitRed}" stroke="${hatStroke}" stroke-width="0.8" />
         <!-- Fluffy White Fur Brim -->
-        <rect x="6" y="10" width="20" height="3.5" rx="1.75" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.7" />
+        <rect x="8.2" y="8.6" width="15.6" height="3.2" rx="1.6" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.7" />
         <!-- Fluffy White Pompom Ball -->
-        <circle cx="26" cy="11.5" r="2.3" fill="${c.secondary}" stroke="#E2E8F0" stroke-width="0.7" />
+        <circle cx="25.6" cy="9.8" r="2.1" fill="${trimWhite}" stroke="${trimStroke}" stroke-width="0.7" />
       </g>`;
     },
   },
