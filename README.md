@@ -1,5 +1,15 @@
 # Wimoji
 
+[![Deploy website](https://github.com/nataliakeniganti/Wimoji/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/deploy-pages.yml)
+[![Generate SVGs](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-svgs.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-svgs.yml)
+[![Generate PNGs](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-pngs.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-pngs.yml)
+[![Generate Fonts](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-fonts.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-fonts.yml)
+[![Latest release](https://img.shields.io/github/v/release/nataliakeniganti/Wimoji)](https://github.com/nataliakeniganti/Wimoji/releases)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![Node.js >=18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Built with Bun](https://img.shields.io/badge/built%20with-Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
+[![Last commit](https://img.shields.io/github/last-commit/nataliakeniganti/Wimoji)](https://github.com/nataliakeniganti/Wimoji/commits/main)
+
 Wimoji is an open vector emoji and icon library with a browser-based studio for finding, customizing, and exporting SVG artwork.
 
 ## Announcement
