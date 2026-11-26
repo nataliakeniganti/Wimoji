@@ -5,9 +5,13 @@
 [![Generate PNGs](https://img.shields.io/github/actions/workflow/status/nataliakeniganti/Wimoji/generate-pngs.yml?style=for-the-badge&logo=github&label=GENERATE%20PNGS&labelColor=555)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-pngs.yml)
 [![Generate Fonts](https://img.shields.io/github/actions/workflow/status/nataliakeniganti/Wimoji/generate-fonts.yml?style=for-the-badge&logo=github&label=GENERATE%20FONTS&labelColor=555)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-fonts.yml)
 [![Version](https://img.shields.io/github/v/tag/nataliakeniganti/Wimoji?style=for-the-badge&logo=github&label=VERSION&labelColor=555&color=007ec6)](https://github.com/nataliakeniganti/Wimoji/tags)
+[![npm](https://img.shields.io/npm/v/wimoji?style=for-the-badge&logo=npm&label=NPM&labelColor=555)](https://www.npmjs.com/package/wimoji)
+[![Fonts](https://img.shields.io/badge/FONTS-9%20FORMATS-2b6cb0?style=for-the-badge&logo=opentype&logoColor=white&labelColor=555)](font/)
+[![Artwork](https://img.shields.io/badge/ARTWORK-SVG%20%2B%20PNG-8a2be2?style=for-the-badge&logo=svg&logoColor=white&labelColor=555)](color/)
 [![License](https://img.shields.io/badge/LICENSE-CC%20BY%204.0-ef7d3c?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=555)](LICENSE)
 [![Node.js](https://img.shields.io/badge/NODE.JS-%E2%89%A518-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=555)](https://nodejs.org/)
 [![Bun](https://img.shields.io/badge/BUILT%20WITH-BUN-000000?style=for-the-badge&logo=bun&logoColor=white&labelColor=555)](https://bun.sh/)
+[![Started](https://img.shields.io/badge/STARTED-4%20OCT%202026-d4a000?style=for-the-badge&logo=github&logoColor=white&labelColor=555)](HISTORY.md)
 [![Last commit](https://img.shields.io/github/last-commit/nataliakeniganti/Wimoji?style=for-the-badge&logo=github&label=LAST%20COMMIT&labelColor=555)](https://github.com/nataliakeniganti/Wimoji/commits/main)
 
 Wimoji is an open vector emoji and icon library with a browser-based studio for finding, customizing, and exporting SVG artwork.
