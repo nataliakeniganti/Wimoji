@@ -4,15 +4,15 @@
 [![Generate SVGs](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-svgs.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-svgs.yml)
 [![Generate PNGs](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-pngs.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-pngs.yml)
 [![Generate Fonts](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-fonts.yml/badge.svg)](https://github.com/nataliakeniganti/Wimoji/actions/workflows/generate-fonts.yml)
-[![Latest release](https://img.shields.io/github/v/release/nataliakeniganti/Wimoji)](https://github.com/nataliakeniganti/Wimoji/releases)
-[![npm](https://img.shields.io/npm/v/wimoji)](https://www.npmjs.com/package/wimoji)
-[![Fonts](https://img.shields.io/badge/fonts-9%20formats-2b6cb0)](font/)
-[![Artwork](https://img.shields.io/badge/artwork-SVG%20%2B%20PNG-8a2be2)](color/)
+[![Latest release](https://img.shields.io/github/v/release/nataliakeniganti/Wimoji.svg?style=flat)](https://github.com/nataliakeniganti/Wimoji/releases)
+[![npm](https://img.shields.io/npm/v/wimoji.svg?style=flat)](https://www.npmjs.com/package/wimoji)
+[![Fonts](https://img.shields.io/badge/fonts-9%20formats-2b6cb0.svg?style=flat)](font/)
+[![Artwork](https://img.shields.io/badge/artwork-SVG%20%2B%20PNG-8a2be2.svg?style=flat)](color/)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Node.js >=18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Built with Bun](https://img.shields.io/badge/built%20with-Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
-[![Started](https://img.shields.io/badge/started-4%20Oct%202026-d4a000)](HISTORY.md)
-[![Last commit](https://img.shields.io/github/last-commit/nataliakeniganti/Wimoji)](https://github.com/nataliakeniganti/Wimoji/commits/main)
+[![Started](https://img.shields.io/badge/started-4%20Oct%202026-d4a000.svg?style=flat)](HISTORY.md)
+[![Last commit](https://img.shields.io/github/last-commit/nataliakeniganti/Wimoji.svg?style=flat)](https://github.com/nataliakeniganti/Wimoji/commits/main)
 
 Wimoji is an open vector emoji and icon library with a browser-based studio for finding, customizing, and exporting SVG artwork.
 
